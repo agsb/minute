@@ -13,7 +13,7 @@
 | Alt | c | i | e | a | Spc |  | Enter| h | t | s | n | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
-Lowercase Mode, Alt mode
+## Lowercase Mode, _**Alt**_ mode
 
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -23,7 +23,7 @@ Lowercase Mode, Alt mode
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
 
-Uppercase Mode, Shf Mode 
+## Uppercase Mode, _**Shf**_ Mode 
 
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -32,11 +32,29 @@ Uppercase Mode, Shf Mode
 | Alt | C | I | E | A | Spc |  | Enter| H | T | S | N | _**Shf**_ |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
-Uppercase Mode, Shf Alt mode
+## Uppercase Mode, _**Shf Alt**_ mode
 
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
-| Num | Z | _ | ; | , | ' |   | " | . | : | / | Q | Ctr |
+| Num | Z | ` | ~ | % | * |   | & | $ | ^ | ´ | Q | Ctr |
 | _**Alt**_ | G | X | J | K | ! |  | ? | R | M | F | P | _**Shf**_ |
+|  |  |  |  |  |  |   |  |  |  |  |  |  |
+
+## Numeric Mode, _**Num**_ Mode 
+
+|  |  |  |  |  |  |   |  |  |  |  |  |  |
+| ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
+| pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
+| _**Num**_ | - | + | , | 9 | = |   | Bksp | 0 | . | / | * | Ctr |
+| Alt | 7 | 5 | 1 | 3 | Spc |  | Enter| 4 | 2 | 6 | 8 | _Shf |
+|  |  |  |  |  |  |   |  |  |  |  |  |  |
+
+## Uppercase Mode, _**Num Alt**_ mode
+
+|  |  |  |  |  |  |   |  |  |  |  |  |  |
+| ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
+| pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
+| _**Num**_ |  |  |  |  |  |   |  |  |  |  |  | Ctr |
+| _**Alt**_ | < | [  ] | { }| ( ) |  |  |  |  |  |  |  | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
