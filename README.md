@@ -6,8 +6,16 @@
 
 # By design
 
-    Keyboards could be staggered or gridded or ortholinear and splitted.
+"Today, most full-size keyboards use one of three different mechanical layouts, usually referred to as simply ISO (ISO/IEC 9995-2), ANSI (ANSI-INCITS 154-1988), and JIS (JIS X 6002-1980)", https://en.wikipedia.org/wiki/Computer_keyboard
 
+
+    Keyboards could be staggered or gridded or ortholinear and splitted, also stenotype and chorded. 
+
+    Human Interface Definition - HID, as USB HID interface BIOS implementations only defines 8 modifier keys, usually Ctrl, Shift, Alt, and Win at left and right.
+
+    Eletronics see a key as Column by Line, keys jamming and ghosting can be prevented by adding diodes at lines. Best technology is  "n-key rollover" (NKRO), this means that each key is scanned completely independently by the keyboard hardware. https://en.wikipedia.org/wiki/Rollover_(keyboard)
+
+    Keyboards could be membrane or mechanic keys switches, they have diferent pressure actuation varing from 55-75g to 25-55g 
 # All keyboards
 
 In a common lowercase keyboard, using ASCII characters table, some special keys that access groups of characters or a specific control character.
@@ -34,15 +42,17 @@ As writer, keys are placed in text; As editor, keys controls movements over  tex
 
 # chords and combos
 
-"there are groups for Typing, Control, Function, Navigation, Numeric"
+"there are groups keys for Typing, Control, Function, Navigation, Numeric"
 
 By definition, a chord is pressing keys at same time, a combo is pressing keys in sequence.
 
 Usually a shortcut is pressing two keys at same time, as Shf+Q or Ctr+Q and a toggle alternate between modes of keys, as CapsLock.
 
-chords (simultaneous) or strikes (in order) ?
+What is better chords (simultaneous) or combos (sequences) ?
 
-I prefer make sequences because hitting one key at at time is easier than hitting 
+Why stenography is faster ? It records sounds and uses chords to combos convertion. "The order that you press them down in doesn't matter, only which keys you hit is important." https://www.artofchording.com/ and http://www.openstenoproject.org/
+
+I prefer make combos because hitting one key at at time is easier than hitting 
 two keys at the same time.
 # Only 12 + 12 keys !
 
