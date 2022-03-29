@@ -1,6 +1,8 @@
-# minute
+# Minute keyboard
 
-    A really minute spplited software mapped keyboard
+    A really minute splited software mapped keyboard, using two pads of 6x2 switches.
+
+    Abandon all QWERTY or DVORAK layouts, use a minimal software mapped keyboard.
 
 # By design
 
@@ -8,36 +10,40 @@
 
 # All keyboards
 
-In a common lowercase keyboard, there are special keys that access groups of characters or a specific control character.
+In a common lowercase keyboard, using ASCII characters table, some special keys that access groups of characters or a specific control character.
     
-    A Shift (shf) key access uppercase characters and writer symbols.
+    A Shift (Shf) key access uppercase characters and writer symbols.
     
-    A Numeric (num) key access numbers and math symbols, pherhaps in keypad. https://en.wikipedia.org/wiki/Numeric_keypad
+    A Numeric (Num) key access numbers and math symbols, pherhaps in keypad. https://en.wikipedia.org/wiki/Numeric_keypad
     
-    A Control (ctr) key access control characters, those are bellow space character. https://en.wikipedia.org/wiki/Control_character
+    A Control (Ctr) key access control characters, those are bellow space character. https://en.wikipedia.org/wiki/Control_character
 
-    A Alternate (alt) key access over ASCII character table, as UniCode or UTF-8 tables.
+    A Alternate (Alt) key for functions or access UniCode or UTF-8 tables.
 
-Some Control characters have a specifc key as Carriage Return (Enter, Crtl-m), Backspace (Ctrl-g), Horizontal Tab (Ctrl-i), Line Feed (Ctrl-j), Escape (Ctrl-[). 
+Some Control characters have a dedicated key, Carriage Return (Enter, Crtl-m), Backspace (Ctrl-g), Horizontal Tab (Ctrl-i), Line Feed (Ctrl-j), Escape (Ctrl-[).
 
-TA Caps Lock key holds sft state, and toggles between lowercase and uppercase chars.  
+A CapsLock key holds and toggles between lowercase and uppercase characters.  
 
-In any case a keyboard could be in diferent states, as keys are software mapped to dedicated functions. 
+Also Alt and Ctr keys are used for shortcuts in applications menus as definided keybindings. https://en.wikipedia.org/wiki/Keyboard_shortcut
+
+Many keyboards have extra functionalities mapped with extra keys ( Meta, AltGr, Win, Fn, Menu, etc).
+
+In any case a keyboard could be in diferent states, as keys are software mapped to dedicated functions.
 
 As writer, keys are placed in text; As editor, keys controls movements over  text; As gamer, keys are actions in  game; As ilustrator, keys are actions to compose  image; etc
 
-A especific Alt key is used to extended the ASCII character table by compose a numeric sequence for access UniCode or UTF-8 characters maps.
+# chords and combos
 
-Also alt and ctr keys are used for shortcuts in applications menus as definided keybindings. https://en.wikipedia.org/wiki/Keyboard_shortcut
+"there are groups for Typing, Control, Function, Navigation, Numeric"
 
+By definition, a chord is pressing keys at same time, a combo is pressing keys in sequence.
 
-Many keyboards have extra functionalities mapped with extra keys ( Meta, Alt Gray, ).
+Usually a shortcut is pressing two keys at same time, as Shf+Q or Ctr+Q and a toggle alternate between modes of keys, as CapsLock.
 
-# shortcuts, chords, combos and toggles
+chords (simultaneous) or strikes (in order) ?
 
-By definition, a shortcut is pressing two keys at same time, a chord is pressing more than two keys at same time, a combo is pressing keys in sequence, a toggle alternate between modes of keys.
-
-
+I prefer make sequences because hitting one key at at time is easier than hitting 
+two keys at the same time.
 # Only 12 + 12 keys !
 
 Only 24 keys for all ASCII chars, grouped as 33 control, 26 lowercase, 26 uppercase, 10 digits, 32 symbols.
@@ -54,22 +60,10 @@ Mouse solution:
 Keyboard solution:
     
     Reserve four keys as Alt, Shift, Numeric, Control. 
-    
-    In a common lowercase keyboard, there are special keys that access groups of characters or a specific control character.
-    
-    A Shift key access uppercase characters and writer symbols.
-    
-    A Numeric key access numbers and math symbols, pherhaps in keypad.
-    
-    A Control key access control character, those are bellow space character.
 
-    Some Control characters have a specifc key as Carriage Return (Enter, Crtl-m), Backspace (Ctrl-g), Horizontal Tab (Ctrl-i), Line Feed (Ctrl-j), Escape (Ctrl-[)
-
-    Those are used for combos
-
-    double click holds the state, for use in sequence of keys
+    Those are used for combos, double click holds the state, for use in sequence of keys
     
-    keyboard mapped software and modifiers
+
 
 # 12 + 12 really ?
 
@@ -96,10 +90,7 @@ index and pinky also moves left/rigth, no thumb movement
 
 meta keys Alt, Num at left and Ctrl, Shf right hand 
 
-chords (simultaneous) or strikes (in order) ?
 
-make sequences because hitting one key at at time is easier than hitting 
-two keys at the same time.
 
 and none, one touch, two touch as switches, and combos
 
