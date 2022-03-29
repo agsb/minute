@@ -20,6 +20,7 @@ The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
+  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Num | b | y | o | u | Tab |   | Bksp | l | d | w | v | Ctr |
 | Alt | c | i | e | a | Spc |  | Enter| h | t | s | n | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
@@ -29,6 +30,7 @@ The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | Num | z | _ | ; | , | ' |   | " | . | : | / | q | Ctr |
 | _**Alt**_ | g | x | j | k | ! |  | ? | r | m | f | p | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
@@ -39,6 +41,7 @@ The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | Num | B | Y | O | U | Tab |   | Bksp | L | D | W | V | Ctr |
 | Alt | C | I | E | A | Spc |  | Enter| H | T | S | N | _**Shf**_ |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
@@ -48,6 +51,7 @@ The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | Num | Z | ` | ~ | % | * |   | & | $ | ^ | ´ | Q | Ctr |
 | _**Alt**_ | G | X | J | K | ! |  | ? | R | M | F | P | _**Shf**_ |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
@@ -57,6 +61,7 @@ The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | _**Num**_ | - | + | , | 9 | = |   | Bksp | 0 | . | / | * | Ctr |
 | Alt | 7 | 5 | 1 | 3 | Spc |  | Enter| 4 | 2 | 6 | 8 | _Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
@@ -66,6 +71,7 @@ The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | _**Num**_ |  |  |  |  |  |   |  |  |  |  |  | Ctr |
 | _**Alt**_ | < | [  ] | { }| ( ) |  |  |  |  |  |  |  | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
@@ -83,6 +89,7 @@ The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | Num | Erase | Mark | Select | Find | Insert | | Undo| Home | Up | End | Help | _**Ctr**_ |
 | Alt| Clear | Cut | Copy | Paste | PgUp | | PgDn | Left | Down | Right | | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
@@ -92,6 +99,7 @@ The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | Num | Quit |  |  |  | Close |   | | italics | bold | underscore | | _**Ctr**_ |
 | _**Alt**_ |  | SaveAs | Save | |  Open | |  | |  |  |  | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
@@ -109,20 +117,28 @@ The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
 
 # Extra Modes
 
-## Gamer Mode, using Num Ctrl (left is WASD and right is Mouse)
+## Gamer Mode, using Num Ctrl
+the left hand is a WASD and right hand is a mouse
 
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | _**Num**_ | Menu | Quit | Fwd | Use | Use2 | | | Lmb | Up | Rmb | | _**Ctrl**_ |
 | Alt | Mode | Left | Bwd | Right | Couch | | | Left | Down | Right | | Shitf |
   |  |  |  |  |  |   |  |  |  |  |  |  |
 
-## Gamer Mode, using Num Ctrl _**Alt**_ (left is WASD and right is Mouse)
+## Gamer Mode, using Num Ctrl _**Alt**_ 
+
+the left hand is a WASD and right hand is a mouse
 
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | _**Num**_ | Slot1 | Slot2 | Slot3 | Slot4 | | | | LmbA | ScrUp | Rmb | | _**Ctrl**_ |
 | _**Alt**_ |  |  |  |  |  | | | StrL | SrcDown | StrR | | Shitf |
   |  |  |  |  |  |   |  |  |  |  |  |  |
+
+
+  
