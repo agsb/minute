@@ -1,5 +1,5 @@
 
-# Modes
+# Keyboard maps layouts
 
 |  |  |  | left hand |  |  |   |  |  | right hand |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -9,6 +9,12 @@
 | Alt |  |  |  |  |  |  |  |  |  |  |  | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
+The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
+
+    one touch   combo sequence
+    two touch   toggle mode
+    hold touch  combine 
+# Modes
 ## Lowercase Mode 
 
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
@@ -77,13 +83,19 @@
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
-| Num | Erase | Mark | Select | Find | Insert | | Undo| Home | Up | End | | Ctr |
+| Num | Erase | Mark | Select | Find | Insert | | Undo| Home | Up | End | Help | _**Ctr**_ |
 | Alt| Clear | Cut | Copy | Paste | PgUp | | PgDn | Left | Down | Right | | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
 ## Control Mode, with _**Alt**_
 
-        not defined
+|  |  |  |  |  |  |   |  |  |  |  |  |  |
+| ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
+| pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
+| Num | Quit |  |  |  | Close |   | | italics | bold | underscore | | _**Ctr**_ |
+| _**Alt**_ |  | SaveAs | Save | |  Open | |  | |  |  |  | Shf |
+|  |  |  |  |  |  |   |  |  |  |  |  |  |
+
 
 
 ## Control Mode, with _**Shf**_
@@ -94,7 +106,9 @@
 
         not defined
 
+
 # Extra Modes
+
 ## Gamer Mode, using Num Ctrl (left is WASD and right is Mouse)
 
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
