@@ -1,9 +1,12 @@
 
 # Modes
 
-|  |  |  | left hand|  |  |   |  |  | right hand |  |  |  |
+|  |  |  | left hand |  |  |   |  |  | right hand |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Num |  |  |  |  |  |  |  |  |  |  |  | Ctr |
+| Alt |  |  |  |  |  |  |  |  |  |  |  | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
 ## Lowercase Mode 
