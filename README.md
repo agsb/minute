@@ -9,13 +9,13 @@
 "Today, most full-size keyboards use one of three different mechanical layouts, usually referred to as simply ISO (ISO/IEC 9995-2), ANSI (ANSI-INCITS 154-1988), and JIS (JIS X 6002-1980)", https://en.wikipedia.org/wiki/Computer_keyboard
 
 
-    Keyboards could be staggered or gridded or ortholinear and splitted, also stenotype and chorded. 
+Keyboards could be staggered or gridded or ortholinear and splitted, also stenotype and chorded. 
 
-    Human Interface Definition - HID, as USB HID interface BIOS implementations only defines 8 modifier keys, usually Ctrl, Shift, Alt, and Win at left and right.
+Human Interface Definition - HID, as USB HID interface BIOS implementations only defines 8 modifier keys, usually Ctrl, Shift, Alt, and Win at left and right.
 
-    Eletronics see a key as Column by Line, keys jamming and ghosting can be prevented by adding diodes at lines. Best technology is  "n-key rollover" (NKRO), this means that each key is scanned completely independently by the keyboard hardware. https://en.wikipedia.org/wiki/Rollover_(keyboard)
+Eletronics see a key as Column by Line, keys jamming and ghosting can be prevented by adding diodes at lines. Best technology is  "n-key rollover" (NKRO), this means that each key is scanned completely independently by the keyboard hardware. https://en.wikipedia.org/wiki/Rollover_(keyboard)
 
-    Keyboards could be membrane or mechanic keys switches, they have diferent pressure actuation varing from 55-75g to 25-55g 
+Keyboards could be membrane or mechanic keys switches, they have diferent pressure actuation varing from 55-75g to 25-55g 
 # All keyboards
 
 In a common lowercase keyboard, using ASCII characters table, some special keys that access groups of characters or a specific control character.
@@ -34,7 +34,7 @@ A CapsLock key holds and toggles between lowercase and uppercase characters.
 
 Also Alt and Ctr keys are used for shortcuts in applications menus as definided keybindings. https://en.wikipedia.org/wiki/Keyboard_shortcut
 
-Many keyboards have extra functionalities mapped with extra keys ( Meta, AltGr, Win, Fn, Menu, etc).
+Many keyboards have extra functionalities mapped with extra keys ( Meta, Opt, Cmd, AltGr, Win, Fn, Menu, etc).
 
 In any case a keyboard could be in diferent states, as keys are software mapped to dedicated functions.
 
