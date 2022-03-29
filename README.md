@@ -1,13 +1,15 @@
 # Minute keyboard
 
-    A really minute splited software mapped keyboard, using two pads of 6x2 switches.
+_"Abandon all QWERTY or DVORAK layouts, use a minimal software mapped keyboard."_
 
-    Abandon all QWERTY or DVORAK layouts, use a minimal software mapped keyboard.
+A really minute splited software mapped keyboard, using two pads of 6x2 switches.
+
+![twelvekeys](https://user-images.githubusercontent.com/14941647/160717262-c9a8d2b9-1189-4e50-bd0d-cbb4f8c4e264.png)
+Common https://pt.aliexpress.com/item/1005004000201704.html?gatewayAdapt=glo2bra&spm=a2g0o.order_list.0.0.21efcaa4DzxKIi
 
 # By design
 
-"Today, most full-size keyboards use one of three different mechanical layouts, usually referred to as simply ISO (ISO/IEC 9995-2), ANSI (ANSI-INCITS 154-1988), and JIS (JIS X 6002-1980)", https://en.wikipedia.org/wiki/Computer_keyboard
-
+_"Today, most full-size keyboards use one of three different mechanical layouts, usually referred to as simply ISO (ISO/IEC 9995-2), ANSI (ANSI-INCITS 154-1988), and JIS (JIS X 6002-1980)"_, https://en.wikipedia.org/wiki/Computer_keyboard
 
 Keyboards could be staggered or gridded or ortholinear and splitted, also stenotype and chorded. 
 
