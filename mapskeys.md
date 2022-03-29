@@ -1,4 +1,6 @@
 
+# Modes
+
 |  |  |  | left hand|  |  |   |  |  | right hand |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
@@ -13,7 +15,7 @@
 | Alt | c | i | e | a | Spc |  | Enter| h | t | s | n | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
-## Lowercase Mode, _**Alt**_ mode
+## Lowercase Mode, with _**Alt**_ 
 
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -23,7 +25,7 @@
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
 
-## Uppercase Mode, _**Shf**_ Mode 
+## Uppercase Mode, with _**Shf**_ 
 
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -32,7 +34,7 @@
 | Alt | C | I | E | A | Spc |  | Enter| H | T | S | N | _**Shf**_ |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
-## Uppercase Mode, _**Shf Alt**_ mode
+## Uppercase Mode, with _**Shf Alt**_ 
 
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -41,7 +43,7 @@
 | _**Alt**_ | G | X | J | K | ! |  | ? | R | M | F | P | _**Shf**_ |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
-## Numeric Mode, _**Num**_ Mode 
+## Numeric Mode 
 
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -50,7 +52,7 @@
 | Alt | 7 | 5 | 1 | 3 | Spc |  | Enter| 4 | 2 | 6 | 8 | _Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
-## Numeric Mode, _**Num Alt**_ mode
+## Numeric Mode, with _**Alt**_ 
 
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -59,15 +61,15 @@
 | _**Alt**_ | < | [  ] | { }| ( ) |  |  |  |  |  |  |  | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
-## Numeric Mode, _**Num Shf**_mode
+## Numeric Mode, with _**Shf**_
 
         not defined
 
-## Numeric Mode, _**Num Alt Shf**_mode
+## Numeric Mode, with _**Shf Alt**_
 
         not defined
 
-## Control Mode,  _**Ctrl**_ mode
+## Control Mode,
 
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -76,19 +78,20 @@
 | Alt| Clear | Cut | Copy | Paste | PgUp | | PgDn | Left | Down | Right | | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
-## Control Mode, _**Ctr Alt**_ mode
+## Control Mode, with _**Alt**_
 
         not defined
 
 
-## Control Mode, _**Ctr Shf**_ mode
+## Control Mode, with _**Shf**_
 
         not defined
 
-## Control Mode, _**Ctr Alt Shf**_ mode
+## Control Mode, with _**Shf Alt**_ 
 
         not defined
 
+# Extra Modes
 ## Gamer Mode, using Num Ctrl (left is WASD and right is Mouse)
 
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
