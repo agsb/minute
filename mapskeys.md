@@ -50,7 +50,7 @@
 | Alt | 7 | 5 | 1 | 3 | Spc |  | Enter| 4 | 2 | 6 | 8 | _Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
-## Uppercase Mode, _**Num Alt**_ mode
+## Numeric Mode, _**Num Alt**_ mode
 
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -58,3 +58,51 @@
 | _**Num**_ |  |  |  |  |  |   |  |  |  |  |  | Ctr |
 | _**Alt**_ | < | [  ] | { }| ( ) |  |  |  |  |  |  |  | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
+
+## Numeric Mode, _**Num Shf**_mode
+
+        not defined
+
+## Numeric Mode, _**Num Alt Shf**_mode
+
+        not defined
+
+## Control Mode,  _**Ctrl**_ mode
+
+|  |  |  |  |  |  |   |  |  |  |  |  |  |
+| ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
+| pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
+| Num | Erase | Mark | Select | Find | Insert | | Undo| Home | Up | End | | Ctr |
+| Alt| Clear | Cut | Copy | Paste | PgUp | | PgDn | Left | Down | Right | | Shf |
+|  |  |  |  |  |  |   |  |  |  |  |  |  |
+
+## Control Mode, _**Ctr Alt**_ mode
+
+        not defined
+
+
+## Control Mode, _**Ctr Shf**_ mode
+
+        not defined
+
+## Control Mode, _**Ctr Alt Shf**_ mode
+
+        not defined
+
+## Gamer Mode, using Num Ctrl (left is WASD and right is Mouse)
+
+|  |  |  |  |  |  |   |  |  |  |  |  |  |
+| ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
+| pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
+| _**Num**_ | Menu | Quit | Fwd | Use | Use2 | | | Lmb | Up | Rmb | | _**Ctrl**_ |
+| Alt | Mode | Left | Bwd | Right | Couch | | | Left | Down | Right | | Shitf |
+  |  |  |  |  |  |   |  |  |  |  |  |  |
+
+## Gamer Mode, using Num Ctrl _**Alt**_ (left is WASD and right is Mouse)
+
+|  |  |  |  |  |  |   |  |  |  |  |  |  |
+| ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
+| pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
+| _**Num**_ | Slot1 | Slot2 | Slot3 | Slot4 | | | | LmbA | ScrUp | Rmb | | _**Ctrl**_ |
+| _**Alt**_ |  |  |  |  |  | | | StrL | SrcDown | StrR | | Shitf |
+  |  |  |  |  |  |   |  |  |  |  |  |  |
