@@ -22,13 +22,13 @@ Keyboards could be membrane or mechanic keys switches, they have diferent pressu
 
 In a common lowercase keyboard, using ASCII characters table, some special keys that access groups of characters or a specific control character.
     
-    A Shift (Shf) key access uppercase characters and writer symbols.
+    A Shift (**Shf**) key access uppercase characters and writer symbols.
     
-    A Numeric (Num) key access numbers and math symbols, pherhaps in keypad. https://en.wikipedia.org/wiki/Numeric_keypad
+    A Numeric (**Num**) key access numbers and math symbols, pherhaps in keypad. https://en.wikipedia.org/wiki/Numeric_keypad
     
-    A Control (Ctr) key access control characters, those are bellow space character. https://en.wikipedia.org/wiki/Control_character
+    A Control (**Ctr**) key access control characters, those are bellow space character. https://en.wikipedia.org/wiki/Control_character
 
-    A Alternate (Alt) key for functions or access UniCode or UTF-8 tables.
+    A Alternate (**Alt**) key for functions or access UniCode or UTF-8 tables.
 
 Some Control characters have a dedicated key, Carriage Return (Enter, Crtl-m), Backspace (Ctrl-g), Horizontal Tab (Ctrl-i), Line Feed (Ctrl-j), Escape (Ctrl-[).
 
