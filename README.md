@@ -58,7 +58,7 @@ In any case a keyboard could be in diferent states, and keys are software mapped
 
 _"there are groups keys for Typing, Control, Function, Navigation, Numeric"_
 
-By definition, a chord is pressing keys at same time, a combo is pressing keys in sequence.
+By definition, a chord is pressing keys at same time, a combo is pressing keys in sequence. Anyway, results in a sequence of keys from device keyboard controler to host computer.
 
 Usually a shortcut is pressing two keys at same time, as Shft+q for uppercase q, Shft+2 for at sign, Ctrl+c for Copy, Ctrl+v for Paste, etc
 
@@ -81,7 +81,7 @@ Only 24 keys for all ASCII chars, grouped as 33 control, 26 lowercase, 26 upperc
 
 Also for special functions keys (PgUp, PgDn, Up, Down, Left, Right, Cut, Copy, Paste, Ins, Home, End, Find, Replace, Mark, Erase, Undo, Clear, Menu, Quit, Open, Close, etc)  
 
-Also for specific dedicaded taks as games, mouse, drawing, stations, etc ?
+Also for specific dedicaded tasks as games, mouse, drawing, stations, etc ?
 # Make it simple 
 
 Mouse solution: 
