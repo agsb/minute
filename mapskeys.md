@@ -100,11 +100,9 @@ The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Num | Quit |  |  |  | Close |   | | italics | bold | underscore | | _**Ctr**_ |
-| _**Alt**_ |  | SaveAs | Save | |  Open | |  | |  |  |  | Shf |
+| Num | Quit |  Bkwd| Play | Frwd | |   | | mute | less | more | | _**Ctr**_ |
+| _**Alt**_ |  | SaveAs | Save | Close |  Open | |  | bold | italics | under |  | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
-
-
 
 ## Control Mode, with _**Shf**_
 
@@ -113,7 +111,6 @@ The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
 ## Control Mode, with _**Shf Alt**_ 
 
         not defined
-
 
 # Extra Modes
 
