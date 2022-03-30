@@ -77,7 +77,7 @@ It records sounds and uses chords to combos convertion. "The order that you pres
 
 # Only 12 + 12 keys !
 
-The Minute keyboard is a new aprouch of The Uni, https://github.com/petercpark/The_Uni, from stenograpfy to typewriter and reduced to 24 keys.
+The Minute keyboard is a new aprouch of The Uni, https://github.com/petercpark/The_Uni, from stenograpfy to typewriter and reduced to only 24 keys.
 
 Only 24 keys for all ASCII chars, grouped as 33 control, 26 lowercase, 26 uppercase, 10 digits, 32 symbols ?
 
@@ -151,6 +151,8 @@ The engram layout for a classic five rows by 58 keys or ergonomic five rows by 6
 "By ETAOIN SRHLDCU !", the _minute keyboard_ must envolve and simplify it for 20 keys in 16 mapped layouts. 
 
 The good point ? The minute does not need old layouts adaptative training, it's a complete new aprouch.
+
+Where is the mapped layouts ? 
 
 # Extras 
 
