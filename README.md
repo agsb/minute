@@ -11,13 +11,13 @@ Common https://pt.aliexpress.com/item/1005004000201704.html?gatewayAdapt=glo2bra
 
 _"Today, most full-size keyboards use one of three different mechanical layouts, usually referred to as simply ISO (ISO/IEC 9995-2), ANSI (ANSI-INCITS 154-1988), and JIS (JIS X 6002-1980)"_, https://en.wikipedia.org/wiki/Computer_keyboard
 
-Keyboards could be staggered or gridded or ortholinear and splitted, also stenotype and chorded. 
+Keyboards could be staggered or ortholinear or ergonomic, and splitted. Also exists stenotype and chorded. 
 
 On a staggered keyboard, keys are at same box, with lines of keys in parallel and columns of keys in tilted vertical, about 22º right for both hands, causing Repetitive Strain Injury (RSI) in most of continous use. It's a reminder of last century, when mechanical thin bars did the typographic work and needed space between to not jam. 
 
-On a gridded keyboard, keys are at same box, both lines and columns aligned, but still causing Carpal Tunnel Syndrome (CTS) as continous use.
+On a orthonormal keyboard, keys are at same box, both lines and columns aligned, but still causing Carpal Tunnel Syndrome (CTS) as continous use.
 
-On a ortholinear keyboard, as a gridded, lines are aligned but columns have small displacements as lenght of index, middle, ring and pinky fingers.
+On a ergonomic keyboard, as a orthonormal, lines are aligned but columns have small displacements as lenght of index, middle, ring and pinky fingers.
 
 Those types of keyboards could have a separation near half to allow a confortable position for both hands. Many use same box with a fixed central openning angle, the user can not adjust it for best personal positions as in a full corded splitted ones. 
 
@@ -132,15 +132,44 @@ each other key could be mapped into multiple values that depends of modifiers st
 
 All operational systems allow software mapping for keyboard, some keyboards do mapping inside.
 
-But which map layout ? A historical QWERTY or revised DVORAK ? 
+But which keys layout ? A historical QWERTY or a revised DVORAK ? 
 
-Reviews of frequency letters, digrams, like Colemak https://colemak.com/, or Workman https://workmanlayout.org/
+Or reviews of frequency letters, digrams, like Colemak https://colemak.com/, or Workman https://workmanlayout.org/ ?
+
+Or a layout based on frequencies and finger movements, in classic or personal chosen texts, from Carpalx http://mkweb.bcgsc.ca/carpalx/ ?
+
+All those are most based in thousands of classic texts, maybe from centuries ago, but today where we can search and analyse thousands texts ? Answer is Google. https://ai.googleblog.com/2006/08/all-our-n-gram-are-belong-to-you.html. 
+
+The n-gram analysis are already done in http://www.norvig.com/mayzner.html and a confortable layout in https://www.preprints.org/manuscript/202103.0287/v1, explained at https://engram.dev/
+
+The engram layout for a classic five rows by 58 keys or ergonomic five rows by 62 keys.
+
+The _minute keyboard_ must envolve and simplify it for 20 keys in mapped layouts. 
 
 
+PS.
+The full list of google ngram tags is as follows:
+| | |
+|---|---|
+| _NOUN_ | These tags can either stand alone (_PRON_) or can be appended to a word (she_PRON) |
+| _VERB_ | verb |
+| _ADJ_	| adjective |
+| _ADV_	| adverb |
+| _PRON_ | pronoun |
+| _DET_	| determiner or article |
+| _ADP_	| an adposition: either a preposition or a postposition |
+| _NUM_	| numeral |
+| _CONJ_ | conjunction |
+| _PRT_	| particle |
+| _ROOT_ | root of the parse tree These tags must stand alone (e.g., _START_) |
+| _START_ |	start of a sentence |
+| _END_	| end of a sentence |
+| | |
 
 
+# License
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
