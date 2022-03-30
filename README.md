@@ -144,7 +144,7 @@ The n-gram analysis are already done in http://www.norvig.com/mayzner.html and a
 
 The engram layout for a classic five rows by 58 keys or ergonomic five rows by 62 keys.
 
-The _minute keyboard_ must envolve and simplify it for 20 keys in mapped layouts. 
+"By ETAOIN SRHLDCU !", the _minute keyboard_ must envolve and simplify it for 20 keys in 16 mapped layouts. 
 
 
 PS.
