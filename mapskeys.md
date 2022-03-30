@@ -31,8 +31,8 @@ The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Num | z | _ | ; | , | ' |   | " | . | : | / | q | Ctr |
-| _**Alt**_ | g | x | j | k | ! |  | ? | r | m | f | p | Shf |
+| Num | z | _ underscore | ; semicolon | , comma| ' tick |   | " quote| . period | : colon | / slash | q | Ctr |
+| _**Alt**_ | g | x | j | k | ! exclamation |  | ? question | r | m | f | p | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
 
@@ -52,8 +52,8 @@ The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Num | Z | ` | ~ | % | * |   | & | $ | ^ | ´ | Q | Ctr |
-| _**Alt**_ | G | X | J | K | ! |  | ? | R | M | F | P | _**Shf**_ |
+| Num | Z | ` acute| ~ tilde | % percent | * asterisk |   | & ampersand | $ | ^ carat | ´ grave | Q | Ctr |
+| _**Alt**_ | G | X | J | K | ! exclamation |  | ? question | R | M | F | P | _**Shf**_ |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
 ## Numeric Mode 
@@ -62,8 +62,8 @@ The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| _**Num**_ | - | + | , | 9 | = |   | Bksp | 0 | . | / | * | Ctr |
-| Alt | 7 | 5 | 1 | 3 | Spc |  | Enter| 4 | 2 | 6 | 8 | _Shf |
+| _**Num**_ | - minus | + plus | , comma | 9 | = equal |   | Bksp | 0 | . period | / divide | * multiply| Ctr |
+| Alt | 7 | 5 | 1 | 3 | Spc |  | Enter| 4 | 2 | 6 | 8 | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
 ## Numeric Mode, with _**Alt**_ 
@@ -73,7 +73,7 @@ The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | _**Num**_ |  |  |  |  |  |   |  |  |  |  |  | Ctr |
-| _**Alt**_ | < | [  ] | { }| ( ) |  |  |  |  |  |  |  | Shf |
+| _**Alt**_ | < > angle | [  ] brackets | { } braces | ( ) parenthesis| \| pipe |  |  |  |  |  |  | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
 ## Numeric Mode, with _**Shf**_

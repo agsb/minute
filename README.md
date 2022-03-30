@@ -134,7 +134,7 @@ All operational systems allow software mapping for keyboard, some keyboards do m
 
 But which keys layout ? A historical QWERTY or a revised DVORAK ? 
 
-Or reviews of frequency letters, digrams, like Colemak https://colemak.com/, or Workman https://workmanlayout.org/ ?
+Or reviews like Colemak https://colemak.com/, or Halmak https://github.com/MadRabbit/halmak or Workman https://workmanlayout.org/ ?
 
 Or a layout based on frequencies and finger movements, in classic or personal chosen texts, from Carpalx http://mkweb.bcgsc.ca/carpalx/ ?
 
@@ -146,8 +146,12 @@ The engram layout for a classic five rows by 58 keys or ergonomic five rows by 6
 
 "By ETAOIN SRHLDCU !", the _minute keyboard_ must envolve and simplify it for 20 keys in 16 mapped layouts. 
 
+The good point ? The minute does not need old layouts adaptative training, it's a complete new aprouch.
 
-PS.
+# Extras 
+
+## google ngrams tags
+
 The full list of google ngram tags is as follows:
 | | |
 |---|---|
