@@ -1,68 +1,87 @@
-# Minute keyboard
+# A Minute keyboard
 
 _"Abandon all QWERTY or DVORAK layouts, use a minimal software mapped keyboard."_
 
-A really minute splited software mapped keyboard, using two pads of 6x2 switches.
+A really minute splited software mapped keyboard, using two pads of twwelve (6x2) switches.
 
 ![twelvekeys](https://user-images.githubusercontent.com/14941647/160717262-c9a8d2b9-1189-4e50-bd0d-cbb4f8c4e264.png)
 Common https://pt.aliexpress.com/item/1005004000201704.html?gatewayAdapt=glo2bra&spm=a2g0o.order_list.0.0.21efcaa4DzxKIi
 
-# By design
+# By design 
 
 _"Today, most full-size keyboards use one of three different mechanical layouts, usually referred to as simply ISO (ISO/IEC 9995-2), ANSI (ANSI-INCITS 154-1988), and JIS (JIS X 6002-1980)"_, https://en.wikipedia.org/wiki/Computer_keyboard
 
 Keyboards could be staggered or gridded or ortholinear and splitted, also stenotype and chorded. 
 
-Human Interface Definition - HID, as USB HID interface BIOS implementations only defines 8 modifier keys, usually Ctrl, Shift, Alt, and Win at left and right.
+On a staggered keyboard, keys are at same box, with lines of keys in parallel and columns of keys in tilted vertical, about 22º right for both hands, causing Repetitive Strain Injury (RSI) in most of continous use. It's a reminder of last century, when mechanical thin bars did the typographic work and needed space between to not jam. 
 
-Eletronics see a key as Column by Line, keys jamming and ghosting can be prevented by adding diodes at lines. Best technology is  "n-key rollover" (NKRO), this means that each key is scanned completely independently by the keyboard hardware. https://en.wikipedia.org/wiki/Rollover_(keyboard)
+On a gridded keyboard, keys are at same box, both lines and columns aligned, but still causing Carpal Tunnel Syndrome (CTS) as continous use.
 
-Keyboards could be membrane or mechanic keys switches, they have diferent pressure actuation varing from 55-75g to 25-55g 
+On a ortholinear keyboard, as a gridded, lines are aligned but columns have small displacements as lenght of index, middle, ring and pinky fingers.
+
+Those types of keyboards could have a separation near half to allow a confortable position for both hands. Many use same box with a fixed central openning angle, the user can not adjust it for best personal positions as in a full corded splitted ones. 
+
+Keyboards could be membrane or mechanic keys switches, they have diferent pressure actuation varing from 55-75g to 25-55g. 
+
+# Hardware and Software
+
+Eletronics see a key as Column by Line, in a multiplexed grid, keys jamming and ghosting can be prevented by adding diodes at lines. Best technology is "n-key rollover" (NKRO), this means that each key is scanned completely independently by the keyboard hardware. https://en.wikipedia.org/wiki/Rollover_(keyboard)
+
+In any case, a chord of keys is always mapped as individual keys in a sequence defined by some order. Eg. Ctrl+a, Ctrl+Shift+a, Ctrl+Alt+Del.
+
+Human Interface Definition - HID, most systems support all 104 keys on the IBM AT-101 layout, plus the three extra keys designed for Microsoft Windows 95 (the left and right Windows key, and the Menu key). Many systems also support additional keys on basic country layouts. 
+
+the USB HID interface BIOS implementations defines just 8 modifier keys, usually Ctrl, Shift, Alt, and Win at left and right.
 # All keyboards
 
 In a common lowercase keyboard, using ASCII characters table, some special keys that access groups of characters or a specific control character.
     
-    A Shift (**Shf**) key access uppercase characters and writer symbols.
+    A Shift ( Shf ) key access uppercase characters and writer symbols.
     
-    A Numeric (**Num**) key access numbers and math symbols, pherhaps in keypad. https://en.wikipedia.org/wiki/Numeric_keypad
+    A Numeric ( Num ) key access numbers and math symbols, pherhaps in keypad. https://en.wikipedia.org/wiki/Numeric_keypad
     
-    A Control (**Ctr**) key access control characters, those are bellow space character. https://en.wikipedia.org/wiki/Control_character
+    A Control ( Ctr ) key access control characters, those are bellow space character. https://en.wikipedia.org/wiki/Control_character
 
-    A Alternate (**Alt**) key for functions or access UniCode or UTF-8 tables.
+    A Alternate ( Alt ) key for functions or access UniCode or UTF-8 tables.
 
 Some Control characters have a dedicated key, Carriage Return (Enter, Crtl-m), Backspace (Ctrl-g), Horizontal Tab (Ctrl-i), Line Feed (Ctrl-j), Escape (Ctrl-[).
 
 A CapsLock key holds and toggles between lowercase and uppercase characters.  
 
-Also Alt and Ctr keys are used for shortcuts in applications menus as definided keybindings. https://en.wikipedia.org/wiki/Keyboard_shortcut
+Also Alt and Ctr keys are used for shortcuts in applications menus as keybindings. https://en.wikipedia.org/wiki/Keyboard_shortcut
 
-Many keyboards have extra functionalities mapped with extra keys ( Meta, Opt, Cmd, AltGr, Win, Fn, Menu, etc).
+Many keyboards have extra keys (Meta, Opt, Cmd, AltGr, Win, Fn, Menu, etc) specifc for use of operational system.
 
-In any case a keyboard could be in diferent states, as keys are software mapped to dedicated functions.
+In any case a keyboard could be in diferent states, and keys are software mapped to dedicated functions. As writer, keys are placed in text; As editor, keys controls movements over  text; As gamer, keys are actions in  game; As ilustrator, keys are actions to compose  image; etc
 
-As writer, keys are placed in text; As editor, keys controls movements over  text; As gamer, keys are actions in  game; As ilustrator, keys are actions to compose  image; etc
+# Chords and Combos
 
-# chords and combos
-
-"there are groups keys for Typing, Control, Function, Navigation, Numeric"
+_"there are groups keys for Typing, Control, Function, Navigation, Numeric"_
 
 By definition, a chord is pressing keys at same time, a combo is pressing keys in sequence.
 
-Usually a shortcut is pressing two keys at same time, as Shf+Q or Ctr+Q and a toggle alternate between modes of keys, as CapsLock.
+Usually a shortcut is pressing two keys at same time, as Shft+q for uppercase q, Shft+2 for at sign, Ctrl+c for Copy, Ctrl+v for Paste, etc
+
+this is a practice from old text terminals, where ASCII control characters are access by pressing two keys. Eg. the codes DC1 to DC4 mapped aka Ctrl+q, Ctrl+r, Ctrl+s and Ctrl+t, are used for terminal control, as Ctrl+s is DC3 to mean "please, stop sending", Ctrl+q is DC1 to mean "ok, continue sending now", etc.
+
+The CapsLock acts as a toggle, to alternate between lowercase and uppercase modes of letters.
 
 What is better chords (simultaneous) or combos (sequences) ?
 
-Why stenography is faster ? It records sounds and uses chords to combos convertion. "The order that you press them down in doesn't matter, only which keys you hit is important." https://www.artofchording.com/ and http://www.openstenoproject.org/
-
 I prefer make combos because hitting one key at at time is easier than hitting 
-two keys at the same time.
+two keys at the same time, with the bonus that order matters.
+
+Why stenography is faster ? 
+
+It records sounds and uses chords to combos convertion. "The order that you press them down in doesn't matter, only which keys you hit is important." https://www.artofchording.com/ and http://www.openstenoproject.org/
+
 # Only 12 + 12 keys !
 
-Only 24 keys for all ASCII chars, grouped as 33 control, 26 lowercase, 26 uppercase, 10 digits, 32 symbols.
+Only 24 keys for all ASCII chars, grouped as 33 control, 26 lowercase, 26 uppercase, 10 digits, 32 symbols ?
 
-Also for special functions keys (PgUp, PgDn, Up, Down, Left, Right, Cut, Copy, Paste, Ins, Home, End, Find, Replace, Mark, Erase, Undo, Clear, Menu, Quit, Open, Close,)  
+Also for special functions keys (PgUp, PgDn, Up, Down, Left, Right, Cut, Copy, Paste, Ins, Home, End, Find, Replace, Mark, Erase, Undo, Clear, Menu, Quit, Open, Close, etc)  
 
-Also for specific dedicaded taks as games, mouse, drawing, stations, etc
+Also for specific dedicaded taks as games, mouse, drawing, stations, etc ?
 # Make it simple 
 
 Mouse solution: 
@@ -71,50 +90,52 @@ Mouse solution:
 
 Keyboard solution:
     
-    Reserve four keys as Alt, Shift, Numeric, Control. 
+    Reserve four keys as Alternate, Shift, Numeric, Control, as HID defined. 
 
-    Those are used for combos, double click holds the state, for use in sequence of keys
+    Those are used for combos, double click holds the state, for use in sequences of keys.
     
-
-
 # 12 + 12 really ?
 
-Combine Alt, Shift as (none, Alt, Shift, Shift Alt), 
+Assign 20 keys.
+
+Combine Alt, Shf as (none, Alt, Shf, Shf Alt), 
     then 20 * 4  = 80 combos
 
-Combine Num, Ctrl as (Num, Ctrl, Num Edit), 
-    then 80 * 3 = 240 combos
+Combine Num, Ctr as (None, Num, Ctr, Num Ctr), 
+    then 20 * 4 * 4 = 320 combos
 
 Sixteen keyboard maps of 20 keys. Total de 320 combos !
 
-Most used symbols are distributed
+# ideas
 
+Two boxes for keyboards and one box for main controler and USB connection to PC.
+
+Use of I2C or IR for comunication between boxes. I2C need physical cable and IR could cause interference in/to IR 3800 Hz devices.
+
+If all is cable connected, the power could be from USB connector as 5V and GND.
 # Reasoning
 
 "The behavior should not astonish or surprise users"
 Principle of least astonishment, https://en.wikipedia.org/wiki/Principle_of_least_astonishment
 
+The fingers index, middle, ring and pinky moves up/down, index and pinky also moves left/rigth.
 
+Confortable no thumb movement.
 
-fingers index, middle, ring and pinky moves up/down, 
+Modifiers keys Alt Num at , and Ctrl Shf right hand.
 
-index and pinky also moves left/rigth, no thumb movement
+and none, one touch, two touch as switches, and combos.
 
-meta keys Alt, Num at left and Ctrl, Shf right hand 
-
-
-
-and none, one touch, two touch as switches, and combos
-
-maped strikes M1-Num, M1-Ctrl, M1-Meta, Num-M1, Num-Ctrl, Num-Meta, 
-
-Ctrl-M1, Ctrl-Num, Ctrl-Meta, Meta-M1, Meta-Num, Meta-Ctrl
-
-each other key be mapped as  multiple values that depends of meta state
+each other key could be mapped into multiple values that depends of modifiers states.
 
 # Mapped Keyboards
 
-All operational systems allow software mapping for keyboard
+All operational systems allow software mapping for keyboard, some keyboards do mapping inside.
+
+But which map layout ? A historical QWERTY or revised DVORAK ? 
+
+Reviews of frequency letters, digrams, like Colemak https://colemak.com/, or Workman https://workmanlayout.org/
+
 
 
 
