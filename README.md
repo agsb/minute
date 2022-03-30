@@ -104,9 +104,11 @@ Combine Alt, Shf as (none, Alt, Shf, Shf Alt),
 Combine Num, Ctr as (None, Num, Ctr, Num Ctr), 
     then 20 * 4 * 4 = 320 combos
 
-Sixteen keyboard maps of 20 keys. Total de 320 combos !
+Sixteen keyboard maps of 20 keys. Total de 320 combos keys !
 
-# ideas
+Think as that maps are layout layers over same  designed  keys.
+
+# Ideas
 
 Two boxes for keyboards and one box for main controler and USB connection to PC.
 
@@ -150,6 +152,16 @@ The good point ? The minute does not need old layouts adaptative training, it's 
 
 # Extras 
 
+## UTF-8 pages
+
+    in progress
+## Usual bigrams and trigrams
+
+    in progress
+
+## Programming 
+
+    in progress
 ## google ngrams tags
 
 The full list of google ngram tags is as follows:
