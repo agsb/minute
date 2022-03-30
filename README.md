@@ -34,7 +34,7 @@ Human Interface Definition - HID, most systems support all 104 keys on the IBM A
 the USB HID interface BIOS implementations defines just 8 modifier keys, usually Ctrl, Shift, Alt, and Win at left and right.
 # All keyboards
 
-In a common lowercase keyboard, using ASCII characters table, some special keys that access groups of characters or a specific control character.
+In a common lowercase keyboard, using ASCII characters table, some special keys, aka dead keys, that access groups of characters or a specific control character.
     
     A Shift ( Shf ) key access uppercase characters and writer symbols.
     
@@ -50,7 +50,7 @@ A CapsLock key holds and toggles between lowercase and uppercase characters.
 
 Also Alt and Ctr keys are used for shortcuts in applications menus as keybindings. https://en.wikipedia.org/wiki/Keyboard_shortcut
 
-Many keyboards have extra keys (Meta, Opt, Cmd, AltGr, Win, Fn, Menu, etc) specifc for use of operational system.
+Many keyboards have extra keys (Compose, Meta, Alternate, Option, Command, Alternate Gr, Windows, Function, Menu, etc) specifc for use of operational system.
 
 In any case a keyboard could be in diferent states, and keys are software mapped to dedicated functions. As writer, keys are placed in text; As editor, keys controls movements over  text; As gamer, keys are actions in  game; As ilustrator, keys are actions to compose  image; etc
 
@@ -124,7 +124,7 @@ The fingers index, middle, ring and pinky moves up/down, index and pinky also mo
 
 Confortable no thumb movement.
 
-Modifiers keys Alt Num at , and Ctrl Shf right hand.
+Modifiers keys Alt Num at left hand, and Ctrl Shf right hand.
 
 and none, one touch, two touch as switches, and combos.
 
@@ -159,6 +159,9 @@ The good point ? The minute does not need old layouts adaptative training, it's 
 
     in progress
 
+## Usual Diacriticals
+
+    in progress
 ## Programming 
 
     in progress
