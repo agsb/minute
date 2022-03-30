@@ -31,7 +31,7 @@ The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Num | z | _ underscore | ; semicolon | , comma| ' tick |   | " quote| . period | : colon | / slash | q | Ctr |
+| Num | z | _ underscore |  , comma | ; semicolon | ' tick |   | " quote|  : colon | . period | / slash | q | Ctr |
 | _**Alt**_ | g | x | j | k | ! exclam|  | ? question | r | m | f | p | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
@@ -53,7 +53,7 @@ The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | Num | Z | ` acute| ~ tilde | % percent | * asterisk |   | & ampersand | $ | ^ carat | ´ grave | Q | Ctr |
-| _**Alt**_ | G | X | J | K | \|  pipe |  | @ at sign | R | M | F | P | _**Shf**_ |
+| _**Alt**_ | G | X | J | K | \| pipe |  | @ at sign | R | M | F | P | _**Shf**_ |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
 ## Numeric Mode 
@@ -73,7 +73,7 @@ The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | _**Num**_ |  |  |  |  |  |   |  |  |  |  |  | Ctr |
-| _**Alt**_ | < > angle | [  ] brackets | { } braces | ( ) parenthesis| \| pipe |  |  |  |  |  |  | Shf |
+| _**Alt**_ | < > angles | [  ] brackets | { } braces | ( ) parenthesis|  |  |  |  |  |  |  | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
 ## Numeric Mode, with _**Shf**_
