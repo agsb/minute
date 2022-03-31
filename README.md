@@ -77,7 +77,13 @@ It records sounds and uses chords to combos convertion. "The order that you pres
 
 # Only 12 + 12 keys !
 
-The Minute keyboard is a new aprouch of The Uni, https://github.com/petercpark/The_Uni, from stenograpfy to typewriter and reduced to only 24 keys.
+The Minute keyboard is a new aprouch of The Uni, https://github.com/petercpark/The_Uni, from stenograpfy to typewriter and reduced to only 24 keys, with partial design from ErgoDOx.
+
+### Left hand
+![Left hand](https://user-images.githubusercontent.com/14941647/160960426-be994241-1696-4372-88c3-1701e45b9ea9.png)
+
+### right hand
+![Right hand](https://user-images.githubusercontent.com/14941647/160960614-ec4c503b-88a6-479c-878a-d402c8652f1c.png)
 
 Only 24 keys for all ASCII chars, grouped as 33 control, 26 lowercase, 26 uppercase, 10 digits, 32 symbols ?
 
