@@ -22,7 +22,7 @@ Eletronics see a key as Column by Line, in a multiplexed grid, keys jamming and 
 
 In any case, a chord of keys is always mapped as individual keys in a sequence defined by some order. Eg. Ctrl+a, Ctrl+Shift+a, Ctrl+Alt+Del.
 
-Human Interface Definition - HID, most systems support all 104 keys on the IBM AT-101 layout, plus the three extra keys designed for Microsoft Windows 95 (the left and right Windows key, and the Menu key). Many systems also support additional keys on basic country layouts. 
+Human Interface Definition - HID, https://www.usb.org/sites/default/files/hid1_11.pdf, most systems support all 104 keys on the IBM AT-101 layout, plus the three extra keys designed for Microsoft Windows 95 (the left and right Windows key, and the Menu key). Many systems also support additional keys on basic country layouts. 
 
 the USB HID interface BIOS implementations defines just 8 modifier keys, usually Ctrl, Shift, Alt, and Win at left and right.
 # All keyboards
@@ -31,7 +31,7 @@ In a common lowercase keyboard, using ASCII characters table, some special keys,
     
     A Shift ( Shf ) key access uppercase characters and writer symbols.
     
-    A Numeric ( Num ) key access numbers and math symbols, pherhaps in keypad. https://en.wikipedia.org/wiki/Numeric_keypad
+    A Numeric ( Gui ) key access numbers and math symbols, pherhaps in keypad. https://en.wikipedia.org/wiki/Numeric_keypad
     
     A Control ( Ctr ) key access control characters, those are bellow space character. https://en.wikipedia.org/wiki/Control_character
 
@@ -69,6 +69,8 @@ Why stenography is faster ?
 It records sounds and uses chords to combos convertion. "The order that you press them down in doesn't matter, only which keys you hit is important." https://www.artofchording.com/ and http://www.openstenoproject.org/
 
 # Ideas
+
+Why not name the four modifier keys as Shift and Ctrl, left and right ?
 
 Two boxes for keyboards and one box for main controler and USB connection to PC.
 
