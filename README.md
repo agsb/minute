@@ -80,10 +80,10 @@ It records sounds and uses chords to combos convertion. "The order that you pres
 The Minute keyboard is a new aprouch of The Uni, https://github.com/petercpark/The_Uni, from stenograpfy to typewriter and reduced to only 24 keys, with partial design from ErgoDOx.
 
 ### Left hand
-![Left hand](https://user-images.githubusercontent.com/14941647/160960426-be994241-1696-4372-88c3-1701e45b9ea9.png)
+![Left hand](https://user-images.githubusercontent.com/14941647/160960426-be994241-1696-4372-88c3-1701e45b9ea9.png) by http://kle-render.herokuapp.com/
 
-### right hand
-![Right hand](https://user-images.githubusercontent.com/14941647/160960614-ec4c503b-88a6-479c-878a-d402c8652f1c.png)
+### Right hand
+![Right hand](https://user-images.githubusercontent.com/14941647/160960614-ec4c503b-88a6-479c-878a-d402c8652f1c.png) by http://kle-render.herokuapp.com/
 
 Only 24 keys for all ASCII chars, grouped as 33 control, 26 lowercase, 26 uppercase, 10 digits, 32 symbols ?
 
