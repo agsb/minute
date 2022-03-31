@@ -13,7 +13,7 @@ USBHID.check.md
  | nomap | KEY_MOD_RALT | 0x40 |  |
  | nomap | KEY_MOD_RMETA | 0x80 |  |
 
-## USB HID mapped type keys
+## USB HID states codes
 
  |  |   |  |
 | ------ | ------ | ------ |
@@ -21,6 +21,11 @@ USBHID.check.md
  | nomap | KEY_ERR_OVF | 0x01 | // Keyboard Error Roll Over - used for all slots if too many keys are pressed ("Phantom key") |
  | nomap | KEY_ERR_PST | 0x02 | // Keyboard POST Fail |
  | nomap | KEY_ERR_NDF | 0x03 | // Keyboard Error Undefined |
+
+## USB HID mapped typed keys
+
+ |  |   |  |
+| ------ | ------ | ------ |
  | nomap | KEY_A | 0x04 | // Keyboard a and A |
  | nomap | KEY_B | 0x05 | // Keyboard b and B |
  | nomap | KEY_C | 0x06 | // Keyboard c and C |
