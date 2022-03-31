@@ -109,7 +109,7 @@ The keys Alt, Shf, Num, Ctr are special and used to change the keybord map, by:
 
         not defined
 
-## Control Mode, with _**Shf Alt**_ 
+## Control Mode, with _**Shf Alt**_
 
         not defined
 
@@ -137,6 +137,3 @@ the left hand is a WASD and right hand is a mouse
 | _**Num**_ | Slot1 | Slot2 | Slot3 | Slot4 | | | | LmbA | ScrUp | Rmb | | _**Ctrl**_ |
 | _**Alt**_ |  |  |  |  |  | | | StrL | SrcDown | StrR | | Shitf |
   |  |  |  |  |  |   |  |  |  |  |  |  |
-
-
-  
