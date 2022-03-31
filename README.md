@@ -77,7 +77,9 @@ The _minute keyboard_ must envolve and simplify Engram layout, for 20 keys in 16
 
 The good point ? it's a new overiew.
 
-Where is the keyboard mapped layouts ? https://github.com/agsb/minute/blob/main/Keymaps.md
+## Mapped layouts
+
+Where are the keyboard mapped layouts ? https://github.com/agsb/minute/blob/main/Keymaps.md
 # License
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
