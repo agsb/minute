@@ -75,7 +75,7 @@ The Engram is systematic approach for confortable keyboard layout, done by Arno 
 
 The _minute keyboard_ must envolve and simplify Engram layout, for 20 keys in 16 mapped layouts.
 
-The good point ? it's a complete new aprouch.
+The good point ? it's a new overiew.
 
 Where is the keyboard mapped layouts ? https://github.com/agsb/minute/blob/main/Keymaps.md
 # License
