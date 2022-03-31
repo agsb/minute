@@ -1,6 +1,8 @@
 # A Minute keyboard
 
-_"Abandon all QWERTY or DVORAK layouts, use a minimal software mapped keyboard."_
+_"Abandon all QWERTY all ye who enter here"_, https://www.bbc.com/worklife/article/20180521-why-we-cant-give-up-this-odd-way-of-typing
+
+forget QWERTY or DVORAK layouts, use a minimal software mapped keyboard.
 
 A really minute splited software mapped keyboard, using two pads of twelve (6x2) switches.
 
@@ -13,7 +15,7 @@ Minute keyboard is a new keyboard design, similar to The Uni, <https://github.co
 
 ![Right hand](https://user-images.githubusercontent.com/14941647/160960614-ec4c503b-88a6-479c-878a-d402c8652f1c.png) by <http://kle-render.herokuapp.com/>
 
-# Only 12 + 12 keys
+# Only 12 + 12 keys ?
 
 Only 24 keys ?
 
@@ -21,7 +23,7 @@ For all ASCII chars, grouped as 33 control, 26 lowercase, 26 uppercase, 10 digit
 
 Also for special functions keys (PgUp, PgDn, Up, Down, Left, Right, Cut, Copy, Paste, Ins, Home, End, Find, Replace, Mark, Erase, Undo, Clear, Menu, Quit, Open, Close, Refresh, Stop, Continue, Apply, Lower, Raise, etc)  
 
-Also for specific dedicaded tasks as games, mouse, drawing, stations, etc ?
+Also for specific dedicaded actions as games, drawing, tasks, stations, etc ?
 
 # Make it simple
 
@@ -33,27 +35,25 @@ The minute uses only four dead keys, named as Alt, Gui, Shf (Shift), Ctr (Contro
 
 Several combinations could be used for sequences of keys, eg. one click, for combos, double click, for toggle. 
 
-# 12 + 12 really ?
-
-Assign 20 keys and use Alt, Shf as (none, Alt, Shf, Shf Alt), and Gui Ctr as (None, Gui, Ctr, Gui Ctr), gives sixteen combinations of possible modifiers.
+Using dead keys Alt, Shf as (none, Alt, Shf, Shf Alt), and Gui Ctr as (None, Gui, Ctr, Gui Ctr), gives sixteen combinations of possible modifiers.
 
 Sixteen keyboard maps of 20 keys. Total de 320 combos keys !
 
-Think as each keymap is a layout layer over same designed keys.
+Think as each keymap is a layout layer over same design keys.
 
 # Details
 
 _"The behavior should not astonish or surprise users"_, <https://en.wikipedia.org/wiki/Principle_of_least_astonishment>
 
-Confortable, no thumb movement.
+More confortable, no thumb movement.
 
-The fingers index, middle, ring and pinky moves up/down.
+The fingers index, middle, ring and pinky moves up/down between two rows.
 
-The index and pinky also moves left/rigth.
+The index and pinky also moves left/rigth one key.
 
 Use dead keys as modifiers.
 
-Modifiers keys Alt Gui at left hand, and Ctrl Shf right hand.
+Place dead keys Alt Gui at left hand, and Ctrl Shf at right hand.
 
 Any other key could be mapped into multiple values by combination of modifiers states.
 
