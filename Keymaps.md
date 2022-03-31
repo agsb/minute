@@ -36,7 +36,7 @@ The keys Alt, Shf, Gui , Ctr are special and used to change the keybord map, by:
 | ------ | ------ | ------ | ------ | ------ | ------ | --- | ------ | ------ | ------ | ------ | ------ | ------ |
 | pinky | pinky | ring | middle | index | index |   | index | index | middle | ring | pinky | pinky |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Gui  | z | _ underscore |  , comma | ; semicolon | ' tick |   | " quote|  : colon | . period | / slash | q | Ctr |
+| Gui  | z | _ underscore |  , comma | ; semicolon | ' tick |   | " quotation |  : colon | . period | / slash | q | Ctr |
 | _**Alt**_ | g | x | j | k | ! exclam|  | ? question | r | m | f | p | Shf |
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
 
