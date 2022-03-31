@@ -1,19 +1,22 @@
 USBHID.check.md
 
-## USB HID mapped keys
+## USB HID mapped dead keys
 
- |  |  |  |
- | ++++ | ++++ | ++++ | ++++ |
- | nomap | | |
- | nomap | +++ | +++ | +++ |
+|  |   |  |
+| ------ | ------ | ------ |
  | nomap | KEY_MOD_LCTRL | 0x01 |  |
  | nomap | KEY_MOD_LSHIFT | 0x02 |  |
- | nomap | KEY_MOD_LALT | 0x04 |  |
- | nomap | KEY_MOD_LMETA | 0x08 |  |
- | nomap | KEY_MOD_RCTRL | 0x10 |  |
- | nomap | KEY_MOD_RSHIFT | 0x20 |  |
+ | Alt | KEY_MOD_LALT | 0x04 |  |
+ | Gui | KEY_MOD_LMETA | 0x08 |  |
+ | Ctr | KEY_MOD_RCTRL | 0x10 |  |
+ | Shf | KEY_MOD_RSHIFT | 0x20 |  |
  | nomap | KEY_MOD_RALT | 0x40 |  |
  | nomap | KEY_MOD_RMETA | 0x80 |  |
+
+## USB HID mapped type keys
+
+ |  |   |  |
+| ------ | ------ | ------ |
  | nomap | KEY_NONE | 0x00 | // No key pressed |
  | nomap | KEY_ERR_OVF | 0x01 | // Keyboard Error Roll Over - used for all slots if too many keys are pressed ("Phantom key") |
  | nomap | KEY_ERR_PST | 0x02 | // Keyboard POST Fail |
@@ -149,20 +152,20 @@ USBHID.check.md
  | nomap | KEY_LOCK_SCROLL | 0x84 |  Keyboard Locking Scroll Lock |
  | nomap | KEY_KPCOMMA | 0x85 | // Keypad Comma |
  | nomap | KEY_KPEQUAL | 0x86 |  Keypad Equal Sign |
- | nomap | KEY_RO | 0x87 | // Keyboard International1 |
- | nomap | KEY_KATAKANAHIRAGANA | 0x88 | // Keyboard International2 |
- | nomap | KEY_YEN | 0x89 | // Keyboard International3 |
- | nomap | KEY_HENKAN | 0x8a | // Keyboard International4 |
- | nomap | KEY_MUHENKAN | 0x8b | // Keyboard International5 |
- | nomap | KEY_KPJPCOMMA | 0x8c | // Keyboard International6 |
+ | nomap | KEY_INTER1 | 0x87 | // Keyboard International1 |
+ | nomap | KEY_INTER2 | 0x88 | // Keyboard International2 |
+ | nomap | KEY_INTER3 | 0x89 | // Keyboard International3 |
+ | nomap | KEY_INTER4 | 0x8a | // Keyboard International4 |
+ | nomap | KEY_INTER5 | 0x8b | // Keyboard International5 |
+ | nomap | KEY_INTER6 | 0x8c | // Keyboard International6 |
  | nomap | KEY_INTER7 | 0x8d |  Keyboard International7 |
  | nomap | KEY_INTER8 | 0x8e |  Keyboard International8 |
  | nomap | KEY_INTER9 | 0x8f |  Keyboard International9 |
- | nomap | KEY_HANGEUL | 0x90 | // Keyboard LANG1 |
- | nomap | KEY_HANJA | 0x91 | // Keyboard LANG2 |
- | nomap | KEY_KATAKANA | 0x92 | // Keyboard LANG3 |
- | nomap | KEY_HIRAGANA | 0x93 | // Keyboard LANG4 |
- | nomap | KEY_ZENKAKUHANKAKU | 0x94 | // Keyboard LANG5 |
+ | nomap | KEY_LANG1 | 0x90 | // Keyboard LANG1 |
+ | nomap | KEY_LANG2 | 0x91 | // Keyboard LANG2 |
+ | nomap | KEY_LANG3 | 0x92 | // Keyboard LANG3 |
+ | nomap | KEY_LANG4 | 0x93 | // Keyboard LANG4 |
+ | nomap | KEY_LANG5 | 0x94 | // Keyboard LANG5 |
  | nomap | KEY_LANG6 | 0x95 |  Keyboard LANG6 |
  | nomap | KEY_LANG7 | 0x96 |  Keyboard LANG7 |
  | nomap | KEY_LANG8 | 0x97 |  Keyboard LANG8 |
@@ -253,4 +256,6 @@ USBHID.check.md
  | nomap | KEY_MEDIA_COFFEE | 0xf9 |  |
  | nomap | KEY_MEDIA_REFRESH | 0xfa |  |
  | nomap | KEY_MEDIA_CALC | 0xfb |  |
- | nomap | | |
+ | | | | |
+
+
