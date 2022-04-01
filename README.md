@@ -6,7 +6,7 @@ forget QWERTY or DVORAK layouts, use a minimal software mapped keyboard.
 
 A really minute splited software mapped keyboard, using two pads of twelve (6x2) switches.
 
-Minute keyboard is a new keyboard design, similar to The Uni, <https://github.com/petercpark/The_Uni> and ErgoDOx, <https://ergodox-ez.com/>, with only 24 keys . 
+Minute keyboard is a keyboard design, similar to The Uni, <https://github.com/petercpark/The_Uni> and ErgoDOx, <https://ergodox-ez.com/>, with only 24 keys . 
 ### Left hand
 
 ![Left hand](https://user-images.githubusercontent.com/14941647/160960426-be994241-1696-4372-88c3-1701e45b9ea9.png) by <http://kle-render.herokuapp.com/>
@@ -33,7 +33,7 @@ The USB HID specification reserves 8 dead keys as modifiers.
 
 The minute uses only four dead keys, named as Alt, Gui, Shf (Shift), Ctr (Control).
 
-Several combinations could be used for sequences of keys, eg. one click, for combos, double click, for toggle. 
+Several combinations could be used for sequences of keys. Softwares for keyboard configures macros with one tap (aka click), double tap, hold, tap and hold, to make combos.
 
 Using dead keys Alt, Shf as (none, Alt, Shf, Shf Alt), and Gui Ctr as (None, Gui, Ctr, Gui Ctr), gives sixteen combinations of possible modifiers.
 
