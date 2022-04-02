@@ -6,7 +6,7 @@ forget QWERTY or DVORAK layouts, use a minimal software mapped keyboard.
 
 A really minute splited software mapped keyboard, using two pads of twelve (6x2) switches.
 
-Minute keyboard is a keyboard design, similar to The Uni, <https://github.com/petercpark/The_Uni> and ErgoDOx, <https://ergodox-ez.com/>, with only 24 keys . 
+Minute keyboard is a minimal keyboard design, similar to Corne <https://github.com/foostan/crkbd>, ErgoDOx <https://ergodox-ez.com/>, and The Uni, <https://github.com/petercpark/The_Uni>, with only 24 keys . 
 ### Left hand
 
 ![Left hand](https://user-images.githubusercontent.com/14941647/160960426-be994241-1696-4372-88c3-1701e45b9ea9.png) by <http://kle-render.herokuapp.com/>
