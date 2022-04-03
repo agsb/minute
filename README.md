@@ -6,7 +6,13 @@ forget QWERTY or DVORAK layouts, use a minimal software mapped keyboard.
 
 A really minute splited software mapped keyboard, using two pads of twelve (6x2) switches.
 
-Minute keyboard is a minimal keyboard design, similar to Corne <https://github.com/foostan/crkbd>, ErgoDOx <https://ergodox-ez.com/>, and The Uni, <https://github.com/petercpark/The_Uni>, with only 24 keys . 
+Minute keyboard is a minimal keyboard design, similar to
+ ErgoDOx <https://ergodox-ez.com/>, 
+ Ferris <https://github.com/pierrechevalier83/ferris>, 
+ Corne <https://github.com/foostan/crkbd>, 
+ The Uni <https://github.com/petercpark/The_Uni>.
+ 
+ It is like Georgi <https://www.gboards.ca/product/georgi>, but with only 24 keys . 
 ### Left hand
 
 ![Left hand](https://user-images.githubusercontent.com/14941647/160960426-be994241-1696-4372-88c3-1701e45b9ea9.png) by <http://kle-render.herokuapp.com/>
@@ -33,7 +39,7 @@ The USB HID specification reserves 8 dead keys as modifiers.
 
 The minute uses only four dead keys, named as Alt, Gui, Shf (Shift), Ctr (Control).
 
-Several combinations could be used for sequences of keys. Softwares for keyboard configures macros with one tap (aka click), double tap, hold, tap and hold, to make combos.
+Several combinations could be used for sequences of keys. Softwares for keyboard configures macros with one tap (aka click), double tap, hold, tap and hold, to make combos. <https://precondition.github.io/home-row-mods>
 
 Using dead keys Alt, Shf as (none, Alt, Shf, Shf Alt), and Gui Ctr as (None, Gui, Ctr, Gui Ctr), gives sixteen combinations of possible modifiers.
 
@@ -72,6 +78,8 @@ All those are most based in thousands of classic texts, maybe from centuries and
 A great Google n-gram frequency analysis was done by Peter Norvig at <http://www.norvig.com/mayzner.html>.
 
 The Engram is systematic approach for confortable keyboard layout, done by Arno Klein in <https://www.preprints.org/manuscript/202103.0287/v1>. The Engram, for classic 58 keys or 68 ergonomic keys, is explained at <https://engram.dev/>.
+
+Using layouts as Miryoku <https://github.com/manna-harbour/qmk_firmware/tree/miryoku/users/manna-harbour_miryoku>
 
 The _minute keyboard_ must envolve and simplify Engram layout, for 20 keys in 16 mapped layouts.
 
