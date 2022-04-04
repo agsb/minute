@@ -71,11 +71,11 @@ But which layout ? A historical QWERTY or revised DVORAK ?
 
 Or reviews, like Colemak <https://colemak.com/>, Halmak <https://github.com/MadRabbit/halmak>, Workman <https://workmanlayout.org/> ?
 
-Or a layout based on frequencies and finger movements, in classic or personal chosen texts, from Carpalx <http://mkweb.bcgsc.ca/carpalx/> ?
+Or a layout based on frequencies and finger movements, in classic or personal chosen texts, from Carpalx <http://mkweb.bcgsc.ca/carpalx/>, from Arensito <http://www.pvv.org/~hakonhal/main.cgi/keyboard>, 
 
-All those are most based in thousands of classic texts, maybe from centuries and Google makes available at <https://ai.googleblog.com/2006/08/all-our-n-gram-are-belong-to-you.html>.
+All those are most based in thousands of classic texts, maybe from centuries and Google makes available at <https://ai.googleblog.com/2006/08/all-our-n-gram-are-belong-to-you.html>. There is a letter frequency site <letterfrequency.org>
 
-A great Google n-gram frequency analysis was done by Peter Norvig at <http://www.norvig.com/mayzner.html>.
+A great frequency analysis was made by Peter Norvig at <http://www.norvig.com/mayzner.html>, and Michael Dickens <https://mdickens.me/typing/theory-of-letter-frequency.html>.
 
 The Engram is systematic approach for confortable keyboard layout, done by Arno Klein in <https://www.preprints.org/manuscript/202103.0287/v1>. The Engram, for classic 58 keys or 68 ergonomic keys, is explained at <https://engram.dev/>.
 
