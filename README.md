@@ -37,9 +37,9 @@ All operational systems allow software mapping for keyboard, many keyboards do m
 
 The USB HID specification reserves 8 dead keys as modifiers.
 
-The minute uses only four dead keys, named as Alt, Gui, Shf (Shift), Ctr (Control).
+The Minute uses dead keys, named as Alt, Gui, Shf (Shift), Ctr (Control).
 
-Several combinations could be used for sequences of keys. Softwares for keyboard configures macros with one tap (aka click), double tap, hold, tap and hold, to make combos. <https://precondition.github.io/home-row-mods>
+Several combinations could be used for sequences of keys. Softwares for keyboard configures macros with one tap (aka click), double tap, hold, tap and hold, to make combos. <https://precondition.github.io/home-row-mods>.
 
 Using dead keys Alt, Shf as (none, Alt, Shf, Shf Alt), and Gui Ctr as (None, Gui, Ctr, Gui Ctr), gives sixteen combinations of possible modifiers.
 
@@ -47,6 +47,7 @@ Sixteen keyboard maps of 20 keys. Total de 320 combos keys !
 
 Think as each keymap is a layout layer over same design keys.
 
+A reference for layouts at Miryku <https://github.com/manna-harbour/miryoku/tree/master/docs/reference> and  Ferris <https://github.com/pierrechevalier83/ferris>. 
 # Details
 
 _"The behavior should not astonish or surprise users"_, <https://en.wikipedia.org/wiki/Principle_of_least_astonishment>
