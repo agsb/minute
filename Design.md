@@ -1,5 +1,6 @@
 Design.md
 
+_this file is a stub_ 
 # By design 
 
 _"Today, most full-size keyboards use one of three different mechanical layouts, usually referred to as simply ISO (ISO/IEC 9995-2), ANSI (ANSI-INCITS 154-1988), and JIS (JIS X 6002-1980)"_, https://en.wikipedia.org/wiki/Computer_keyboard

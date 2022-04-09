@@ -1,5 +1,6 @@
 Ideas.md
 
+_this file is a stub_ 
 ## From plus code
 
 https://github.com/google/open-location-code/blob/main/c/src/olc_private.h

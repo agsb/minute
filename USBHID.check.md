@@ -1,5 +1,6 @@
 USBHID.check.md
 
+_this file is a stub_ 
 ## USB HID mapped dead keys
 
 |  |   |  |

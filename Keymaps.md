@@ -1,5 +1,6 @@
 Keymaps.md
 
+_this file is a stub_ 
 # Keyboard maps layouts
 
 Dual box split 12x2 keys design, 4 dead keys, 20 typed keys. 

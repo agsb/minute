@@ -1,5 +1,8 @@
 Combos.md
 
+_this file is a stub_ 
+
+### Editor
 
 Undo    Ctr+Z
 Cut     Ctr+X
@@ -13,14 +16,15 @@ All     Ctr+A
 Save    Ctr+S
 Esc     Cancel Action
 
-Dead Keys
+### terminal Dead Keys
 
 PrtScn
 SysRqs
 ScrLk
 PauseBreak
 
-Windows chords
+
+### Windows chords
 
 ctr+A   select all
 Alt+Tab Switch apps
@@ -39,3 +43,4 @@ Win+PtrScn  Save a screenshot
 Ctr+Sht+Esc Open Task Manager
 Win+C   talk to Cortana
 Win+X Open Hidden Menu
+

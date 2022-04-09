@@ -1,5 +1,7 @@
 Keysflows.md
 
+_this file is a stub_ 
+
 ## frequency studies
 
 Many essays about letters, symbols, n-grams in diferent types of texts or tasks
