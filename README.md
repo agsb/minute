@@ -25,7 +25,7 @@ Minute keyboard is a minimal keyboard design, similar to
 
 # Only 12 + 12 keys ?
 
-Only 24 keys ?
+Only 24 keys ? updated: Ben Vallack does with less <https://www.youtube.com/watch?v=5RN_4PQ0j1A>
 
 For all ASCII chars, grouped as 33 control, 26 lowercase, 26 uppercase, 10 digits, 32 symbols ?
 
@@ -41,13 +41,15 @@ The USB HID specification reserves 8 dead keys as modifiers.
 
 The Minute uses dead keys, named as Alt, Gui, Shf (Shift), Ctr (Control).
 
-Several combinations could be used for sequences of keys. Softwares for keyboard configures macros with one tap (aka click), double tap, hold, tap and hold, to make combos. <https://precondition.github.io/home-row-mods>.
+Several combinations could be used for sequences of keys. Softwares for keyboard, configures macros with one tap (aka click), double tap, hold, tap and hold, to make combos. <https://precondition.github.io/home-row-mods>.
 
 Using dead keys Alt, Shf as (none, Alt, Shf, Shf Alt), and Gui Ctr as (None, Gui, Ctr, Gui Ctr), gives sixteen combinations of possible modifiers.
 
 Sixteen keyboard maps of 20 keys. Total de 320 combos keys !
 
 Think as each keymap is a layout layer over same design keys.
+
+Also if just 16 keys by 16 modifiers, gives 256 combo keys.
 
 A reference for layouts at Miryku <https://github.com/manna-harbour/miryoku/tree/master/docs/reference> and  Ferris <https://github.com/pierrechevalier83/ferris>. 
 # Details
@@ -76,7 +78,8 @@ Or reviews, like Colemak <https://colemak.com/>, Halmak <https://github.com/MadR
 
 Or a layout based on frequencies and finger movements, in classic or personal chosen texts, from Carpalx <http://mkweb.bcgsc.ca/carpalx/>, from Arensito <http://www.pvv.org/~hakonhal/main.cgi/keyboard>, 
 
-All those are most based in thousands of classic texts, maybe from centuries and Google makes available at <https://ai.googleblog.com/2006/08/all-our-n-gram-are-belong-to-you.html>. There is a letter frequency site <letterfrequency.org>
+
+All those are most based in thousands of classic texts, maybe from centuries and Google makes available at <https://ai.googleblog.com/2006/08/all-our-n-gram-are-belong-to-you.html>. There is a letter frequency site <letterfrequency.org> and a word frequency site <http://www.newgeneralservicelist.org/>
 
 A great frequency analysis was made by Peter Norvig at <http://www.norvig.com/mayzner.html>, and Michael Dickens <https://mdickens.me/typing/theory-of-letter-frequency.html>.
 
@@ -87,7 +90,6 @@ Using layouts as Miryoku <https://github.com/manna-harbour/qmk_firmware/tree/mir
 The _minute keyboard_ must envolve and simplify Engram layout, for 20 keys in 16 mapped layouts.
 
 The good point ? it's a new overiew.
-
 ## Mapped layouts
 
 reference for layouts in QMK <https://docs.qmk.fm/#/keycodes_basic>
@@ -105,3 +107,4 @@ This work is licensed under a
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
