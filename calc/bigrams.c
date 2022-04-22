@@ -3,7 +3,13 @@
 
 /* from corpus NGSL http://www.newgeneralservicelist.org/ */
 
-int keys[26][26];
+/* reserve for space bigrams */
+
+#define SP 26
+
+#define SIZE SP+1
+
+int keys[SIZE][SIZE];
 
 int main(int argc, char * argv[]) {
 
@@ -13,9 +19,9 @@ int main(int argc, char * argv[]) {
 
 /* wise clean up */
 
-    for ( i = 0; i < 26; i++) {
+    for ( i = 0; i < SIZE; i++) {
 
-        for ( j = 0; j < 26; j++) {
+        for ( j = 0; j < SIZE; j++) {
 
             keys[i][j] = 0;
 
@@ -32,6 +38,8 @@ int main(int argc, char * argv[]) {
 
         i = c - 'a';
 
+	keys[SP][i] += v;
+
         while ((d = *(++p)) != 0) {
 
             j = d - 'a';
@@ -44,19 +52,21 @@ int main(int argc, char * argv[]) {
 
             }
 
+	keys[i][SP] += v;
+
         }
 
 /* list letter frequencies upon bigrams */
 
     {
 
-    int lets[26];
+    int lets[SIZE];
 
     int m;
 
     double v, a;
 
-    for ( i = 0; i < 26; i++) {
+    for ( i = 0; i < SIZE; i++) {
 
         lets[i] = 0;
 
@@ -64,9 +74,9 @@ int main(int argc, char * argv[]) {
 
     m = 0;
 
-    for ( i = 0; i < 26; i++) {
+    for ( i = 0; i < SIZE; i++) {
 
-        for ( j = 0; j < 26; j++) {
+        for ( j = 0; j < SIZE; j++) {
 
             m += keys[i][j];
 
@@ -78,9 +88,9 @@ int main(int argc, char * argv[]) {
 
         }
 
-    v = (double) m / (26*26);
+    v = (double) m / (SP*SP);
 
-    for ( i = 0; i < 26; i++) {
+    for ( i = 0; i < SIZE; i++) {
 
             a = (double) lets[i] / v;
 
@@ -101,9 +111,9 @@ int main(int argc, char * argv[]) {
 
     v = 0;
 
-    for ( i = 0; i < 26; i++) {
+    for ( i = 0; i < SIZE; i++) {
 
-        for ( j = 0; j < 26; j++) {
+        for ( j = 0; j < SIZE; j++) {
 
             if (keys[i][j] == 0) continue;
 
@@ -117,13 +127,13 @@ int main(int argc, char * argv[]) {
 
     m = ((double) v / (double) (n + 1));
 
-    for ( i = 0; i < 26; i++) {
+    for ( i = 0; i < SIZE; i++) {
 
-        for ( j = 0; j < 26; j++) {
+        for ( j = 0; j < SIZE; j++) {
 
                 a = (double) keys[i][j] / m;
 
-                printf ("+ %d %8.4lf %c%c\n", keys[i][j], a, i + 'a', j + 'a');
+                printf ("+ %d %8.4lf [%c%c]\n", keys[i][j], a, i + 'a', j + 'a');
 
             }
         }

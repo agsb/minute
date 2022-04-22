@@ -1,7 +1,7 @@
 
 # wise 
 
-cat $1 | tr 'áéíóúàèìòùãõç' 'aeiouaeiouaoc' | tr -d '-' > $1.p0
+cat $1 | tr '[:upper:]' '[:lower:]' | tr 'ñáéíóúàèìòùãõç' 'naeiouaeiouaoc' | tr -d '-' > $1.p0
 
 ./ngslist < $1.p0 > $1.p1
 
@@ -37,9 +37,9 @@ cat $1.z1 $1.z5 | ./ngsccs | sort -nr -t' ' -k 3 > $1.z7
 
 for n in 0 1 2 3 4 5 6 7 ; do
 
-	echo -n "$n " > xxx
+	echo -n "=" > xxx
 
-	cut -d' ' -f 7 < $1.z$n | tr '\n' ' ' >> xxx
+	cut -d' ' -f 7 < $1.z$n | tr -d '\n' >> xxx
 
 	cat xxx >> $1.p2
 	
@@ -50,5 +50,13 @@ done
 echo "X " >> $1.p2
 
 cat $1.p2 $1.p0 | ./ngscns > $1.p3
+
+cat $1.p0 | ./bigrams > $1.p4 
+
+echo 1
+grep '=' $1.p4 | sort -nr -t' ' -k 3 > $1.z8
+
+echo 2
+grep '+' $1.p4 | sort -nr -t' ' -k 3 > $1.p5
 
 
