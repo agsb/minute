@@ -74,9 +74,15 @@ int main(int argc, char * argv[]) {
 
     m = 0;
 
+    k = 0;
+
     for ( i = 0; i < SIZE; i++) {
 
         for ( j = 0; j < SIZE; j++) {
+
+	    if (keys[i][j] < 1) continue;
+
+	    k = k + 1;
 
             m += keys[i][j] * 2;
 
@@ -88,7 +94,7 @@ int main(int argc, char * argv[]) {
 
         }
 
-    v = (double) m / (SIZE*SIZE);
+    v = (double) m / (double) k;
 
     for ( i = 0; i < SIZE; i++) {
 
