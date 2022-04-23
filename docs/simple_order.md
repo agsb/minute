@@ -204,3 +204,8 @@ and all results are divided by mean, shown in second list (~)
 	
 	
 	
+## References
+
+<https://microexploitation.com/2018/06/26/the-development-of-the-thinqu-keyboard-layout-factors-that-influence-typing-effort/>
+
+
