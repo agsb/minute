@@ -20,6 +20,11 @@
         8,      9,      10,     11,     12,     13,     14,     15
 
 
+    order in reference:
+
+	12, 	11, 	13, 	10, 	5, 	2, 	4, 	3, 
+	14, 	9, 	6, 	1, 	15, 	8, 	7, 	0 
+
 */
 
 /* order to assign keys as layout above */
@@ -34,7 +39,9 @@ char lets[32];
 
 no dead keys SHF, CTR, ALT, GUI
 
-usefull S space, B backspace, E Enter, D delete, T tab
+usefull S space, M mood are thumb keys
+
+usefful B backspace, E Enter, D delete, T tab are moods
 
 wise C escape
 

@@ -11,39 +11,86 @@
 
 /* valid ascii chars, all lowercase */
 
- #define LEN 8
+ #define LEN 16
  
  #define CHARS 26
 
-/* keyboard weights */
+/* keyboard layouts weights */
 
 /*    
+ *    lazzy pinky
  *
  *    layer 0
  *    ------------------------------------------
  *     4    1    1    1        1    1    1    4
  *     3    0    0    0        0    0    0    3
  *
+ *     layer 1 (mod)
+ *    ------------------------------------------
+ *     5    2    2    2        2    2    2    5
+ *     4    1    1    1        1    1    1    4
+ *
+ *	0, 0, 0, 0, 0, 0,
+ *      1, 1, 1, 1, 1, 1,
+ *      1, 1, 1, 1, 1, 1
+ *      2, 2, 2, 2, 2, 2,
+ *      3, 3, 4, 4, 4, 4,
+ *      5, 5,'
+ *
+ *    lazzy pinky (layer 2)
+ *
+ *    layer 0
+ *    ------------------------------------------
+ *     4    1    1    2        2    1    1    4
+ *     3    0    0    0        0    0    0    3
+ *
  *     layer 1
  *    ------------------------------------------
- *     5    3    3    3        3    3    3    5
- *     4    2    2    2        2    2    2    4
+ *     6    3    3    4        4    3    3    6
+ *     5    2    2    2        2    2    2    5
  *
  *    ------------------------------------------
  *
+ *
+ *    eg. workman adapted	
+ *
+ *    layer 0
+ *    ------------------------------------------
+ *     4    1    1    3        3    1    1    4
+ *     2    0    0    0        0    0    0    2
+ *
+ *     layer 1
+ *    ------------------------------------------
+ *     6    3    3    5        5    3    3    6
+ *     4    2    2    2        2    2    2    4
  */
 
- int svs[] = { 
+/*
+ int svs[] = { // lazy I
 	 0, 0, 0, 0, 0, 0, 
 	 1, 1, 1, 1, 1, 1, 
 	 2, 2, 2, 2, 2, 2,
 	 3, 3, 3, 3, 3, 3,
 	 3, 3, 4, 4, 4, 4,
 	 5, 5 };
+*/
 
 
 
- int main(int argc, char * argv[]) {
+int svs[] = { // lazy II
+	0, 0, 0, 0, 0, 0,		     
+	1, 1, 1, 1, 1, 1,		     
+	1, 1, 1, 1, 2, 2,
+	2, 2, 2, 2, 3, 3,		     
+	3, 3, 4, 4, 4, 4,
+	5, 5 
+	};
+	
+
+int main(int argc, char * argv[]) {
+
+
+	 // max length of lemma is 64
 
      char s[64];
 
@@ -51,7 +98,7 @@
 
      int keys[LEN][CHARS];
 
-     long sum[LEN];
+     long v, sum[LEN];
 
      /* clean wise */
 
@@ -83,7 +130,7 @@
 	        
 		k = (int) s[n] - (int) 'a';
 
-		if (0 <= k && k < CHARS) keys[m][k] = svs[n];
+		if (0 <= k && k < CHARS) keys[m][k] = svs[n-1];
 		
 		n++;
 		
@@ -122,12 +169,25 @@
     	}
 
 
+     {
+ 
+	     double vm;
+     v = 0;
+
+     for (k = 0; k < m; k++) v += sum[k];
+
+     vm = (double) v / (double) m;
+
+     
+	     
      for (k = 0; k < m; k++) {
 
 
-             printf ("~ %d %ld\n", k, sum[k]);
+             printf ("~ %d %8.4lf\n", k,  (double) sum[k] / vm );
 
              }
+
+     }
 
      return (0);
 
