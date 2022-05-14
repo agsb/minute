@@ -21,18 +21,19 @@ wrod as a wlohe. Amzanig huh?
 
 _All natural languages contain significant redundancy._
 
-An ascii text (26 letters and a space), if assume that all characters are equally likely, the entropy is:
-H = −(log 1/27) = 4.75
+An ascii text (26 letters and a space), if assume that all characters are equally likely, the ocuurences will be 1/27 and the entropy is: H = −(1/27) * (log (1/27) / log(2)) = 0.1761
 
-
- 
 ## corpus counts
+
+these are counts from NSGL lists, without multuply by frequencies
 
     31241 124964 854573 ngslf.v
      2801  11204  74935 ngslp.v
       721   2884  18467 ngsls.v
 
 ### absolute counts:
+
+the letters are counted takeing the places inside words
 
 	0 = any place in lemma (word)
 	1 = first letter
@@ -125,8 +126,10 @@ lazzy pinky III
 					     
 to calculate the overall effort of any ordened sequence, 
 take a sequence and the weigths as layout above, 
+
 for each word, each letter receive a weight, and the weights are added, 
 then all results for each word are added. 
+
 the mean value of all sequences results are calculated 
 and all results are divided by mean, shown in second list (~)
 
