@@ -201,11 +201,22 @@ and all results are divided by mean, shown in second list (~)
 	~ 8   0.8778
 
 	
+## parameters
+
+Repeat delay, Repeat rate, BounceKeys, StickyKeys, ToggleKeys
 	
-	
+## injuries
+
+Ulnar Deviation, Forearm Pronation, Wrist Extension, Mouse Overreach, Finger Fatigue and Impact	
 	
 ## References
 
 <https://microexploitation.com/2018/06/26/the-development-of-the-thinqu-keyboard-layout-factors-that-influence-typing-effort/>
+
+<https://microexploitation.com/2018/06/04/thinqu/>
+
+<https://kinesis-ergo.com/pain/>
+
+
 
 
