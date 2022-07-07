@@ -5,16 +5,19 @@ _this file is a stub_
 ### Editor
 
     Undo    Ctr+Z
+    Redo    Ctr+Y
     Cut     Ctr+X
     Copy    Ctr+C
     Paste   Ctr+V
-    Delete  Del
+    
     Find    Ctr+F
     Replace Ctr+H
     Go to   Ctr+G
     All     Ctr+A
     Save    Ctr+S
-    Esc     Cancel Action
+    
+    Cancel  Esc
+    Delete  Del
 
 ### terminal Dead Keys
 
