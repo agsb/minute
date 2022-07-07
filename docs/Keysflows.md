@@ -36,9 +36,9 @@ make costs equal to inverse frequency or less acurate order
 
 ## References
 
-[1] gov.uk, <https://insidegovuk.blog.gov.uk/2014/08/04/sentence-length-why-25-words-is-our-limit/>
-[2] text to count, <https://countwordsworth.com/>
-[3] sentences lenght, <https://wordcounter.net/blog/2017/04/04/102966_word-count-list-how-many-words.html>
-[4] plain english, <http://www.plainenglish.co.uk/how-to-write-in-plain-english.html>
-[5] Zipf’s word frequency law,<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4176592/>
-[6] How do we use language, <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3049087/>
+    [1] gov.uk, <https://insidegovuk.blog.gov.uk/2014/08/04/sentence-length-why-25-words-is-our-limit/>
+    [2] text to count, <https://countwordsworth.com/>
+    [3] sentences lenght, <https://wordcounter.net/blog/2017/04/04/102966_word-count-list-how-many-words.html>
+    [4] plain english, <http://www.plainenglish.co.uk/how-to-write-in-plain-english.html>
+    [5] Zipf’s word frequency law,<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4176592/>
+    [6] How do we use language, <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3049087/>
