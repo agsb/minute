@@ -5,49 +5,49 @@ _this file is a stub_
 ## layouts (only letters)
 
 .querty
-q   w   e   r   t   y   u   i   o   p
-a   s   d   f   g   h   j   l   .   .
-z   x   c   v   b   n   m   .   .   .
+        q   w   e   r   t   y   u   i   o   p
+        a   s   d   f   g   h   j   l   .   .
+        z   x   c   v   b   n   m   .   .   .
 
 .devorak
-.   .   .   p   y   f   g   c   r   l
-a   o   e   u   i   d   h   t   n   s
-.   q   j   k   x   b   m   w   v   z
+        .   .   .   p   y   f   g   c   r   l
+        a   o   e   u   i   d   h   t   n   s
+        .   q   j   k   x   b   m   w   v   z
 
 .colemak
-q   w   f   p   g   j   l   u   y   .  
-a   r   s   t   d   h   n   e   i   o
-z   x   c   v   b   k   m   .   .   .
+        q   w   f   p   g   j   l   u   y   .  
+        a   r   s   t   d   h   n   e   i   o
+        z   x   c   v   b   k   m   .   .   .
 
 .workman
-q   d   r   w   b   j   f   u   p   .
-a   s   h   t   g   y   n   e   o   i
-z   x   m   c   v   k   l   .   .   .
+        q   d   r   w   b   j   f   u   p   .
+        a   s   h   t   g   y   n   e   o   i
+        z   x   m   c   v   k   l   .   .   .
 
 .carpalx
-q   f   m   l   w   y   u   o   b   j
-d   s   t   n   r   i   a   e   h   .
-z   v   g   c   x   p   k   .   .   .
+        q   f   m   l   w   y   u   o   b   j
+        d   s   t   n   r   i   a   e   h   .
+        z   v   g   c   x   p   k   .   .   .
 
 .arensito
-q   l   .   p   .   .   f   u   d   k
-a   r   e   n   b   g   s   i   t   o
-z   w   .   h   j   v   c   y   m   x
+        q   l   .   p   .   .   f   u   d   k
+        a   r   e   n   b   g   s   i   t   o
+        z   w   .   h   j   v   c   y   m   x
 
 .halmak
-w   l   r   b   z   .   q   u   d   j
-s   h   n   t   .   .   a   e   o   i
-f   m   v   c   .   g   p   x   k   y
+        w   l   r   b   z   .   q   u   d   j
+        s   h   n   t   .   .   a   e   o   i
+        f   m   v   c   .   g   p   x   k   y
 
 .engram
-b   y   o   u   .   .   l   d   w   v   z
-c   i   e   a   .   .   h   t   s   n   q
-g   x   j   k   .   .   r   m   f   p
+        b   y   o   u   .   .   l   d   w   v   z
+        c   i   e   a   .   .   h   t   s   n   q
+        g   x   j   k   .   .   r   m   f   p
 
 .colorforth
-p   y   f   i   g   c   r   l   |   :   ;   !   @   1   2   3
-a   o   e   u   h   t   n   s   |   z   j   .   ,   4   5   6   0
-q   k   x   d   b   m   w   v   |   x   /   +   -   7   8   9   ?
+        p   y   f   i   g   c   r   l   |   :   ;   !   @   1   2   3
+        a   o   e   u   h   t   n   s   |   z   j   .   ,   4   5   6   0
+        q   k   x   d   b   m   w   v   |   x   /   +   -   7   8   9   ?
 
 # Keyboard maps layouts
 
@@ -68,7 +68,9 @@ The keys Alt, Shf, Gui , Ctr are special and used to change the keybord map, by:
     one touch   combo sequence
     two touch   toggle mode
     hold touch  combine 
+    
 # Modes
+
 ## Lowercase Mode 
 
 |  |  |  |  |  |  |   |  |  |  |  |  |  |
