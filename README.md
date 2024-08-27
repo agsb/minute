@@ -6,7 +6,7 @@ _"Abandon all QWERTY all ye who enter here"_, https://www.bbc.com/worklife/artic
 
 forget QWERTY or DVORAK layouts, use a minimal software mapped keyboard.
 
-A really minute splited software mapped keyboard, using two pads of twelve (6x2) switches.
+A really minute splited software mapped keyboard, using two pads of ten (5x2) switches.
 
 Minute keyboard is a minimal keyboard design, similar to
  ErgoDOx <https://ergodox-ez.com/>, 
