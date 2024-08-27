@@ -16,11 +16,9 @@ Minute keyboard is a minimal keyboard design, similar to
  
  It is like Georgi <https://www.gboards.ca/product/georgi>, but with only 24 keys . 
  
-### Left hand
-![left hand](https://user-images.githubusercontent.com/14941647/160960614-ec4c503b-88a6-479c-878a-d402c8652f1c.png) by <http://kle-render.herokuapp.com/>
+### Left and Right 
 
-### Right hand
-![right hand](https://user-images.githubusercontent.com/14941647/160960426-be994241-1696-4372-88c3-1701e45b9ea9.png) by <http://kle-render.herokuapp.com/>
+<https://user-images.githubusercontent.com/14941647/160960614-ec4c503b-88a6-479c-878a-d402c8652f1c.png) by <http://kle-render.herokuapp.com/>
 
 # Only 12 + 12 keys ?
 
