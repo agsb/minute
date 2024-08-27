@@ -18,7 +18,7 @@ Minute keyboard is a minimal keyboard design, similar to
  
 ### Left and Right 
 
-<https://github.com/agsb/minute/minimal9x9split.png> by <http://kle-render.herokuapp.com/>
+[[https://github.com/agsb/minute/blob/main/minimal9x9split.png?raw=true]] by <http://kle-render.herokuapp.com/>
 
 # Only 12 + 12 keys ?
 
