@@ -26,7 +26,7 @@ Minute keyboard is a minimal keyboard design, similar to
 
 Only 24 keys ? updated: [Ben Vallack](https://www.youtube.com/watch?v=5RN_4PQ0j1A) [does](https://www.youtube.com/watch?v=UKfeJrRIcxw) with [less](https://www.youtube.com/watch?v=NAUxTR4vGys)!
 
-My best layout is a splited 9+1 + 9+1 keys, (the pinkys lay quiet almost time) using [japanese-duplex-matrix](https://kbd.news/The-Japanese-duplex-matrix-1391.html)
+My best layout is a splited 9 (+1?) + 9 (+1?) keys, (the pinkys lay quiet almost time) using [japanese-duplex-matrix](https://kbd.news/The-Japanese-duplex-matrix-1391.html)
 
 For all ASCII chars, grouped as 33 control, 26 lowercase, 26 uppercase, 10 digits, 32 symbols ?
 
@@ -65,13 +65,13 @@ _"The behavior should not astonish or surprise users"_, <https://en.wikipedia.or
 
 More confortable, no thumb movement.
 
-The fingers index, middle, ring and pinky moves up/down between two rows.
+The fingers index, middle, ring and thumb moves between two rows, pinky is one row only.
 
-The index and pinky also moves left/rigth one key.
+~~The index and pinky also moves left/rigth one key.~~
 
 Use dead keys as modifiers.
 
-Place dead keys Alt Gui at left hand, and Ctrl Shf at right hand.
+Place dead keys Alt Gui at one hand, and Ctrl Shf at other hand.
 
 Any other key could be mapped into multiple values by combination of modifiers states.
 
