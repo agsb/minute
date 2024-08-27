@@ -15,21 +15,27 @@ Minute keyboard is a minimal keyboard design, similar to
  The Uni <https://github.com/petercpark/The_Uni>.
  
  It is like Georgi <https://www.gboards.ca/product/georgi>, but with only 24 keys . 
+ 
 ### Left hand
-
-![Left hand](https://user-images.githubusercontent.com/14941647/160960426-be994241-1696-4372-88c3-1701e45b9ea9.png) by <http://kle-render.herokuapp.com/>
+![left hand](https://user-images.githubusercontent.com/14941647/160960614-ec4c503b-88a6-479c-878a-d402c8652f1c.png) by <http://kle-render.herokuapp.com/>
 
 ### Right hand
-
-![Right hand](https://user-images.githubusercontent.com/14941647/160960614-ec4c503b-88a6-479c-878a-d402c8652f1c.png) by <http://kle-render.herokuapp.com/>
+![right hand](https://user-images.githubusercontent.com/14941647/160960426-be994241-1696-4372-88c3-1701e45b9ea9.png) by <http://kle-render.herokuapp.com/>
 
 # Only 12 + 12 keys ?
 
-Only 24 keys ? updated: Ben Vallack does with less <https://www.youtube.com/watch?v=5RN_4PQ0j1A>
+Only 24 keys ? updated: [Ben Vallack](https://www.youtube.com/watch?v=5RN_4PQ0j1A)  does with [less](https://www.youtube.com/watch?v=NAUxTR4vGys)!
+
+Best layout is 9+1 + 9+1 keys, (the pinkys lay quiet almost time) using [japanese-duplex-matrix](https://kbd.news/The-Japanese-duplex-matrix-1391.html)
 
 For all ASCII chars, grouped as 33 control, 26 lowercase, 26 uppercase, 10 digits, 32 symbols ?
 
-Also for special functions keys (PgUp, PgDn, Up, Down, Left, Right, Cut, Copy, Paste, Ins, Home, End, Find, Replace, Mark, Erase, Undo, Clear, Menu, Quit, Open, Close, Refresh, Stop, Continue, Apply, Lower, Raise, etc)  
+Also for special functions keys 
+          
+          (PgUp, PgDn, Up, Down, Left, Right, Cut, Copy, Paste, 
+           Ins, Home, End, Delete, Backspace, Tab,
+           Find, Replace, Mark, Erase, Undo, Clear, Menu, Quit, 
+           Open, Close, Refresh, Stop, Continue, Apply, Lower, Raise, etc)  
 
 Also for specific dedicaded actions as games, drawing, tasks, stations, etc ?
 
