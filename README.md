@@ -89,7 +89,7 @@ Or a layout based on frequencies and finger movements, in classic or personal ch
 
 All those are most based in thousands of classic texts, maybe from centuries and Google makes available at <https://ai.googleblog.com/2006/08/all-our-n-gram-are-belong-to-you.html>. 
 
-There is a letter frequency site <letterfrequency.org> and a word frequency site <http://www.newgeneralservicelist.org/>
+There is a letter frequency site <https://letterfrequency.org> and a word frequency site <http://www.newgeneralservicelist.org/>
 
 A great frequency analysis was made by Peter Norvig at <http://www.norvig.com/mayzner.html>, and Michael Dickens <https://mdickens.me/typing/theory-of-letter-frequency.html>.
 
