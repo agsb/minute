@@ -1,4 +1,10 @@
+# Minute 
 
+## Frequency Analysis
+
+The usability of a keyboard depends on the arrangement of the keys and there are many designs that belong to the history of keyboards.
+
+A great comparison of alternatives for [classic keyboard](http://pinouchon.github.io/keyboard/layouts/2016/03/07/layouts-review-dvorak-vs-colemak-vs-carpalx-vs-workman.html) 
 
 character | order | sequence | cumulative |
 |---|---|---|---|
