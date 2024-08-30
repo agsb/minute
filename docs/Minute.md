@@ -27,7 +27,9 @@ The NGSL 1.2 lists 2809 words to cover almost of 90% of all corpus of about 273.
 
 The NGSL and Google-N-Gram corpus gives long ordened lists of _words and counts_, that can be converted into _word, percents of total and cumulative percents_ then the magics appear. 
 
-Sorting words by occurrence count, with percentages and cumulatives, and ordering letters as they occurs gives the sequence in following table.
+Sorting words by occurrence count, with percentages and cumulatives, and ordering letters as they occurs gives the sequence in following table 1. 
+
+Eg. the letter **b** only appears at order 13, first time 14a word and those words covers about 28% of all corpus, the letter **z** appears at 563 word and all words cover about 62% of all corpus.
 
 | character | order | sequence | cumulative |
 |---|---|---|---|
