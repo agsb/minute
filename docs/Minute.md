@@ -8,7 +8,7 @@
 
 The usability of a keyboard depends on the arrangement of the keys and there are many designs that belong to the history of keyboards.
 
-A great comparison of alternatives order for [classic keyboard](http://pinouchon.github.io/keyboard/layouts/2016/03/07/layouts-review-dvorak-vs-colemak-vs-carpalx-vs-workman.html) can also be used with modern ergonomic [splited keyboards](https://github.com/diimdeep/awesome-split-keyboards).
+A great comparison of alternatives order for [classic keyboard](http://pinouchon.github.io/keyboard/layouts/2016/03/07/layouts-review-dvorak-vs-colemak-vs-carpalx-vs-workman.html) can also be used with modern ergonomic [splited keyboards](https://github.com/diimdeep/awesome-split-keyboards). Some [full-optimized](https://mk.bcgsc.ca/carpalx/?full_optimization) for continous use.
 
 Most of layouts uses frequency of words in corpus of books, as [New General Service List](https://www.newgeneralservicelist.com/) and 
 [Google Books Ngram Viewer](https://books.google.com/ngrams) for quantification of letters. 
