@@ -2,20 +2,22 @@
 #
 # this is not for extended continous use, is not optimized in any way, just to run few times
 #
-# the input must be "rank lemma sfi ufm" 
+# the input must be "rank lemma sfi ufm"
 #	rank, sfi, ufm are integers and lemma is a ascii lowercase word
 #
 
-for f in ngsls.v ngslp.v ngslf.v ; do
+# for f in ngsls.v ngslp.v ngslf.v ; do
 
-# wise for rules 
+f=$1
+
+# wise for rules
 
 cat $f | tr '[:upper:]' '[:lower:]' | tr 'ñáéíóúàèìòùãõç' 'naeiouaeiouaoc' | tr -d '-' > $f.p0
 
 # does all place counts
 ./ngslist < $f.p0 > $f.p1
 
-# in any place 
+# in any place
 grep "= 0" $f.p1 | sort -nr -t' ' -k 3 > $f.z0
 
 # first letter
@@ -42,7 +44,7 @@ cat $f.z0 $f.z1 $f.z5 | ./ngsccs | sort -nr -t' ' -k 3 > $f.z6
 cat $f.z1 $f.z5 | ./ngsccs | sort -nr -t' ' -k 3 | sed -e 's/= 6/= 7/' > $f.z7
 
 # take the bigrams
-cat $f.p0 | ./bigrams > $f.p2 
+cat $f.p0 | ./bigrams > $f.p2
 
 grep '=' $f.p2 | sort -nr -t' ' -k 3 | sed -e 's/=/= 8/' > $f.z8
 
@@ -63,10 +65,10 @@ for n in 0 1 2 3 4 5 6 7 8; do
 	cut -d' ' -f 7 < $f.z$n | tr -d '\n' >> zzz
 
 	cat zzz >> $f.p4
-	
+
 	echo '' >> $f.p4
 
-done 
+done
 
 # cat $f.t0 >> $f.p4
 
@@ -77,11 +79,11 @@ cat $f.p4 $f.p0 | ./ngscns > $f.p5
 
 cat $f.p3 | grep -v '{' | grep -v ' 0.0000 ' | tr -d ' 0123456789.[]' > zzz
 
-cat << EndOfLine >$f.p6 
+cat << EndOfLine >$f.p6
 #
 # most frequent digrams
 # first letter is fixed and next letters compose bigrams, in order of ocurrency
-# 
+#
 EndOfLine
 
 for c in e t o a h n i l u r s b y d w f c g m p k v j x q z ; do
@@ -90,7 +92,7 @@ echo -n "$c" >> $f.p6
 
 grep "+$c" zzz | sed -e "s/+$c//" | tr -d '$c\r\n' >> $f.p6
 
-echo "" >> $f.p6 
+echo "" >> $f.p6
 
 done
 

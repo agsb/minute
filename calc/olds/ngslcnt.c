@@ -19,9 +19,11 @@
 
      char s[64];
 
-     int i, j, k, n, h;
+     int i, j, k;
 
-     int keys[LEN][CHARS];
+     long int n, m, h, c;
+
+     long int keys[LEN][CHARS];
 
      for (i=0; i< LEN; i++) {
          for (j=0; j< CHARS; j++) {
@@ -29,9 +31,17 @@
              }
          }
 
-/* input is "rank lemma sfi upm", integer word integer integer */
+/* input is "lemma rank sfi upm", string integer integer integer */
 
-    while ( scanf ("%d %s %d %d\n", &h, s, &h, &n) == 4 ) {
+    c = 0;
+
+    while ( scanf ("%s %ld %ld %ld\n", s, &h, &m, &n) == 4 ) {
+
+        /* printf ("%s %ld %ld %ld\n", s, h, m, n); */
+
+        /* counts words */
+
+         c += n;
 
          i = 0;
 
@@ -63,27 +73,36 @@
 
      {
 
-     double a, m;
+     double a, b, c, d, m;
 
      for (i=0; i< LEN; i++) {
 
-         k = 0;
-
-         m = 0;
+         m = 0.0;
 
          for (j=0; j< CHARS; j++) {
 
              m = m + keys[i][j];
 
              }
+        
+        /* sum of all letters */
 
-         m = m / (26+1);
+         b = m;
+
+        /* mean for it */
+
+         c = m / (26);
 
          for (j=0; j< CHARS; j++) {
 
-             a = keys[i][j] / m;
+             a = keys[i][j] / b * 100.0;
 
-             printf ("= %d %d %8.4lf %c\n", i, keys[i][j], a, j + 'a');
+             d = (keys[i][j]) / c;
+
+            /* position count percent proportion letter */
+
+             printf ("= %d %ld %8.4lf %8.4lf %c\n", 
+                i, keys[i][j], a, d, j + 'a');
 
              }
 
