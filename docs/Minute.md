@@ -77,14 +77,16 @@ Using two pads of 8 keys, leave 2 keys for each finger but reserve the thumbs, t
              +----+----+       +----+----+   
                 t    t            t    t
 
-|  spc  | | enter |
-|  altL | | altR  |             
+          |  spc  | | enter |
+          |  altL | | altR  |             
 
-| W | I | S | | D | O | N |
-| F | A | R | | T | H | E |
+          layer 1
+          | W | I | S |  | D | O | N |
+          | F | A | R |  | T | H | E |
 
-|   |   |   | |   |   |   |
-|   |   |   | | M | B | Y |
-
+          layer 2
+          |   |   | G |  |   |   |   |
+          |   | C |   |  | M | B | Y |
+  
     
 with [datasets](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)
