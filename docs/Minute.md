@@ -21,8 +21,13 @@ _"In the second edition of the Oxford English dictionary, there are approximatel
 
 _"The average English vocabulary is around 20,000 to 35,000 words."_
 
-Both Corpus gives long ordened lists of __words and counts__, that can be converted into __word, percents of total and cumulative percents__ then the magics appear. Eg. the NGSL 1.2 lists 2809 words to cover almost of 90% of all corpus (273.613.534 words)
+The NGSL 1.2 lists 2809 words to cover almost of 90% of all corpus of about 273.613.534 occurences of words.
 
+## Processing
+
+The NGSL and Google-N-Gram corpus gives long ordened lists of _words and counts_, that can be converted into _word, percents of total and cumulative percents_ then the magics appear. 
+
+Sorting words by occurrence count, with percentages and cumulatives, and ordering letters as they occurs gives the sequence in following table.
 
 | character | order | sequence | cumulative |
 |---|---|---|---|
