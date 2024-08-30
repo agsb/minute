@@ -92,3 +92,9 @@ Using two pads of 8 keys, leave 2 keys for each finger but reserve the thumbs, t
   
     
 with [datasets](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)
+
+[Texas SPED support Gov](https://spedsupport.tea.texas.gov/sites/default/files/2023-08/high-frequency-word-list.pdf)
+
+
+
+## extras
