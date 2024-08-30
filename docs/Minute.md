@@ -17,13 +17,15 @@ There is a catch to these statistics. They count occurrences of all words, not j
 
 ## Alternative Frequency
 
+_"In the second edition of the Oxford English dictionary, there are approximately 600,000 word forms defined."_
+
 _"The Webster's Third New International Dictionary, Unabridged, together with its 1993 Addenda Section, includes some 470,000 entries."_
 
 _"The Oxford English Dictionary estimates that there are around 170,000 words in current use, with an additional 47,000 obsolete words."_
 
-_"In the second edition of the Oxford English dictionary, there are approximately 600,000 word forms defined."_
-
 _"The average English vocabulary is around 20,000 to 35,000 words."_
+
+_"Native speakers of English use around 2,000 to 3,000 words in daily life."_
 
 The NGSL 1.2 lists 2809 words to cover almost of 90% of all corpus of about 273.613.534 occurences of words.
 
