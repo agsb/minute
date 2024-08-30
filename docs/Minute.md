@@ -1,3 +1,7 @@
+
+( this file is a stub )
+
+
 # Minute 
 
 ## Frequency Analysis
@@ -25,11 +29,9 @@ The NGSL 1.2 lists 2809 words to cover almost of 90% of all corpus of about 273.
 
 ## Processing
 
-The NGSL and Google-N-Gram corpus gives long ordened lists of _words and counts_, that can be converted into _word, percents of total and cumulative percents_ then the magics appear. 
+The NGSL and Google-N-Gram corpus gives long ordened lists of _words and counts_, that can be converted into _word, percents of total and cumulative percents_ then sortted by high to low percents and the magics appear. 
 
-Sorting words by occurrence count, with percentages and cumulatives, and ordering letters as they occurs gives the sequence in following table 1. 
-
-Eg. the letter **b** only appears at order 13, first time 14a word and those words covers about 28% of all corpus, the letter **z** appears at 563 word and all words cover about 62% of all corpus.
+By ordering letters as they occurs in sorted list gives the sequence in following table 1. For example, the letter **b** appears in 13th place and at the 14th word onwards, and the letter **z** in 26th place at the 563rd word onwards. The order resolves 62% of all most used common words, leaving the complex words to the long tail.
 
 | character | order | sequence | cumulative |
 |---|---|---|---|
@@ -62,4 +64,27 @@ Eg. the letter **b** only appears at order 13, first time 14a word and those wor
 | q | 25 | 306 | 56,20 |
 | z | 26 | 563 | 62,03 |
 
+## Maps 
+
+Using two pads of 8 keys, leave 2 keys for each finger but reserve the thumbs, two maps of 6 keys.
+
+          left hand             right hand
+           r    m    i            i    m    r
+        +----+----+----+       +----+----+----+   
+        | 0C | 0A | 08 |       | 07 | 09 | 0B |
+        | 06 | 04 | 02 |       | 01 | 03 | 05 |
+        +----| 14 | 12 |       | 11 | 13 |----+
+             +----+----+       +----+----+   
+                t    t            t    t
+
+|  spc  | | enter |
+|  altL | | altR  |             
+
+| W | I | S | | D | O | N |
+| F | A | R | | T | H | E |
+
+|   |   |   | |   |   |   |
+|   |   |   | | M | B | Y |
+
+    
 with [datasets](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)
