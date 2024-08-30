@@ -6,13 +6,25 @@ The usability of a keyboard depends on the arrangement of the keys and there are
 
 A great comparison of alternatives order for [classic keyboard](http://pinouchon.github.io/keyboard/layouts/2016/03/07/layouts-review-dvorak-vs-colemak-vs-carpalx-vs-workman.html) can also be used with modern ergonomic [splited keyboards](https://github.com/diimdeep/awesome-split-keyboards).
 
-Most of layouts uses frequency of words in Corpus of books, for quantification of letters 
+Most of layouts uses frequency of words in corpus of books, as [New General Service List](https://www.newgeneralservicelist.com/) and 
+[Google Books Ngram Viewer](https://books.google.com/ngrams) for quantification of letters. 
 
-[New General Service List](https://www.newgeneralservicelist.com/)
+There is a catch to these statistics. They count occurrences of all words, not just the most frequently occurring words. The long-tail phenomenon distorts the representation of letter frequency. 
 
-[Google Books Ngram Viewer](https://books.google.com/ngrams) with [datasets](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)
+## Alternative Frequency
 
-character | order | sequence | cumulative |
+_"The Webster's Third New International Dictionary, Unabridged, together with its 1993 Addenda Section, includes some 470,000 entries."_
+
+_"The Oxford English Dictionary estimates that there are around 170,000 words in current use, with an additional 47,000 obsolete words."_
+
+_"In the second edition of the Oxford English dictionary, there are approximately 600,000 word forms defined."_
+
+_"The average English vocabulary is around 20,000 to 35,000 words."_
+
+Both Corpus gives long ordened lists of __words and counts__, that can be converted into __word, percents of total and cumulative percents__ then the magics appear. Eg. the NGSL 1.2 lists 2809 words to cover almost of 90% of all corpus (273.613.534 words)
+
+
+| character | order | sequence | cumulative |
 |---|---|---|---|
 | t | 1 | 1 | 7,14 |
 | h | 2 | 1 | 7,14 |
@@ -43,3 +55,4 @@ character | order | sequence | cumulative |
 | q | 25 | 306 | 56,20 |
 | z | 26 | 563 | 62,03 |
 
+with [datasets](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)
