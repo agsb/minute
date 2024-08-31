@@ -1,7 +1,6 @@
 
 ( this file is a stub )
 
-
 # Minute 
 
 ## Frequency Analysis
@@ -97,7 +96,5 @@ with [datasets](https://storage.googleapis.com/books/ngrams/books/datasetsv3.htm
 [Texas SPED support Gov](https://spedsupport.tea.texas.gov/sites/default/files/2023-08/high-frequency-word-list.pdf)
 
 [Natural Language Corpus Data: Beautiful Data](http://norvig.com/ngrams/)
-
-
 
 ## extras
