@@ -1,5 +1,11 @@
+# Extras
 
-| COCA | GloWbE | Wikipedia |
+## symbols
+
+| COCA | | | GloWbE | | | Wikipedia | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| order | symbol | counts | order | symbol | counts | order | symbol | counts |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | , | 23849941 | 1 | , | 83847760 | 1 | , | 109960441 |
 | 2 | . | 21304861 | 2 | . | 80894692 | 2 | ' | 79264498 |
 | 3 | " | 7008881 | 3 | " | 17572733 | 3 | . | 73633968 |
@@ -21,10 +27,11 @@
 
 https://www.wired.com/2013/08/the-rarity-of-the-ampersand/
 
+## Order
+
 SPC e t a o i n s r h l d c u m f g p y w ENT b , . v k - " _ ' x ) ( ; 0 &nbsp;j 1 q = 2 : z / * ! ? $ 3 5 > { } 4 9 [ ] 8 6 7  + | & < % @ # ^ ` ~
 
 , . - " _ ' ) ( ; = : / * ! ? $ > { } [ ]  + | & < % @ # ^ ` ~
-
 
 en:eationsrhldcumfpgwybvk1029x8j54367zq$ –²é—’á“”öüíóā°ōäè£ø−çñ‘αšæúłūåć×âëàãīčοô…λ•μνðาσρπεаςιβτăşоê→κ
 
