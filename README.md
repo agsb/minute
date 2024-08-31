@@ -2,7 +2,7 @@
 
 _this file is a stub_ 
 
-_"Abandon all QWERTY all ye who enter here"_, https://www.bbc.com/worklife/article/20180521-why-we-cant-give-up-this-odd-way-of-typing
+[_"Abandon all QWERTY all ye who enter here"_](https://www.bbc.com/worklife/article/20180521-why-we-cant-give-up-this-odd-way-of-typing)
 
 forget QWERTY or DVORAK layouts, use a minimal software mapped keyboard.
 
