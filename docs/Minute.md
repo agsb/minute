@@ -33,7 +33,7 @@ The NGSL 1.2 lists 2809 words to cover almost of 90% of all corpus of about 273.
 
 The NGSL and Google-N-Gram corpus gives long ordened lists of _words and counts_, that can be converted into _word, percents of total and cumulative percents_ then sortted by high to low percents and the magics appear. 
 
-By ordering letters as they occurs in sorted list gives the sequence in following table 1. For example, the letter **b** appears in 13th place and at the 14th word onwards, and the letter **z** in 26th place at the 563rd word onwards. The order resolves 62% of all most used common words, leaving the complex words to the long tail.
+By ordering letters as they occurs in sorted list gives the sequence in table 1. For example, the letter **b** appears in 13th place and at the 14th word onwards, and the letter **z** in 26th place at the 563rd word onwards. The order resolves 62% of all most used common words, leaving the complex words to the long tail.
 
 | character | order | sequence | cumulative |
 |---|---|---|---|
@@ -75,7 +75,8 @@ Using two pads of 8 keys, leave 2 keys for each finger but reserve the thumbs, t
         +----+----+----+       +----+----+----+   
         | 0C | 0A | 08 |       | 07 | 09 | 0B |
         | 06 | 04 | 02 |       | 01 | 03 | 05 |
-        +----| 14 | 12 |       | 11 | 13 |----+
+        +----|----|----|       |----|----|----+
+             | 14 | 12 |       | 11 | 13 |
              +----+----+       +----+----+   
                 t    t            t    t
 
@@ -94,6 +95,8 @@ Using two pads of 8 keys, leave 2 keys for each finger but reserve the thumbs, t
 with [datasets](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)
 
 [Texas SPED support Gov](https://spedsupport.tea.texas.gov/sites/default/files/2023-08/high-frequency-word-list.pdf)
+
+[Natural Language Corpus Data: Beautiful Data](http://norvig.com/ngrams/)
 
 
 
