@@ -1,4 +1,4 @@
-# lemma per cum
+# NGSL 1.2 with "lemma per cum", from ppm counts
 the 7.1325 7.1325
 be 5.6881 12.8206
 and 3.6054 16.4260

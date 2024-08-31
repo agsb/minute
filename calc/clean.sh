@@ -3,6 +3,6 @@
 cat $1 | \
 tr '[:upper:]' '[:lower:]' | \
 tr 'ñáéíóúàèìòùãõç' 'naeiouaeiouaoc' | \
-tr -d '_' | tr '\n\r\t\v' '__  ' | \
-tr -d [:cntrl:] | tr -s '_ ' | tr '_' '\n' > $1.v
+tr '\n\r\t\v' 'AA  ' | tr -d [:cntrl:] | tr -s 'A ' | \
+tr 'A' '\n' > $1.v
 
