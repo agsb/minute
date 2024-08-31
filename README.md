@@ -85,7 +85,7 @@ But which layout ? A historical QWERTY or revised DVORAK ?
 
 Or reviews, like Colemak <https://colemak.com/>, Halmak <https://github.com/MadRabbit/halmak>, Workman <https://workmanlayout.org/> ?
 
-Or a layout based on frequencies and finger movements, in classic or personal chosen texts, from Carpalx <http://mkweb.bcgsc.ca/carpalx/>, from Arensito <http://www.pvv.org/~hakonhal/main.cgi/keyboard>, from [Norman](h:ttps://normanlayout.info/), some good reviews at [workman](https://www.workmanlayout.com/ ).
+Or a layout based on frequencies and finger movements, in classic or personal chosen texts, from Carpalx <http://mkweb.bcgsc.ca/carpalx/>, from Arensito <http://www.pvv.org/~hakonhal/main.cgi/keyboard>, from [Norman](https://normanlayout.info/), some good reviews at [workman](https://www.workmanlayout.com/ ).
 
 All those are most based in thousands of classic texts, maybe from centuries and Google makes available at <https://ai.googleblog.com/2006/08/all-our-n-gram-are-belong-to-you.html>. 
 
