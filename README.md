@@ -9,12 +9,12 @@ forget QWERTY or DVORAK layouts, use a minimal software mapped keyboard.
 A really minute splited software mapped keyboard, using two pads of ten (5x2) switches.
 
 Minute keyboard is a minimal keyboard design, similar to
- ErgoDOx <https://ergodox-ez.com/>, 
- Ferris <https://github.com/pierrechevalier83/ferris>, 
- Corne <https://github.com/foostan/crkbd>, 
- The Uni <https://github.com/petercpark/The_Uni>.
+ [ErgoDOx](https://ergodox-ez.com/), 
+ [Ferris](https://github.com/pierrechevalier83/ferris), 
+ [Corne](https://github.com/foostan/crkbd), 
+ [The Uni](https://github.com/petercpark/The_Uni).
  
- It is like Georgi <https://www.gboards.ca/product/georgi>, but with only 24 keys . 
+ It is like [Georgi](https://www.gboards.ca/product/georgi), but with only 24 keys . 
  
 ### Left and Right 
 
