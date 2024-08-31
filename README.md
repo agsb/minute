@@ -63,7 +63,7 @@ A reference for layouts at Miryku <https://github.com/manna-harbour/miryoku/tree
 
 # Details
 
-_"The behavior should not astonish or surprise users"_, <https://en.wikipedia.org/wiki/Principle_of_least_astonishment>
+[_"The behavior should not astonish or surprise users"_,](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
 
 More confortable, no thumb movement.
 
@@ -85,7 +85,7 @@ But which layout ? A historical QWERTY or revised DVORAK ?
 
 Or reviews, like Colemak <https://colemak.com/>, Halmak <https://github.com/MadRabbit/halmak>, Workman <https://workmanlayout.org/> ?
 
-Or a layout based on frequencies and finger movements, in classic or personal chosen texts, from Carpalx <http://mkweb.bcgsc.ca/carpalx/>, from Arensito <http://www.pvv.org/~hakonhal/main.cgi/keyboard>, 
+Or a layout based on frequencies and finger movements, in classic or personal chosen texts, from Carpalx <http://mkweb.bcgsc.ca/carpalx/>, from Arensito <http://www.pvv.org/~hakonhal/main.cgi/keyboard>, some good reviews at [workman](https://www.workmanlayout.com/ ).
 
 All those are most based in thousands of classic texts, maybe from centuries and Google makes available at <https://ai.googleblog.com/2006/08/all-our-n-gram-are-belong-to-you.html>. 
 
