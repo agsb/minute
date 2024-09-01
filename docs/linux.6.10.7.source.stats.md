@@ -2,7 +2,7 @@
 
 The [linux kernel 6.10.7](https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.7.tar.xz) was used as reference for frequency analysis of programming languages. 
 
-Only ASCII 0x0-07F characters allowed, all upper case letters converted to lower case, all tabs and spaces to 'S', all new line to 'A', all controls deleted. All sequences of A or S are compressed into one A or S, despite diminish the counters.
+Only ASCII 0x0-07F characters allowed, all upper case letters converted to lower case, all tabs and spaces to 'S', all new-lines to 'A', all controls deleted. All sequences of A or S are compressed into one A or S, despite diminish the counters.
 
 Also consider that words do not have the same context as in books, and some symbols are used primarily for commentary and decoration.
 
