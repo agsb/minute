@@ -2,11 +2,11 @@
 
 ### What ?
 
-The [linux kernel 6.10.7](https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.7.tar.xz) was used as reference for frequency analysis of programming languages. About 29,671,148 lines, 103,124,350 words, 1,088,286,601 characters at all. Around 10.55 letters by word and 3.48 words per line.
+The [linux kernel](https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.7.tar.xz) was used as reference for frequency analysis of programming languages. About 34,628,028 lines, 106,688,153 words, 1.311.319.113 characters at all. Around 12.29 letters by word and 3.08 words per line.
 
 Also consider that words do not have the same context as in books, and some symbols are used primarily for commentary and decoration.
 
-The order of letter, Space (S) and NewLine (A)
+The order of letter, Tab (T), Space (S) and NewLine (A)
 
 **e S T t i r s a n c d o f A l p m u x g h b v k w y q z j**
 
@@ -16,7 +16,9 @@ The order of symbols and digits is:
 
 ### How ?
 
-All *.c and *.h files were concatened and filtered. Only ASCII 0x0-07F characters allowed, all upper case letters converted to lower case, all tabs and spaces to 'S', all new-lines to 'A', all controls deleted. All sequences of A or S are compressed into one A or S, despite diminish the counters.
+All *.c, *.h, and *.gmk files were concatened and filtered. Only ASCII 0x0-07F characters allowed, all upper case letters converted to lower case, all tabs or four spaces to 'T', all spaces to 'S', all new-lines to 'A', all controls deleted. 
+
+All sequences of 'A' or 'S' are compressed into one A or S, all sequences of 'T' keeped, despite alter the counters.
 
 The table shows the key, absolute count, Standart Frequeny Index, percent of total, cumulative percent of total. 
 
