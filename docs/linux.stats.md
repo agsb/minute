@@ -1,4 +1,4 @@
-## Frequency of Linux kernel
+## Frequency on Linux kernel
 
 ### What ?
 
