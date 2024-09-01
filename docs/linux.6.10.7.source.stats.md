@@ -2,7 +2,7 @@
 
 ### What ?
 
-The [linux kernel 6.10.7](https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.7.tar.xz) was used as reference for frequency analysis of programming languages. About 29671148 lines, 103124350 words, 1088286601 characters at all. Around 10.55 letters by word and 3.48 words per line.
+The [linux kernel 6.10.7](https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.7.tar.xz) was used as reference for frequency analysis of programming languages. About 29,671,148 lines, 103,124,350 words, 1,088,286,601 characters at all. Around 10.55 letters by word and 3.48 words per line.
 
 Also consider that words do not have the same context as in books, and some symbols are used primarily for commentary and decoration.
 
