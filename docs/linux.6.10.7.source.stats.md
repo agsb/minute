@@ -1,3 +1,10 @@
+## Frequency of Linux kernel
+
+The [linux kernel 6.10.7](https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.7.tar.xz) was used as reference for frequency analysis of programming languages. 
+
+Only ASCII 0x0-07F characters allowed, all upper case letters converted to lower case, all tabs and spaces to 'S', all new line to 'A', all controls deleted. All sequences of A or S squeezed to one A or S, despite alter those counters. Also consider that some symbols are used most for comments and decorations.
+
+The tables shows the key, absolute count, Standart Frequeny Index, percent of total, cumulative percent of total.
 
 | key | count | SFI | percent | cumulae |
 | --- | --- | --- | --- | --- |
