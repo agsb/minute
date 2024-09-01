@@ -20,7 +20,7 @@ All *.c and *.h files were concatened and filtered. Only ASCII 0x0-07F character
 
 The table shows the key, absolute count, Standart Frequeny Index, percent of total, cumulative percent of total. 
 
-    SFI = 10 * ( log ( U ) + 4 ), U = count / 1000000 as parts per milion.
+    SFI = 10 * ( log ( U ) + 4 ), U = count / 1000000 as parts per milion. Not adjusted for dispertion.
 
 | key | count | SFI | percent | cumulae |
 | --- | --- | --- | --- | --- |
