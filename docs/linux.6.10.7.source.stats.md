@@ -6,6 +6,9 @@ Only ASCII 0x0-07F characters allowed, all upper case letters converted to lower
 
 Also consider that words do not have the same context as in books, and some symbols are used primarily for commentary and decoration.
 
+The order of symbols and digits is:
+**_ 0 , ) ( 1 * ; 2 - # = / > 3 4 . 8 6 " } { 5 7 & 9 ] [ : < \ + | % ! @ ' ~ ? ` ^ $**
+
 The tables shows the key, absolute count, Standart Frequeny Index, percent of total, cumulative percent of total.
 
 | key | count | SFI | percent | cumulae |
