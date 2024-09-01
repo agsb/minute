@@ -33,6 +33,11 @@ SPC e t a o i n s r h l d c u m f g p y w ENT b , . v k - " _ ' x ) ( ; 0 &nbsp;
 
 , . - " _ ' ) ( ; = : / * ! ? $ > { } [ ]  + | & < % @ # ^ ` ~
 
+## Frequency of Linux Kernel
+
+A frequency analysis was done with [Linux Kernel](https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.7.tar.xz) 
+
+
 en:eationsrhldcumfpgwybvk1029x8j54367zq$ –²é—’á“”öüíóā°ōäè£ø−çñ‘αšæúłūåć×âëàãīčοô…λ•μνðาσρπεаςιβτăşоê→κ
 
 pt:aeosirdntmuclpgvbfhãqéç10ázíj92xóky853ê674wõúàâô² º–”“ü—ª°öè’$äñаłи…оş•ōенрαвāс‘ăšкëćлاο´ø−åтνčς​ιρū
