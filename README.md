@@ -87,9 +87,9 @@ Or others, like [Colemak](https://colemak.com/), [Halmak](https://github.com/Mad
 
 Or a layout based on frequencies and finger movements, in classic or personal chosen texts, from [Carpalx](http://mkweb.bcgsc.ca/carpalx/), from [Arensito](http://www.pvv.org/~hakonhal/main.cgi/keyboard), from [Norman](https://normanlayout.info/), some good reviews at [workman](https://www.workmanlayout.com/).
 
-All those are most based in thousands of classic texts, maybe from centuries and Google makes available at <https://ai.googleblog.com/2006/08/all-our-n-gram-are-belong-to-you.html>. 
+All those are most based in thousands of classic texts, maybe from centuries and Google makes available at <https://ai.googleblog.com/2006/08/all-our-n-gram-are-belong-to-you.html>, also [Spell Checker Oriented Word Lists](http://wordlist.aspell.net/)
 
-There is a [letter frequency](https://letterfrequency.org) and a [word frequency](http://www.newgeneralservicelist.org/)
+There is a [letter frequency](https://letterfrequency.org) and a [word frequency](http://www.newgeneralservicelist.org/).
 
 A great frequency analysis was made by [Peter Norvig](http://www.norvig.com/mayzner.html), and [Michael Dickens](https://mdickens.me/typing/theory-of-letter-frequency.html).
 
@@ -97,7 +97,7 @@ A great frequency analysis was made by [Peter Norvig](http://www.norvig.com/mayz
 
     Escape, Page Up, Up, Down, Page Down, Home, Right, Left, End, Backspace, Delete, Enter, Tab, Back Tab, Control, Alt/Meta, Space, Alt Gr and Shift. 
 
-The [Engram](<https://engram.dev/) is systematic approach for confortable keyboard layout, done by [Arno Klein](https://www.preprints.org/manuscript/202103.0287/v1), for classic 58 keys or 68 ergonomic keys. 
+The [Engram](https://engram.dev/) is systematic approach for confortable keyboard layout, done by [Arno Klein](https://www.preprints.org/manuscript/202103.0287/v1), for classic 58 keys or 68 ergonomic keys. 
 
 Using layouts as [Miryoku](https://github.com/manna-harbour/qmk_firmware/tree/miryoku/users/manna-harbour_miryoku)
 
