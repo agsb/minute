@@ -1,8 +1,8 @@
 ## Frequency of Linux kernel
 
-The [linux kernel 6.10.7](https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.7.tar.xz) was used as reference for frequency analysis of programming languages. 
+### What ?
 
-Only ASCII 0x0-07F characters allowed, all upper case letters converted to lower case, all tabs and spaces to 'S', all new-lines to 'A', all controls deleted. All sequences of A or S are compressed into one A or S, despite diminish the counters.
+The [linux kernel 6.10.7](https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.10.7.tar.xz) was used as reference for frequency analysis of programming languages. About 29671148 lines, 103124350 words, 1088286601 characters at all. Around 10.55 letters by word and 3.48 words per line.
 
 Also consider that words do not have the same context as in books, and some symbols are used primarily for commentary and decoration.
 
@@ -14,7 +14,15 @@ The order of symbols and digits is:
 
 **_ 0 , ) ( 1 * ; 2 - # = / > 3 4 . 8 6 " } { 5 7 & 9 ] [ : < \ + | % ! @ ' ~ ? ` ^ $**
 
-The tables shows the key, absolute count, Standart Frequeny Index, percent of total, cumulative percent of total.
+### How ?
+
+All *.c and *.h files were concatened and filtered. Only ASCII 0x0-07F characters allowed, all upper case letters converted to lower case, all tabs and spaces to 'S', all new-lines to 'A', all controls deleted. All sequences of A or S are compressed into one A or S, despite diminish the counters.
+
+The table shows the key, absolute count, Standart Frequeny Index, percent of total, cumulative percent of total. 
+
+    SFI = 10 * ( log ( U ) + 4 ), U = count / 1000000 as parts per milion.
+    
+For reference a SFI of 57.00 is around 1 in 50 ocurrences (clicks).
 
 | key | count | SFI | percent | cumulae |
 | --- | --- | --- | --- | --- |
