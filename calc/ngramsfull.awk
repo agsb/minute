@@ -23,6 +23,7 @@ BEGIN {
 # counts \n  as A
 # counts ' ' as S
 
+    gsub (/\t/,"S");
     gsub (/ /,"S");
 
 # count first event of letters
@@ -57,13 +58,16 @@ END {
     sum = 0
 
     for ( c in suma ) {
-        sum += 0 + suma[c]
+        sum += suma[c]
         }
     
+    d = 0
+
     for ( c in suma ) {
-        d = suma[c]
-        suma[c] =  suma[c]/sum*100.0 
-        printf ("n %s %d %7.4f %7d\n", c, d, suma[c], cnta[c]) 
+        a = suma[c]
+        b = a / sum * 100.0 
+        d = d + b
+        printf ("n %s %d %7.4f %7.4f\n", c, a, b, d) 
         }
 
     sum = 0
@@ -72,10 +76,13 @@ END {
         sum += 0 + sumd[c]
         }
     
+    d = 0
+
     for ( c in sumd ) {
-        d = sumd[c]
-        sumd[c] =  sumd[c]/sum*100.0 
-        printf ("d %s %d %7.4f %7d\n", c, d, sumd[c], cntd[c]) 
+        a = sumd[c]
+        b = a / sum * 100.0 
+        d = d + b
+        printf ("d %s %d %d %7.4f\n", c, a, b, d) 
         }
 
     sum = 0
@@ -84,10 +91,13 @@ END {
         sum += 0 + sumt[c]
         }
     
+    d = 0
+
     for ( c in sumt ) {
-        d = sumt[c]
-        sumt[c] =  sumt[c]/sum*100.0 
-        printf ("t %s %d %7.4f %7d\n", c, d, sumt[c], cntt[c]) 
+        a = sumt[c]
+        b = a / sum * 100.0 
+        d = d + b
+        printf ("t %s %d %d %7.4f\n", c, a, b, d) 
         }
 
     }
