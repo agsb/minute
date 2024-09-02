@@ -2,7 +2,7 @@
 
 ### What ?
 
-The [openjavajdk](https://github.com/openjdk/jdk) was used as reference for frequency analysis of programming languages. 
+The [openjavajdk](https://github.com/openjdk/jdk) were used as reference for frequency analysis of programming languages. 
 
 About 9,876,221 lines, 40,502,353 words, 383,620,937 characters at all. Around 9.47 letters by word and 4.10 words per line.
 
