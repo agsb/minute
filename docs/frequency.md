@@ -1,7 +1,7 @@
 
 [BNC Consortium, 2007, British National Corpus, XML edition, Literary and Linguistic Data Service,](http://hdl.handle.net/20.500.14106/2554). 
 
-[The Open American National Corpus](https://anc.org/)
+[The Open American National Corpus](https://anc.org/data/oanc/download/)
 
 https://www.wired.com/2013/08/the-rarity-of-the-ampersand/
 
