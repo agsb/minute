@@ -34,12 +34,14 @@ Only 24 keys ? updated: [Ben Vallack](https://www.youtube.com/watch?v=5RN_4PQ0j1
 
 My best (lazy) layout is a splited 9 (+1?) + 9 (+1?) keys, for Thumb, Index, Middle, Ring, Pinky fingers (the pinkys lay quiet almost time) using [japanese-duplex-matrix](https://kbd.news/The-Japanese-duplex-matrix-1391.html)
 
-  | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
   | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
   | - | (R) | (M) | (I) | - | - | - | - | - | - | (I) | (M) | (R) | - |
   | (p) | (R) | (M) | (I) | - | - | - | - | - | - | (I) | (M) | (R) | (p) | 
-  | (P) | - | - | - | (T) | (T) | - | - | (T) | (T) | - | - | - | (P) |
-
+  | (P) | - | - | - | (T) | - | - | - | - | (T) | - | - | - | (P) |
+  | - | - | - | - | - | (T) | - | - | (T) | - | - | - | - | - |
+  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+  
 For all ASCII chars, grouped as 31 control, 26 lowercase, 26 uppercase, 10 digits, 32 symbols ?
 
 Also for special functions keys 
