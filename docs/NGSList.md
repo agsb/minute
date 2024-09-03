@@ -48,18 +48,12 @@ Those letters already in top score order.
 
 ## Processing
 
-The relative ocurrence of letters are counted summing the frequency (ppm) of word and the place oreder as any, first, second, third, fourth or last in word. The first and last lists are also a list of bigrams with space, the most used letter. Each list have a factor to define relative importance while summation.
+The relative ocurrence of letters are counted summing the frequency (ppm) of word and the place oreder as any, first, second, third, fourth or last in word. The first and last lists are also a list of bigrams with space, the most used letter. 
 
 ### any occurence
 
 ### first letter
 
-### second letter
-
-### third letter
-
- ### forth letter
-
- ### last letter
+### last letter
 
  
