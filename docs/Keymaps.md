@@ -4,6 +4,7 @@ _this file is a stub_
 
 ## layouts (only letters)
 
+```
 .querty
         q   w   e   r   t   y   u   i   o   p
         a   s   d   f   g   h   j   l   .   .
@@ -48,6 +49,7 @@ _this file is a stub_
         p   y   f   i   g   c   r   l   |   :   ;   !   @   1   2   3
         a   o   e   u   h   t   n   s   |   z   j   .   ,   4   5   6   0
         q   k   x   d   b   m   w   v   |   x   /   +   -   7   8   9   ?
+```
 
 # Keyboard maps layouts
 
