@@ -1,39 +1,38 @@
 
-## From mixed Frequency Lists
+__this file is work in progress__
 
-linux 12.29 letters by word and 3.08 words per line.
-linux **e S T t i r s a n c d o f A l p m u x g h b v k w y q z j**
-linux **_ 0 , ) ( 1 * ; 2 - = # / > 3 4 . 8 6 " } { 5 7 & 9 : ] [ < \ + | % ! @ ' ~ ` ? ^ $**
+# Frequency Analysis
 
-openjdk 9.47 letters by word and 4.10 words per line.
-openjdk **S e t T i a r o n s l c A u d p f h m g b v y w x k j q z**
-openjdk **. 0 ) ( * , ; " / \ 1 = 2 - } { 5 _ 4 3 6 9 + 8 @ 7 < > ] [ : ' ! & | ? # ~ % $ ` ^**
+## From Mixed Corpus
 
-oxford 15.96 letters by word and 5.88 words per line.
-oxford **S e t a o i n s r h l d c u m f p g w y b A v k x j q z T**
-oxford **. , ' - 1 0 9 ? ) ( 2 : 8 5 3 ; 7 6 4 " ! ] [ / % } { ` _ \ @ > = < + * & $ #**
+A basic statistical review with absolute **counter, [SFI](http://www.manulex.org/docs/en/Manulex.pdf), percents, cumulatives frequencies,** were done with corpus of texts from
+
+[Engram](https://github.com/agsb/minute/blob/main/docs/stats.engram.md)
+
+[Linux kernel](https://github.com/agsb/minute/blob/main/docs/stats.linux.md)
+
+[OpenJDK](https://github.com/agsb/minute/blob/main/docs/stats.openjava.md)
+
+[Project Guttenberg](https://github.com/agsb/minute/blob/main/docs/stats.guttenberg.md)
+
+[Oxford Text Archive](https://github.com/agsb/minute/blob/main/docs/stats.engram.md)
+
+Those results are tabulated and results in a line of ordened characters for each corpus. 
+then summing the relative positions a character in each line, results in a weight ordered line where less is better.
 
 ## count in order and sum
 
-S e t a i o n r s d l c
-h u f m p A g b , w v y
-. x 0 k ) T - ( 1 ; 2 _ 
-" j q * 3 5 ' z 4 : @ 8
-9 / 6 ? = 7 ! ~ ^ } { +
-] > [ \ & # < % $ ` 
+Space is (S), Enter is (A) and Tabulation is (T)
+
+S e t a i o n r s d l c h u f m p A g b , w v y
+. x 0 k ) T - ( 1 ; 2 _ " j q * 3 5 ' z 4 : @ 8
+9 / 6 ? = 7 ! ~ ^ } { + ] > [ \ & # < % $ ` 
+
+## From NGSL
+
 
 ## Extras
 
 https://www.wired.com/2013/08/the-rarity-of-the-ampersand/
-
-
-SPC e t a o i n s r h l d c u m f g p y w ENT b , . v k - " _ ' x ) ( ; 0 &nbsp;j 1 q = 2 : z / * ! ? $ 3 5 > { } 4 9 [ ] 8 6 7  + | & < % @ # ^ ` ~
-
-, . - " _ ' ) ( ; = : / * ! ? $ > { } [ ]  + | & < % @ # ^ ` ~
-
-
-en:eationsrhldcumfpgwybvk1029x8j54367zq$ –²é—’á“”öüíóā°ōäè£ø−çñ‘αšæúłūåć×âëàãīčοô…λ•μνðาσρπεаςιβτăşоê→κ
-
-pt:aeosirdntmuclpgvbfhãqéç10ázíj92xóky853ê674wõúàâô² º–”“ü—ª°öè’$äñаłи…оş•ōенрαвāс‘ăšкëćлاο´ø−åтνčς​ιρū
 
 
