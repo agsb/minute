@@ -4,17 +4,21 @@ _this file is a stub_
 
 [_"Abandon all QWERTY all ye who enter here"_](https://www.bbc.com/worklife/article/20180521-why-we-cant-give-up-this-odd-way-of-typing)
 
-forget QWERTY or DVORAK layouts, use a minimal software mapped keyboard.
+Forget QWERTY and etc layouts, use a minimal software mapped keyboard.
 
 A really minute splited software mapped keyboard, using two pads of ten (5x2) switches.
 
 Minute keyboard is a minimal keyboard design, similar to
+
  [ErgoDOx](https://ergodox-ez.com/), 
  [Ferris](https://github.com/pierrechevalier83/ferris), 
  [Corne](https://github.com/foostan/crkbd), 
  [The Uni](https://github.com/petercpark/The_Uni).
+ [Pteron](https://github.com/FSund/pteron-keyboard)
+ [Pteron36](https://github.com/qmk/qmk_firmware/tree/master/keyboards/pteron36)
+ [Georgi](https://www.gboards.ca/product/georgi), 
  
- It is like [Georgi](https://www.gboards.ca/product/georgi), but with only 24 keys . 
+ It is like those but with only fewer keys . 
  
 ### Left and Right 
 
@@ -28,16 +32,23 @@ made with <http://kle-render.herokuapp.com/>
 
 Only 24 keys ? updated: [Ben Vallack](https://www.youtube.com/watch?v=5RN_4PQ0j1A) [does](https://www.youtube.com/watch?v=UKfeJrRIcxw) with [less](https://www.youtube.com/watch?v=NAUxTR4vGys)!
 
-My best layout is a splited 9 (+1?) + 9 (+1?) keys, (the pinkys lay quiet almost time) using [japanese-duplex-matrix](https://kbd.news/The-Japanese-duplex-matrix-1391.html)
+My best (lazy) layout is a splited 9 (+1?) + 9 (+1?) keys, for Thumb, Index, Middle, Ring, Pinky fingers (the pinkys lay quiet almost time) using [japanese-duplex-matrix](https://kbd.news/The-Japanese-duplex-matrix-1391.html)
 
-For all ASCII chars, grouped as 33 control, 26 lowercase, 26 uppercase, 10 digits, 32 symbols ?
+  | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+  | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+  | - | (R) | (M) | (I) | - | - | - | - | - | - | (I) | (M) | (R) | - |
+  | (p) | (R) | (M) | (I) | - | - | - | - | - | - | (I) | (M) | (R) | (p) | 
+  | (P) | - | - | - | (T) | (T) | - | - | (T) | (T) | - | - | - | (P) |
+
+For all ASCII chars, grouped as 31 control, 26 lowercase, 26 uppercase, 10 digits, 32 symbols ?
 
 Also for special functions keys 
           
-          (PgUp, PgDn, Up, Down, Left, Right, Cut, Copy, Paste, 
-           Ins, Home, End, Delete, Backspace, Tab,
-           Find, Replace, Mark, Erase, Undo, Clear, Menu, Quit, 
-           Open, Close, Refresh, Stop, Continue, Apply, Lower, Raise, etc)  
+          ( Space, Enter, Delete, Backspace, Tabulation,
+           Left, Right, Home, End, Up, Down, PgUp, PgDn,
+           Insert, Cut, Copy, Paste, Find, Replace, 
+           Undo, Redo, Mark, Clear, Menu, Quit, Pause, 
+           Open, Close, Refresh, Apply, Lower, Raise, etc)  
 
 Also for specific dedicaded actions as games, drawing, tasks, stations, etc ?
 
@@ -47,11 +58,11 @@ All operational systems allow software mapping for keyboard, many keyboards do m
 
 The USB HID specification reserves 8 dead keys as modifiers.
 
-The Minute uses dead keys, named as Alt, Gui, Shf (Shift), Ctr (Control).
+The Minute uses dead keys, named as Alt, Gui (Meta), Shf (Shift), Ctr (Control).
 
-Several combinations could be used for sequences of keys. Softwares for keyboard, configures macros with one tap (aka click), double tap, hold, tap and hold, to make combos. <https://precondition.github.io/home-row-mods>.
+Several combinations could be used for sequences of keys. Softwares for keyboard, configures macros with one tap (aka click), double tap, hold, tap and hold, to make [funny combos](https://precondition.github.io/home-row-mods).
 
-Using dead keys Alt, Shf as (none, Alt, Shf, Shf Alt), and Gui Ctr as (None, Gui, Ctr, Gui Ctr), gives sixteen combinations of possible modifiers.
+Using dead keys Alt, Shf as (None, Alt, Shf, Shf Alt), and Gui Ctr as (None, Gui, Ctr, Gui Ctr), gives sixteen combinations of possible modifiers.
 
 Sixteen keyboard maps of 20 keys. Total de 320 combos keys !
 
@@ -59,27 +70,23 @@ Think as each keymap is a layout layer over same design keys.
 
 Also if just 16 keys by 16 modifiers, gives 256 combo keys.
 
-A reference for layouts at Miryku <https://github.com/manna-harbour/miryoku/tree/master/docs/reference> and  Ferris <https://github.com/pierrechevalier83/ferris>. 
+A reference for layouts at [Miryku](https://github.com/manna-harbour/miryoku/tree/master/docs/reference) and [Ferris](https://github.com/pierrechevalier83/ferris). 
 
 # Details
 
 [_"The behavior should not astonish or surprise users"_,](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
 
-More confortable, no thumb movement.
-
-The fingers index, middle, ring and thumb moves between two rows, pinky is one row only.
+More confortable, no thumb movement, no pinky efforts. The fingers index, middle, ring and thumb moves between two rows, pinky is one row only.
 
 ~~The index and pinky also moves left/rigth one key.~~
 
-Use dead keys as modifiers.
-
-Place dead keys Alt Gui at one hand, and Ctrl Shf at other hand.
+Use dead keys as modifiers. Place dead keys at both hands.
 
 Any other key could be mapped into multiple values by combination of modifiers states.
 
 # Keyboard Layouts
 
-"By ETAOIN SRHLDCU !"
+__"By ETAOIN SRHLDCU !"__
 
 But which layout ? A historical QWERTY or revised DVORAK ?
 
@@ -112,6 +119,10 @@ A good keyboard editor at <http://www.keyboard-layout-editor.com/>
 reference for layouts in QMK <https://docs.qmk.fm/#/keycodes_basic>
 
 Where are the keyboard mapped layouts ? https://github.com/agsb/minute/blob/main/Keymaps.md
+
+## Notes
+
+Some complementary and [random notes](https://github.com/agsb/minute/tree/main/docs) about frequencies, layouts, comobs and dances.
 
 # License
 
