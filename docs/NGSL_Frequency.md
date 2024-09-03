@@ -52,7 +52,10 @@ The relative ocurrence of letters are counted summing the frequency (ppm) of wor
 
 ### any occurence
 
+**e t o a n h i r s l d u c b f y m w p g v k x j q z**
+
 ### first letter
+
 
 ### last letter
 
