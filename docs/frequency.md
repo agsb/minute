@@ -13,6 +13,12 @@ oxford 15.96 letters by word and 5.88 words per line.
 oxford **S e t a o i n s r h l d c u m f p g w y b A v k x j q z T**
 oxford **. , ' - 1 0 9 ? ) ( 2 : 8 5 3 ; 7 6 4 " ! ] [ / % } { ` _ \ @ > = < + * & $ #**
 
+## count in order and sum
+
+S e t a i o r n s d l c h u f 
+A m p g b , v w . 
+T y 0 x ) ( k _ - ; 1 * 2 j q " 3 @ 5 4 6 : z 
+/ ~ ^ 8 9 ' = } { ? 7 \ ! ] > [ + < # & % ` $ 
 
 ## Extras
 
