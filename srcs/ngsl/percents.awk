@@ -1,6 +1,6 @@
 #!/usr/bin/awk
 #
-# from a ngsl file with 'lemma order ppm'
+# from a ngsl file with 'lemma, rank, ppm'
 # a csv file !
 #
 # convert ppm count into percent relative
@@ -13,11 +13,14 @@ BEGIN {
 
     sum = 0
 
+    cnt = 0
+
     file = ARGV[1]
 
     while ( (getline < file) > 0) {
         
-        sum += 0.0 + $3
+        if (cnt++ > 0) 
+            sum += $3
 
     }
     
@@ -31,17 +34,20 @@ BEGIN {
 
 END {
 
-    cum = 0
+    tot = 0
+
+    cnt = 0
 
     file = ARGV[1]
 
     while ( (getline < file) > 0) {
 
-        if ( /^#/ ) print $0
+        if ( cnt++ == 0 ) print $0
+
         else {
             per = (0.0 + $3) / sum * 100.0
-            cum = cum + per
-            printf (" %s, %6d, %7.4f, %7.4f\n", $1, $2, per, cum)
+            tot = tot + per
+            printf (" %s, %6d, %7.4f, %7.4f\n", $1, $3, per, tot)
             }
         }
         

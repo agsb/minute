@@ -107,7 +107,7 @@ END {
     
     for ( c in sumd ) {
         sumd[c] =  sumd[c]/sum*100.0 
-        printf ("b %s %7.4f %7d\n", c, sumd[c], cntd[c]) 
+        printf ("d %s %7.4f %7d\n", c, sumd[c], cntd[c]) 
         }
 
     sum = 0

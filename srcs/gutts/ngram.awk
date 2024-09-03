@@ -1,34 +1,36 @@
 #
-# maps each key in sequence
+# maps characters
 # input  clean.sh ascii text
-#   agsb@ 2024
+# agsb@ 2024
 #
 BEGIN {
-    FS=","
-    m = 1
-    md = 1
-    q = 0
+
+    lines = 0
+
     }
 
 {
-# no comments
-    
-    if (/^#/) next
+# full file
+# all input in lowercase
+
+# allow comments
+# if (/^#/) next
 
 # count lines
 
-    q++
+    lines += 1
 
-# all input in lowercase
-# counts \n  as A
 # counts ' ' as S
 
-    gsub (/\t/,"S");
+    gsub (/\t/,"T");
+    
     gsub (/ /,"S");
 
-# count first event of letters
+# appends \n  as A
 
     word = $0 "A"
+
+# count event of letters
 
     n = split (word, chars, "");
 
@@ -55,49 +57,47 @@ BEGIN {
 
 END {
 
-    sum = 0
+#   cd key count sfi percent
+
+    f = log (10)
+
+    s = 0.0
 
     for ( c in suma ) {
-        sum += suma[c]
+        s += suma[c]
         }
     
-    d = 0
-
     for ( c in suma ) {
         a = suma[c]
-        b = a / sum * 100.0 
-        d = d + b
-        printf ("n %s %d %7.4f %7.4f\n", c, a, b, d) 
+        b = a / s * 100.0 
+        d = 10.0 * (log ( a / 1000000.0 ) / f + 4) 
+        printf ("n %s %d %6.2f %6.2f\n", c, a, d, b) 
         }
 
-    sum = 0
+    s = 0.0
     
     for ( c in sumd ) {
-        sum += 0 + sumd[c]
+        s += sumd[c]
         }
     
-    d = 0
-
     for ( c in sumd ) {
         a = sumd[c]
-        b = a / sum * 100.0 
-        d = d + b
-        printf ("d %s %d %d %7.4f\n", c, a, b, d) 
+        b = a / s * 100.0 
+        d = 10.0 * (log ( a / 1000000.0 ) / f + 4) 
+        printf ("d %s %d %6.2f %6.2f\n", c, a, d, b) 
         }
 
-    sum = 0
+    s = 0.0
     
     for ( c in sumt ) {
-        sum += 0 + sumt[c]
+        s += sumt[c]
         }
     
-    d = 0
-
     for ( c in sumt ) {
         a = sumt[c]
-        b = a / sum * 100.0 
-        d = d + b
-        printf ("t %s %d %d %7.4f\n", c, a, b, d) 
+        b = a / s * 100.0 
+        e = 10.0 * (log ( a / 1000000.0 ) / f + 4) 
+        printf ("t %s %d %6.2f %6.2f\n", c, a, d, b) 
         }
 
     }
