@@ -22,14 +22,15 @@ then summing the relative positions a character in each line, results in a weigh
 
 ## count in order and sum
 
-Space is (S), Enter is (A) and Tabulation is (T)
+ASCII characters, Space is (S), Enter is (A) and Tabulation is (T)
 
 S e t a i o n r s d l c h u f m p A g b , w v y
 . x 0 k ) T - ( 1 ; 2 _ " j q * 3 5 ' z 4 : @ 8
-9 / 6 ? = 7 ! ~ ^ } { + ] > [ \ & # < % $ ` 
+9 / 6 ? = 7 ! ~ ^ } { + ] > [ \ & # < % $ ` ´ |
 
 ## From NGSL
 
+From [NGSL](https://github.com/agsb/minute/edit/main/docs/NGSList.md)
 
 ## Extras
 
