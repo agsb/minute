@@ -1,7 +1,7 @@
 
 __this file is work in progress__
 
-# Frequency Analysis
+# Corpus Frequency Analysis
 
 ## From Mixed Corpus
 
