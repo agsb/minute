@@ -12,7 +12,34 @@ A reference <https://en.wikipedia.org/wiki/New_General_Service_List>
                 
                 SFI = 10 * ( log10 ( U ) + 4), U in frequency per millions 
     
-## Coverages
+## Processing
+
+The relative ocurrence of letters are counted summing the frequency (ppm) of word and the place order as any, first or last in a word. 
+__The first and last lists are also a list of bigrams with space, the most used letter__. 
+
+### any occurence
+
+This is the most used reference for frequency analysis, the absolute counter.
+
+**e t o a n h i r s l d u c b f y m w p g v k x j q z**
+
+### first letter
+
+This is the most used bigrams, formed by a 'space' and a letter.
+
+**t a b o i s w h c f p m n d l r y e g u v k j q z**
+
+### last letter
+
+This is the most used bigrams, formed by a letter and a 'space'.
+
+**e t n d y o r f a l h s k u w m g p i c b x**
+
+### use sequence
+
+**t h e b a n d o f i v y u r w s m l g c k p j x q z**
+
+## Symbols Coverage
 
 #### NGSL does not publish counts for uppercase, symbols or numbers.
 
@@ -45,18 +72,3 @@ From Jean Ichbiah, <http://www.fitaly.com/board/domper3/posts/132.html>
         also: ise, en, ate, ify
 
 Those letters already in top score order.
-
-## Processing
-
-The relative ocurrence of letters are counted summing the frequency (ppm) of word and the place oreder as any, first, second, third, fourth or last in word. The first and last lists are also a list of bigrams with space, the most used letter. 
-
-### any occurence
-
-**e t o a n h i r s l d u c b f y m w p g v k x j q z**
-
-### first letter
-
-
-### last letter
-
- 
