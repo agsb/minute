@@ -24,7 +24,7 @@ Also for special functions keys
           
           ( Space, Enter, Delete, Backspace, Tabulation,
            Left, Right, Home, End, Up, Down, PgUp, PgDn,
-           Insert, Cut, Copy, Paste, Find, Replace, 
+           Escape, Insert, Cut, Copy, Paste, Find, Replace, 
            Undo, Redo, Mark, Clear, Menu, Quit, Pause, 
            Open, Close, Refresh, Apply, Lower, Raise, etc)  
 
