@@ -1,5 +1,5 @@
 
-## Key Frequency Lists
+## From mixed Frequency Lists
 
 linux 12.29 letters by word and 3.08 words per line.
 linux **e S T t i r s a n c d o f A l p m u x g h b v k w y q z j**
@@ -15,10 +15,12 @@ oxford **. , ' - 1 0 9 ? ) ( 2 : 8 5 3 ; 7 6 4 " ! ] [ / % } { ` _ \ @ > = < + *
 
 ## count in order and sum
 
-S e t a i o r n s d l c h u f 
-A m p g b , v w . 
-T y 0 x ) ( k _ - ; 1 * 2 j q " 3 @ 5 4 6 : z 
-/ ~ ^ 8 9 ' = } { ? 7 \ ! ] > [ + < # & % ` $ 
+S e t a i o n r s d l c
+h u f m p A g b , w v y
+. x 0 k ) T - ( 1 ; 2 _ 
+" j q * 3 5 ' z 4 : @ 8
+9 / 6 ? = 7 ! ~ ^ } { +
+] > [ \ & # < % $ ` 
 
 ## Extras
 

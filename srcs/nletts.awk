@@ -11,7 +11,7 @@ BEGIN {
 # full file
 # all input in lowercase
 
-# count event of letters
+# count position of letters in a frequency line
 
     word = $0
 
@@ -26,7 +26,7 @@ BEGIN {
 
 END {
 
-#   cd key count sfi percent
+# list letter and sums, lower is better
 
     for ( c in suma ) {
         a = suma[c]
