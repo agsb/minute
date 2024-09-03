@@ -42,9 +42,9 @@ Several combinations could be used for sequences of keys. Softwares for keyboard
 
 Using dead keys Alt, Shf as (None, Alt, Shf, Shf Alt), and Gui Ctr as (None, Gui, Ctr, Gui Ctr), gives sixteen combinations of possible modifiers.
 
-Sixteen keyboard maps of 20 keys. Total de 320 combos keys !
-
 Think as each keymap is a layout layer over same design keys.
+
+Sixteen keyboard maps of 20 keys. Total de 320 combos keys !
 
 Also if just 16 keys by 16 modifiers, gives 256 combo keys.
 
@@ -52,19 +52,18 @@ Also if just 16 keys by 16 modifiers, gives 256 combo keys.
 
 [_"The behavior should not astonish or surprise users"_,](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
 
-More confortable, no thumb movement, no pinky efforts. The fingers index, middle, ring and thumb moves between two rows, pinky is one row only.
+To be more confortable, no thumb movement, no pinky efforts. 
+The fingers index, middle, ring and thumb moves between two rows, pinky is one row only.
+Use dead keys as modifiers. Place dead keys at both hands.
+Any other key could be mapped into multiple values by combination of modifiers states.
 
 ~~The index and pinky also moves left/rigth one key.~~
-
-Use dead keys as modifiers. Place dead keys at both hands.
-
-Any other key could be mapped into multiple values by combination of modifiers states.
 
 # Keyboard Layout
 
 __"By ETAOIN SRHLDCU !"__
 
-The [Engram](https://engram.dev/) is systematic approach for confortable keyboard layout, done by [Arno Klein](https://www.preprints.org/manuscript/202103.0287/v1), for classic 58 keys or 68 ergonomic keys. 
+The [Engram](https://engram.dev/) is systematic approach for confortable keyboard layout, done by [Arno Klein](https://www.preprints.org/manuscript/202103.0287/v1), for classic 58 keys or 68 ergonomic keyboards. 
 
 A confortable split layout as [Miryoku](https://github.com/manna-harbour/qmk_firmware/tree/miryoku/users/manna-harbour_miryoku)
 
@@ -84,7 +83,6 @@ My best (lazy) layout is a splited 9 (+1?) + 9 (+1?) keys, for Thumb, Index, Mid
   | - | - | - | - | - | (T) | - | - | (T) | - | - | - | - | - |
   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
   
-
 ## Mapped layouts
 
 A good keyboard editor at <http://www.keyboard-layout-editor.com/>
