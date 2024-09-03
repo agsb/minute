@@ -1,16 +1,17 @@
-NGSList.md
-
-_this file is a stub_ 
+_this file is a work in progress_ 
 
 # Service List
 
-the New General Service List <http://www.newgeneralservicelist.org/> compiles the most important words for second language learners of English (NGSL), using a corpus of 273,613,534 words plus New Academic Word List (NAWL), TOEIC Service List (TSL) and Business Service List (BSL), for 31241 words with relative frequencies.
+the [New General Service List](http://www.newgeneralservicelist.org/) compiles the most important 2809 words for second language learners of English (NGSL), using a corpus of 273,613,534 words, plus more New Academic Word List (NAWL), TOEIC Service List (TSL) and Business Service List (BSL), with relative frequencies.
 
 <https://academic.oup.com/applij/article/36/1/1/226623>
 
 <https://en.wikipedia.org/wiki/New_General_Service_List>
 
-"Standard frequency index (SFI) is an index derived from frequency per million words (U) and is calculated using the formula 10 (log U + 4). SFI provides the researcher with an index that is easily under- stood: SFI= 90 means that a word occurs once every ten tokens; SFI = 80, once every 100 tokens; SFI = 70, once every 1,000 tokens; and so on." <adapted from https://discovery.ucl.ac.uk/id/eprint/1517148/>
+"Standard frequency index (SFI) is an index derived from frequency per million words (U) and is calculated using the formula bellow. The SFI provides the researcher with an index that is easily under- stood: SFI= 90 means that a word occurs once every ten tokens; SFI = 80, once every 100 tokens; SFI = 70, once every 1,000 tokens; and so on." <adapted from https://discovery.ucl.ac.uk/id/eprint/1517148/>
+                
+                SFI = 10 * ( log10 ( U ) + 4), U in frequency per millions 
+    
 
 ## processing
 
