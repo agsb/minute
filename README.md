@@ -12,8 +12,6 @@ A really minute splited software mapped keyboard, using two pads of ten (5x2) sw
 
 __Layout yet not defined__
 
-![image](https://github.com/agsb/minute/blob/main/minimal-orto-9-by-9-split.jpg)
-
 ![image](https://github.com/agsb/minute/blob/main/minimal-9x9-split.png)
 
 made with <http://kle-render.herokuapp.com/>
