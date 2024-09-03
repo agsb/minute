@@ -14,6 +14,8 @@ __Layout yet not defined__
 
 ![image](https://github.com/agsb/minute/blob/main/minimal-orto-9-by-9-split.jpg)
 
+![image](https://github.com/agsb/minute/blob/main/minimal-9x9-split.png)
+
 made with <http://kle-render.herokuapp.com/>
 
 # What keys ?
