@@ -66,13 +66,11 @@ Any other key could be mapped into multiple values by combination of modifiers s
 
 __"By ETAOIN SRHLDCU !"__
 
-The [Engram](https://engram.dev/) is systematic approach for confortable keyboard layout, done by [Arno Klein](https://www.preprints.org/manuscript/202103.0287/v1), for classic 58 keys or 68 ergonomic keyboards. 
+The [Engram](https://engram.dev/) is systematic approach for confortable keyboard layout, done by [Arno Klein](https://www.preprints.org/manuscript/202103.0287/v1), for classic 58 keys or 68 ergonomic keyboards, but with a confortable split layout as [Miryoku](https://github.com/manna-harbour/qmk_firmware/tree/miryoku/users/manna-harbour_miryoku).
 
-A confortable split layout as [Miryoku](https://github.com/manna-harbour/qmk_firmware/tree/miryoku/users/manna-harbour_miryoku)
+But only 24 keys ? Updated: [Ben Vallack](https://www.youtube.com/watch?v=5RN_4PQ0j1A) [does](https://www.youtube.com/watch?v=UKfeJrRIcxw) with [less](https://www.youtube.com/watch?v=NAUxTR4vGys)!
 
-Only 24 keys ? updated: [Ben Vallack](https://www.youtube.com/watch?v=5RN_4PQ0j1A) [does](https://www.youtube.com/watch?v=UKfeJrRIcxw) with [less](https://www.youtube.com/watch?v=NAUxTR4vGys)!
-
-The _minute keyboard_ must envolve and simplify Engram layout, for 20 keys in less than 16 mapped layouts.
+The _minute keyboard_ must envolve and simplify Engram layout, for 16 (18?) keys in less than 16 mapped layouts.
 
 The good point ? it's a new overiew.
 
