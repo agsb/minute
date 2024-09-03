@@ -10,11 +10,7 @@ A really minute splited software mapped keyboard, using two pads of ten (5x2) sw
  
 ### Left and Right 
 
-![image](https://github.com/agsb/immu/blob/main/beach-g681c55cdd_640.jpg)
-
-![image](https://github.com/agsb/minute/blob/main/minimal9x9split.png)
-
-![Layout](./minimal9x9split.png?raw=true) 
+![image](https://github.com/agsb/minute/blob/main/minimal-orto-9-by-9-split.jpg)
 
 made with <http://kle-render.herokuapp.com/>
 
