@@ -52,9 +52,12 @@ Also if just 16 keys by 16 modifiers, gives 256 combo keys.
 
 [_"The behavior should not astonish or surprise users"_,](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
 
-To be more confortable, no thumb movement, no pinky efforts. 
+Minute is a Chorded keyboard as a reduced [Stenography](https://www.artofchording.com/) keyboard. 
+To be more confortable, no thumb movement, no pinky efforts.
+
 The fingers index, middle, ring and thumb moves between two rows, pinky is one row only.
 Use dead keys as modifiers. Place dead keys at both hands.
+
 Any other key could be mapped into multiple values by combination of modifiers states.
 
 ~~The index and pinky also moves left/rigth one key.~~
