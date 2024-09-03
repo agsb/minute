@@ -4,24 +4,15 @@ _this file is a work in progress_
 
 the [New General Service List](http://www.newgeneralservicelist.org/) compiles the most important 2809 words for second language learners of English (NGSL), using a corpus of 273,613,534 words, plus more New Academic Word List (NAWL), TOEIC Service List (TSL) and Business Service List (BSL), with relative frequencies.
 
-<https://academic.oup.com/applij/article/36/1/1/226623>
+The inside process of creation at <https://academic.oup.com/applij/article/36/1/1/226623>
 
-<https://en.wikipedia.org/wiki/New_General_Service_List>
+A reference <https://en.wikipedia.org/wiki/New_General_Service_List>
 
 "Standard frequency index (SFI) is an index derived from frequency per million words (U) and is calculated using the formula bellow. The SFI provides the researcher with an index that is easily under- stood: SFI= 90 means that a word occurs once every ten tokens; SFI = 80, once every 100 tokens; SFI = 70, once every 1,000 tokens; and so on." <adapted from https://discovery.ucl.ac.uk/id/eprint/1517148/>
                 
                 SFI = 10 * ( log10 ( U ) + 4), U in frequency per millions 
     
-
-## processing
-
-The relative ocurrence of letters are counted summing the fpm of word and the place oreder as any, first, second, third, fourth or last in word.
-
-the first and last lists are also a list of bigrams with space, the most used letter.
-
-Each list have a factor to define relative importance while summation.
-
-## coverages
+## Coverages
 
 #### NGSL does not publish counts for uppercase, symbols or numbers.
 
@@ -54,6 +45,10 @@ From Jean Ichbiah, <http://www.fitaly.com/board/domper3/posts/132.html>
         also: ise, en, ate, ify
 
 Those letters already in top score order.
+
+## Processing
+
+The relative ocurrence of letters are counted summing the frequency (ppm) of word and the place oreder as any, first, second, third, fourth or last in word. The first and last lists are also a list of bigrams with space, the most used letter. Each list have a factor to define relative importance while summation.
 
 ### any occurence
 
