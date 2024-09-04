@@ -96,26 +96,26 @@ That list sequence will be well balanced within all criteria.
  | j | -4 | 93 |
  | x | -4 | 95 |
  | | | |
- | ** extra layer** | | |
+ | other | | |
  | q | -4 | 98 |
  | z | -4 | 103 |
  | | | |
 
 (The letters with negative rank are not in the first 12 places of files) 
 
-The table gives a layout of four layers, two for lowercase, layer 0 (**t a o h e n d i s f b r**),  layer 1 (**y l w c v p u m g k j x**), and two for uppercase. The 'q' and 'z' will be allocated into pontuactions layers. 
+The table gives a layout of four layers, two for lowercase, layer 0 (**t a o h e n d i s f b r**),  layer 1 (**y l w c v p u m g k j x**), and two for uppercase. The 'q' and 'z' will be allocated into punctuation layers. 
   
 The order of letters in each layer needs be defined later. 
 
 Eg. keyline 1 / tT hH eE / \ aA nN dD \, keyline 2 / fF oO rR / \ bB iI sS \ 
 
-## digits and pontuactions
+## digits and punctuations
 
-The NGSL and NGRAM does not provide any information about digits and pontuaction, then some corpus must be used to gather it. 
+The NGSL and NGRAM does not provide any information about digits and punctuation, then some corpus must be used to gather it. 
 
 The [linux kernel](https://github.com/agsb/minute/blob/main/docs/stats.linux.md), the [openjdk](https://github.com/agsb/minute/blob/main/docs/stats.openjava.md), the [Oxford Texts](https://github.com/agsb/minute/blob/main/docs/stats.oxford.md), the [Project Guttenberg](https://github.com/agsb/minute/blob/main/docs/stats.guttenberg.md) and the [Engram](https://github.com/agsb/minute/blob/main/docs/stats.engram.md).
 
-For easy, the digits and pontuactions, also 'q' and 'z', are placed in proper layers, grouped by than usability, not just by frequency
+For easy, the digits and punctuations, also 'q' and 'z', are placed in proper layers, grouped by than usability, not just by frequency
 
 | source | list |
 | --- | --- |
