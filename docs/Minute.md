@@ -54,13 +54,45 @@ ps. frequency of 2d, 3h, 4t, bigrams, trigrams, inside of words still in work
 
 ## Balance
 
-Which sequence is better ? A simple method is sum the relative position of each letter in lists and sort in crescent order, then lower scores is better.
+Which sequence is better ? 
 
-**t a o e h n d i b f s r y l w u c m p g k v j x q z**
+A simple method is sum the relative position of each letter in lists and sort in crescent order, then lower scores is better.
 
-This "order" gives a layout of four layers, two lowercase, layer 0 (**t a o e h n d i b f s r**),  layer 1 (**y l w u c m p g k v j x**), with more two for uppercase. The 'q' and 'z' will be allocated with pontuactions layers. 
+    **t a o e h n d i b f s r y l w u c m p g k v j x q z**
 
-The order of letters in each layer needs be defined later. Eg. / T H E / \ A N D \ and / R O F / \ I S B \ 
+Better, can split the lists in sequences of layer number of keys (twelve), count how many times a key appers, sort and list. 
+That list sequence will be well balanced within all criteria.
+
+| key| rank | place |
+| -- | -- | -- |
+ | t | 4 | 6 |
+ | a | 4 | 20 |
+ | o | 4 | 21 |
+ | h | 4 | 27 |
+ | e | 3 | 5 |
+ | n | 3 | 14 |
+ | d | 3 | 22 |
+ | i | 3 | 22 |
+ | s | 3 | 27 |
+ | f | 3 | 27 |
+ | b | 2 | 7 |
+ | r | 2 | 15 |
+ | | | |
+ | y | 2 | 17 |
+ | l | 2 | 20 |
+ | w | 1 | 7 |
+ | c | 1 | 9 |
+ | u | 1 | 12 |
+ | v | 1 | 11 |
+ | p | 1 | 11 |
+ | m | 1 | 12 |
+ | | | |
+
+The table gives a layout of four layers, two for lowercase, layer 0 (**t a o h e n d i s f b r**),  layer 1 (**y l w c u v p m -k -v -j -x**), and two for uppercase. The 'q' and 'z' will be allocated with pontuactions layers. 
+  
+The order of letters in each layer needs be defined later. 
+
+Eg. keyline 1 / tT hH eE / \ aA nN dD \, keyline 2 / fF oO rR / \ bB iI sS \ 
 
 ## digits and pontuactions
 
