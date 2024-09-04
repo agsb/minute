@@ -32,6 +32,8 @@ The first 12 words are used about every hundred words, the first 100 words are u
 
 Why count those rare words for letters frequency analysis [2] ?
 
+The first 32 words __the be and of to a in have it you he for they not that we on with this I do as at she but from by will or say go so__, account for over 50% of all ocurrencies.
+ 
 ## Processing
 
 The NGSL and Google-N-Gram corpus gives long ordened lists of _words and counts_, that can be converted into _word, percents of total and cumulative percents_ then sorted by high to low percents and the magics appear. 
