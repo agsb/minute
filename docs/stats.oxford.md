@@ -6,7 +6,7 @@ The [BNC Consortium, 2007, British National Corpus, XML edition, Literary and Li
 
 About 6,085,125 lines, 97,104,976 words, 571,473,405 characters at all. Around 5.88 letters by word and 15.96 words per line.
 
-Also consider that words do not have the same context as in books, and some symbols are used primarily for commentary and decoration.
+Also consider that words and symbols may have essay context in books and some symbols could be used for commentary, decoration or formating.
 
 The order of letter, Tab (T), Space (S) and NewLine (A)
 

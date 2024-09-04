@@ -1,12 +1,13 @@
-## Frequency on Linux kernel
+## Frequency on OpenJDK
 
 ### What ?
 
-The [openjavajdk](https://github.com/openjdk/jdk) were used as reference for frequency analysis of programming languages. 
+The [openjdk](https://github.com/openjdk/jdk) were used as reference for frequency analysis of programming languages.
 
-About 9,876,221 lines, 40,502,353 words, 383,620,937 characters at all. Around 9.47 letters by word and 4.10 words per line.
+About 9,876,221 lines, 40,502,353 words, 383,620,937 characters at all. 
+Around 9.47 letters by word and 4.10 words per line.
 
-Also consider that words do not have the same context as in books, and some symbols are used primarily for commentary and decoration.
+Also consider that words do not have the same context as in books, and some symbols are used primarily for commentary,  decoration or formating.
 
 The order of letter, Tab (T), Space (S) and NewLine (A)
 

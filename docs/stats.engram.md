@@ -7,7 +7,7 @@ The [Engram](https://engram.dev/) corpus were used as reference for frequency an
 About 2.219.640 lines, 101.486.070 words, 589.516.050 characters at all. 
 Around 5.81 letters by word and 45.72 words per line.
 
-Also consider that words do not have the same context as in books, and some symbols are used primarily for commentary and decoration, or could be used for formating.
+Also consider that words and symbols may have essay context in books and some symbols could be used for commentary, decoration or formating.
 
 The order of letter, Tab (T), Space (S) and NewLine (A)
 

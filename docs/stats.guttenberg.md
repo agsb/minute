@@ -1,12 +1,13 @@
-## Frequency on Oxford
+## Frequency on Project Guttenberg
 
 ### What ?
 
-The [Project Guttemberg](https://www.gutenberg.org/browse/scores/top) were used as reference for frequency analysis of english language. Those __Top 100 EBooks last 30 days__ in 02/08/2024 
+The [Project Guttenberg](https://www.gutenberg.org/browse/scores/top) were used as reference for frequency analysis of english language. Those __Top 100 EBooks last 30 days__ in 02/08/2024 
 
-About 2.329.096 lines, 15.428.146 words, 89.857.248 characters at all. Around 5.82 letters by word and 6.62 words per line.
+About 2.329.096 lines, 15.428.146 words, 89.857.248 characters at all. 
+Around 5.82 letters by word and 6.62 words per line.
 
-Also consider that words and symbols may have essay context in books.
+Also consider that words and symbols may have essay context in books and some symbols could be used for commentary, decoration or formating.
 
 The order of letter, Tab (T), Space (S) and NewLine (A)
 
