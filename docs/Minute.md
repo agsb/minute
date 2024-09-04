@@ -82,13 +82,13 @@ That list sequence will be well balanced within all criteria.
  | l | 2 | 20 |
  | w | 1 | 7 |
  | c | 1 | 9 |
- | u | 1 | 12 |
  | v | 1 | 11 |
  | p | 1 | 11 |
+ | u | 1 | 12 |
  | m | 1 | 12 |
  | | | |
 
-The table gives a layout of four layers, two for lowercase, layer 0 (**t a o h e n d i s f b r**),  layer 1 (**y l w c u v p m -k -v -j -x**), and two for uppercase. The 'q' and 'z' will be allocated with pontuactions layers. 
+The table gives a layout of four layers, two for lowercase, layer 0 (**t a o h e n d i s f b r**),  layer 1 (**y l w c v p u m -k -v -j -x**), and two for uppercase. The 'q' and 'z' will be allocated with pontuactions layers. 
   
 The order of letters in each layer needs be defined later. 
 
