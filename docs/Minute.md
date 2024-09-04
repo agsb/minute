@@ -28,12 +28,12 @@ _"Native speakers of English use around 2,000 to 3,000 words in daily life."_
 
 The NGSL 1.2 lists 2809 words to cover almost of 90% of all corpus of about 273.613.534 occurences of words, each with [SFI](http://www.manulex.org/docs/en/Manulex.pdf). 
 
-The first 12 words are used about every hundred words, the first 100 words are used about every thousand words, but above the first 943 words more need more than 10,000 words. 
+The first 32 words __the be and of to a in have it you he for they not that we on with this I do as at she but from by will or say go so__, account for over 50% of all ocurrencies.
+
+The first 12 words are used about every hundred words, those first 32 are used about every 3230 words (zzzz), and first 100 words are used about every thousand words, but above the first 943 words more need more than 10,000 words. 
 
 Why count those rare words for letters frequency analysis [2] ?
 
-The first 32 words __the be and of to a in have it you he for they not that we on with this I do as at she but from by will or say go so__, account for over 50% of all ocurrencies.
- 
 ## Processing
 
 The NGSL and Google-N-Gram corpus gives long ordened lists of _words and counts_, that can be converted into _word, percents of total and cumulative percents_ then sorted by high to low percents and the magics appear. 
