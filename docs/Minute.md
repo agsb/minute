@@ -6,13 +6,14 @@ __this file is work in progress__
 
 The usability of a keyboard depends on the arrangement of the keys and many designs that belong to the history of keyboards.
 
-A great comparison of alternatives for [many](https://www.preprints.org/manuscript/202103.0287/v1), 
-Other comparations as [classics keyboard](http://pinouchon.github.io/keyboard/layouts/2016/03/07/layouts-review-dvorak-vs-colemak-vs-carpalx-vs-workman.html) can also be used with modern ergonomic [splited keyboards](https://github.com/diimdeep/awesome-split-keyboards). Some [full-optimized](https://mk.bcgsc.ca/carpalx/?full_optimization) for continous use.
+A great comparison of actual alternatives were done by [Arno](https://www.preprints.org/manuscript/202103.0287/v1).
 
 Most of layouts uses frequency of words in corpus of books, as [New General Service List](https://www.newgeneralservicelist.com/) and 
-[Google Books Ngram Viewer](https://books.google.com/ngrams) for quantification of letters. 
+[Google Books Ngram Viewer](https://books.google.com/ngrams), [Project Gutenberg](https://www.gutenberg.org/) for quantification of letters.  Some notes and statistics about [Corpus](https://github.com/agsb/minute/blob/main/docs/Corpus_Frequency.md) and [NGSL](https://github.com/agsb/minute/blob/main/docs/NGSL_Frequency.md)
 
-There is a catch to these statistics. They count occurrences of all words, not just the most frequently occurring words. The long-tail phenomenon distorts the representation of letter frequency. 
+There is a catch to these statistics. They count occurrences of all words, not just the most frequently occurring words. 
+
+The long-tail phenomenon distorts the representation of letter frequency. 
 
 ## Alternative Frequency
 
@@ -30,67 +31,14 @@ The NGSL 1.2 lists 2809 words to cover almost of 90% of all corpus of about 273.
 
 ## Processing
 
-The NGSL and Google-N-Gram corpus gives long ordened lists of _words and counts_, that can be converted into _word, percents of total and cumulative percents_ then sortted by high to low percents and the magics appear. 
+The NGSL and Google-N-Gram corpus gives long ordened lists of _words and counts_, that can be converted into _word, percents of total and cumulative percents_ then sorted by high to low percents and the magics appear. 
 
-By ordering letters as they occurs in sorted list gives the sequence in table 1. For example, the letter **b** appears in 13th place and at the 14th word onwards, and the letter **z** in 26th place at the 563rd word onwards. The order resolves 62% of all most used common words, leaving the complex words to the long tail.
+By ordering letters as they occurs in sorted list gives the follow sequence
 
-| character | order | sequence | cumulative |
-|---|---|---|---|
-| t | 1 | 1 | 7,14 |
-| h | 2 | 1 | 7,14 |
-| e | 3 | 1 | 7,14 |
-| o | 4 | 2 | 11,30 |
-| f | 5 | 2 | 11,30 |
-| a | 6 | 3 | 14,34 |
-| n | 7 | 3 | 14,34 |
-| d | 8 | 3 | 14,34 |
-| i | 9 | 5 | 19,22 |
-| s | 10 | 7 | 22,40 |
-| r | 11 | 9 | 24,36 |
-| w | 12 | 12 | 26,63 |
-| | | | |
-| b | 13 | 14 | 28,00 |
-| y | 14 | 15 | 28,61 |
-| m | 15 | 24 | 33,37 |
-| c | 16 | 26 | 34,25 |
-| u | 17 | 27 | 34,63 |
-| v | 18 | 28 | 35,00 |
-| l | 19 | 36 | 37,52 |
-| p | 20 | 73 | 44,01 |
-| k | 21 | 90 | 45,92 |
-| g | 22 | 99 | 46,73 |
-| j | 23 | 132 | 49,16 |
-| x | 24 | 197 | 52,41 |
-| | | | |
-| q | 25 | 306 | 56,20 |
-| z | 26 | 563 | 62,03 |
+in table 1. For example, the letter **b** appears in 13th place and at the 14th word onwards, and the letter **z** in 26th place at the 563rd word onwards. The order resolves 62% of all most used common words, leaving the complex words to the long tail.
 
-## Maps 
 
-Using two pads of 8 keys, leave 2 keys for each finger but reserve the thumbs, two maps of 6 keys.
 
-          left hand             right hand
-           r    m    i            i    m    r
-        +----+----+----+       +----+----+----+   
-        | 0C | 0A | 08 |       | 07 | 09 | 0B |
-        | 06 | 04 | 02 |       | 01 | 03 | 05 |
-        +----|----|----|       |----|----|----+
-             | 14 | 12 |       | 11 | 13 |
-             +----+----+       +----+----+   
-                t    t            t    t
-
-          |  spc  | | enter |
-          |  altL | | altR  |             
-
-          layer 1
-          | W | I | S |  | D | O | N |
-          | F | A | R |  | T | H | E |
-
-          layer 2
-          |   |   | G |  |   |   |   |
-          |   | C |   |  | M | B | Y |
-  
-    
 with [datasets](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)
 
 [Texas SPED support Gov](https://spedsupport.tea.texas.gov/sites/default/files/2023-08/high-frequency-word-list.pdf)
@@ -98,3 +46,5 @@ with [datasets](https://storage.googleapis.com/books/ngrams/books/datasetsv3.htm
 [Natural Language Corpus Data: Beautiful Data](http://norvig.com/ngrams/)
 
 ## extras
+
+Other layout comparations as [classics keyboard](http://pinouchon.github.io/keyboard/layouts/2016/03/07/layouts-review-dvorak-vs-colemak-vs-carpalx-vs-workman.html) can also be used with modern ergonomic [splited keyboards](https://github.com/diimdeep/awesome-split-keyboards). Some [full-optimized](https://mk.bcgsc.ca/carpalx/?full_optimization) for continous use.
