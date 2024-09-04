@@ -26,9 +26,11 @@ _"The average English vocabulary is around 20,000 to 35,000 words."_
 
 _"Native speakers of English use around 2,000 to 3,000 words in daily life."_
 
-The NGSL 1.2 lists 2809 words to cover almost of 90% of all corpus of about 273.613.534 occurences of words, and shows the [SFI](http://www.manulex.org/docs/en/Manulex.pdf) for each. The first 12 words are used every hundred words, the first 100 words are used every thousand words, above the first 943 words more need more than 10,000 words. 
+The NGSL 1.2 lists 2809 words to cover almost of 90% of all corpus of about 273.613.534 occurences of words, and shows the [SFI](http://www.manulex.org/docs/en/Manulex.pdf) for each. 
 
-Why count those words for frequency analysis ?
+The first 12 words are used every hundred words, the first 100 words are used every thousand words, above the first 943 words more need more than 10,000 words. 
+
+Why count those rare words for frequency analysis ?
 
 ## Processing
 
