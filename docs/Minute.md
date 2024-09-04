@@ -36,7 +36,7 @@ Why count those rare words for frequency analysis ?
 
 The NGSL and Google-N-Gram corpus gives long ordened lists of _words and counts_, that can be converted into _word, percents of total and cumulative percents_ then sorted by high to low percents and the magics appear. 
 
-By ordering letters as they occurs in sorted list gives the follow sequences.
+Ordering letters as they occurs in sorted list, gives the follow sequences.
 
 ### used letter
 
@@ -46,26 +46,42 @@ This is the most used letters, at exact order from most used words
 
 ### first letter
 
-This is the most used bigrams, formed by a 'space' and a letter.
+This is the bigrams, formed by a 'space' and a letter.
 
 **t a b o i s w h c f p m n d l r y e g u v k j q z**
 
 ### last letter
 
-This is also the most used bigrams, formed by a letter and a 'space'.
+This is the bigrams, formed by a letter and a 'space'.
 
 **e t n d y o r f a l h s k u w m g p i c b x**
 
+### absolute
+
+This is the classic frequency, counting all ocurrencies.
+
+**e t o a n h i r s l d u c b f y m w p g v k x j q z**
+
 ### inter bigrams 
 
+  (work in progress)
+  
+### inter trigrams
 
+  (work in progress)
 
+## Balance
+
+Which sequence is better ? A simple method is sum the relative position of each letter in lists and sort in crescent order.
+
+**t a o e h n d i b f s r y l w u c m p g k v j x q z**
+
+## extras
+  
 with [datasets](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)
 
 [Texas SPED support Gov](https://spedsupport.tea.texas.gov/sites/default/files/2023-08/high-frequency-word-list.pdf)
 
 [Natural Language Corpus Data: Beautiful Data](http://norvig.com/ngrams/)
-
-## extras
 
 Other layout comparations as [classics keyboard](http://pinouchon.github.io/keyboard/layouts/2016/03/07/layouts-review-dvorak-vs-colemak-vs-carpalx-vs-workman.html) can also be used with modern ergonomic [splited keyboards](https://github.com/diimdeep/awesome-split-keyboards). Some [full-optimized](https://mk.bcgsc.ca/carpalx/?full_optimization) for continous use.
