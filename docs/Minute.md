@@ -10,9 +10,9 @@ A great comparison of actual alternatives were done by [Arno](https://www.prepri
 
 Most of layouts uses frequency words in corpus of texts, as [New General Service List](https://www.newgeneralservicelist.com/) and [Google Books Ngram Viewer](https://books.google.com/ngrams), [Project Gutenberg](https://www.gutenberg.org/) for quantification of letters. Some notes and statistics about [Corpus](https://github.com/agsb/minute/blob/main/docs/Corpus_Frequency.md) and [NGSL](https://github.com/agsb/minute/blob/main/docs/NGSL_Frequency.md)
 
-There is a catch to these statistics. They count occurrences of all words, not just the most frequently occurring words. 
+There is a catch to those statistics. They count occurrences for all words, not only the most frequently words. 
 
-The long-tail phenomenon distorts the representation of letter frequency. 
+_The long tail phenomenon hides the entropy of letter frequency_. 
 
 ## An alternative count
 
@@ -28,9 +28,10 @@ _"Native speakers of English use around 2,000 to 3,000 words in daily life."_
 
 The NGSL 1.2 lists 2809 words to cover almost of 90% of all corpus of about 273.613.534 occurences of words, and shows the [SFI](http://www.manulex.org/docs/en/Manulex.pdf) for each. 
 
-The first 12 words are used every hundred words, the first 100 words are used every thousand words, above the first 943 words more need more than 10,000 words. 
+The first 12 words are used about every hundred words, the first 100 words are used about every thousand words, but above the first 943 words more need more than 10,000 words. 
 
-Why count those rare words for frequency analysis ?
+Why count those rare words for frequency analysis [1] ?
+
 
 ## Processing
 
@@ -77,7 +78,9 @@ Which sequence is better ? A simple method is sum the relative position of each 
 **t a o e h n d i b f s r y l w u c m p g k v j x q z**
 
 ## extras
-  
+
+[1] For reference, "1,000 words is actually a relatively short piece. A dissertation would usually be in the region of 12,000 words, and university assignments can stretch to essays of 5,000 words".[Word Essay](https://wordcounter.net/blog/2016/08/22/101946_how-long-does-it-take-to-write-a-1000-word-essay.html). Daily counts for famous writers are about 1100 words.[Daily Word](https://wordcounter.net/blog/2017/12/04/103207_the-daily-word-counts-of-19-famous-writers.html)
+
 with [datasets](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)
 
 [Texas SPED support Gov](https://spedsupport.tea.texas.gov/sites/default/files/2023-08/high-frequency-word-list.pdf)
