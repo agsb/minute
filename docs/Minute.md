@@ -167,6 +167,7 @@ With the same processing:
 |  |  |  |
 
 | key | shft |
+| -- | -- |
 | | |
 | ' | " |
 | 1 | ! |
