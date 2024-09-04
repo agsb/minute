@@ -127,7 +127,46 @@ For easy, the digits and punctuations, also 'q' and 'z', are placed in proper la
 | engram | **. , ' - " 0 1 2 ) ( : 5 3 ? ! 9 4 6 8 7 / ; $ @ & % + = * > # _ < ] [ { } \| \ ~ ^ `** |
 | | | 
 
+With the same processing:
 
+| symbol | rank | place |
+| --- | --- | --- |
+| layer 3 | | |
+| , | 6 | 17 |
+ | . | 6 | 19 |
+ | ) | 6 | 28 |
+ | ( | 6 | 34 |
+ | - | 6 | 42 |
+ | ; | 5 | 38 |
+ | " | 5 | 41 |
+ | : | 4 | 32 |
+ | _ | 3 | 5 |
+ | ' | 3 | 12 |
+ | * | 3 | 13 |
+ | ? | 3 | 24 |
+ |  |  |  |
+| layer 4 | | |
+ | = | 3 | 26 |
+ | / | 3 | 29 |
+ | ! | 3 | 32 |
+ | # | 2 | 20 |
+ | \ | 2 | 21 |
+ | > | 1 | 11 |
+ | } | 1 | 12 |
+ | ] | 1 | 12 |
+ | [ | -6 | 108 |
+ | + | -6 | 111 |
+ | { | -6 | 111 |
+ | < | -6 | 132 |
+ |  |  |  |
+ | layer 5 | | |
+ | % | -6 | 134 |
+ | & | -6 | 139 |
+ | ` | -6 | 160 |
+ | $ | -6 | 164 |
+|  |  |  |
+ 
+ 
 ## extras
 
 [1] Other layout comparations as [classics keyboard](http://pinouchon.github.io/keyboard/layouts/2016/03/07/layouts-review-dvorak-vs-colemak-vs-carpalx-vs-workman.html) can also be used with modern ergonomic [splited keyboards](https://github.com/diimdeep/awesome-split-keyboards). Some [full-optimized](https://mk.bcgsc.ca/carpalx/?full_optimization) for continous use.
