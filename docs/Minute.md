@@ -165,8 +165,34 @@ With the same processing:
  | ` | -6 | 160 |
  | $ | -6 | 164 |
 |  |  |  |
- 
- 
+
+| key | shft |
+| | |
+| ' | " |
+| 1 | ! |
+| 2 | @ |
+| 3 | # |
+| 4 | $ |
+| 5 | % |
+| 6 | ¨ |
+| 7 | & |
+| 8 | * |
+| 9 | ( |
+| 0 | ) |
+| - | _ |
+| = | + |
+| ´ | ` |
+| { | [ |
+| } | ] |
+| ^ | ~ |
+| , | < |
+| . | > |
+| : | ; |
+| ? | / |
+| \| | \ |
+| | |
+
+
 ## extras
 
 [1] Other layout comparations as [classics keyboard](http://pinouchon.github.io/keyboard/layouts/2016/03/07/layouts-review-dvorak-vs-colemak-vs-carpalx-vs-workman.html) can also be used with modern ergonomic [splited keyboards](https://github.com/diimdeep/awesome-split-keyboards). Some [full-optimized](https://mk.bcgsc.ca/carpalx/?full_optimization) for continous use.
