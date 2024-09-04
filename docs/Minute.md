@@ -58,7 +58,7 @@ Which sequence is better ? A simple method is sum the relative position of each 
 
 **t a o e h n d i b f s r y l w u c m p g k v j x q z**
 
-This order gives four layers, two lowercase, layer 0 (**t a o e h n d i b f s r**),  layer 1 (**y l w u c m p g k v j x**), with more two for uppercase. The 'q' and 'z' will be allocated with pontuactions layers. 
+This "order" gives a layout of four layers, two lowercase, layer 0 (**t a o e h n d i b f s r**),  layer 1 (**y l w u c m p g k v j x**), with more two for uppercase. The 'q' and 'z' will be allocated with pontuactions layers. 
 
 The order of letters in each layer needs be defined later. Eg. / T H E / \ A N D \ and / R O F / \ I S B \ 
 
