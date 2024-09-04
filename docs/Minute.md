@@ -47,7 +47,7 @@ Ordering letters as they occurs in sorted list, gives the follow sequences.
 | absolute | **e t o a n h i r s l d u c b f y m w p g v k x j q z** | classic frequency, counting in all ocurrencies |
 | inter bigrams | (work in progress) | |
 | inter trigrams| (work in progress) | |
-| -- | -- |-- |
+|  |  | |
 
 ## Balance
 
