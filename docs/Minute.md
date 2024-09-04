@@ -8,7 +8,7 @@ The usability of a keyboard depends on the arrangement of the keys and many desi
 
 A great comparison of actual alternatives were done by [Arno](https://www.preprints.org/manuscript/202103.0287/v1).
 
-Most of layouts uses frequency words in corpus of texts, as [New General Service List](https://www.newgeneralservicelist.com/) and [Google Books Ngram Viewer](https://books.google.com/ngrams), [Project Gutenberg](https://www.gutenberg.org/) for quantification of letters. Some notes and statistics about [Corpus](https://github.com/agsb/minute/blob/main/docs/Corpus_Frequency.md) and [NGSL](https://github.com/agsb/minute/blob/main/docs/NGSL_Frequency.md)
+Most of layouts uses frequency words in corpus of texts, as [New General Service List](https://www.newgeneralservicelist.com/) and [Google Books Ngram Viewer](https://books.google.com/ngrams), [Project Gutenberg](https://www.gutenberg.org/) for quantification of letters. Some notes and statistics about [Corpus](https://github.com/agsb/minute/blob/main/docs/Corpus_Frequency.md) and [NGSL](https://github.com/agsb/minute/blob/main/docs/NGSL_Frequency.md).[1]
 
 There is a catch to those statistics. They count occurrences for all words, not only the most frequently words. 
 
@@ -30,8 +30,7 @@ The NGSL 1.2 lists 2809 words to cover almost of 90% of all corpus of about 273.
 
 The first 12 words are used about every hundred words, the first 100 words are used about every thousand words, but above the first 943 words more need more than 10,000 words. 
 
-Why count those rare words for frequency analysis [1] ?
-
+Why count those rare words for letters frequency analysis [2] ?
 
 ## Processing
 
@@ -41,7 +40,7 @@ Ordering letters as they occurs in sorted list, gives the follow sequences.
 
 ### used letter
 
-This is the most used letters, at exact order from most used words
+This is the most used letters, from most used words, sorted by most frequency of word
 
 **t h e b a n d o f i v y u r w s m l g c k p j x q z**
 
@@ -49,13 +48,13 @@ This is the most used letters, at exact order from most used words
 
 This is the bigrams, formed by a 'space' and a letter.
 
-**t a b o i s w h c f p m n d l r y e g u v k j q z**
+**t a b o i s w h c f p m n d l r y e g u v k j q z x**
 
 ### last letter
 
 This is the bigrams, formed by a letter and a 'space'.
 
-**e t n d y o r f a l h s k u w m g p i c b x**
+**e t n d y o r f a l h s k u w m g p i c b x j q v z**
 
 ### absolute
 
@@ -73,13 +72,19 @@ This is the classic frequency, counting all ocurrencies.
 
 ## Balance
 
-Which sequence is better ? A simple method is sum the relative position of each letter in lists and sort in crescent order.
+Which sequence is better ? A simple method is sum the relative position of each letter in lists and sort in crescent order, then lower scores is better.
 
 **t a o e h n d i b f s r y l w u c m p g k v j x q z**
 
+## digits and pontuactions
+
+The NGSL and NGRAM does not provide any information about digits and pontuaction, then some corpus must be used. The linux kernel, the openjdk, zzzz
+
 ## extras
 
-[1] For reference, "1,000 words is actually a relatively short piece. A dissertation would usually be in the region of 12,000 words, and university assignments can stretch to essays of 5,000 words".[Word Essay](https://wordcounter.net/blog/2016/08/22/101946_how-long-does-it-take-to-write-a-1000-word-essay.html). Daily counts for famous writers are about 1100 words.[Daily Word](https://wordcounter.net/blog/2017/12/04/103207_the-daily-word-counts-of-19-famous-writers.html)
+[1] Other layout comparations as [classics keyboard](http://pinouchon.github.io/keyboard/layouts/2016/03/07/layouts-review-dvorak-vs-colemak-vs-carpalx-vs-workman.html) can also be used with modern ergonomic [splited keyboards](https://github.com/diimdeep/awesome-split-keyboards). Some [full-optimized](https://mk.bcgsc.ca/carpalx/?full_optimization) for continous use.
+
+[2] For reference, "1,000 words is actually a relatively short piece. A dissertation would usually be in the region of 12,000 words, and university assignments can stretch to essays of 5,000 words".[Word Essay](https://wordcounter.net/blog/2016/08/22/101946_how-long-does-it-take-to-write-a-1000-word-essay.html). Daily counts for famous writers are about 1100 words.[Daily Word](https://wordcounter.net/blog/2017/12/04/103207_the-daily-word-counts-of-19-famous-writers.html)
 
 with [datasets](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)
 
@@ -87,4 +92,3 @@ with [datasets](https://storage.googleapis.com/books/ngrams/books/datasetsv3.htm
 
 [Natural Language Corpus Data: Beautiful Data](http://norvig.com/ngrams/)
 
-Other layout comparations as [classics keyboard](http://pinouchon.github.io/keyboard/layouts/2016/03/07/layouts-review-dvorak-vs-colemak-vs-carpalx-vs-workman.html) can also be used with modern ergonomic [splited keyboards](https://github.com/diimdeep/awesome-split-keyboards). Some [full-optimized](https://mk.bcgsc.ca/carpalx/?full_optimization) for continous use.
