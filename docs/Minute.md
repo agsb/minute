@@ -103,7 +103,7 @@ That list sequence will be well balanced within all criteria.
 
 (The letters with negative rank are not in the first 12 places of files) 
 
-The table gives a layout of four layers, two for lowercase, layer 0 (**t a o h e n d i s f b r**),  layer 1 (**y l w c v p u m g k j x**), and two for uppercase. The 'q' and 'z' will be allocated with pontuactions layers. 
+The table gives a layout of four layers, two for lowercase, layer 0 (**t a o h e n d i s f b r**),  layer 1 (**y l w c v p u m g k j x**), and two for uppercase. The 'q' and 'z' will be allocated into pontuactions layers. 
   
 The order of letters in each layer needs be defined later. 
 
