@@ -41,10 +41,10 @@ Ordering letters as they occurs in sorted list, gives the follow sequences.
 ### 
 | order | list | what |
 | -- | -- |-- |
-| used letter | **t h e b a n d o f i v y u r w s m l g c k p j x q z** | This is the most used letters, from most used of word |
-| first letter | **t a b o i s w h c f p m n d l r y e g u v k j q z x** |This is the bigrams, formed by a 'space' and a letter |
-| last letter | **e t n d y o r f a l h s k u w m g p i c b x j q v z** | This is the bigrams, formed by a letter and a 'space' |
-| absolute | **e t o a n h i r s l d u c b f y m w p g v k x j q z** | This is the classic frequency, counting all ocurrencies |
+| used letter | **t h e b a n d o f i v y u r w s m l g c k p j x q z** | the most used letters, counting in as used in words |
+| first letter | **t a b o i s w h c f p m n d l r y e g u v k j q z x** | bigrams formed by a 'space' and a letter |
+| last letter | **e t n d y o r f a l h s k u w m g p i c b x j q v z** | bigrams formed by a letter and a 'space' |
+| absolute | **e t o a n h i r s l d u c b f y m w p g v k x j q z** | classic frequency, counting in all ocurrencies |
 | -- | -- |-- |
 | inter bigrams | (work in progress) | |
 | inter trigrams| (work in progress) | |
