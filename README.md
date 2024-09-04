@@ -10,7 +10,7 @@ A really minute splited software mapped keyboard, using two pads of ten (5x2) sw
  
 ### Left and Right 
 
-__Layout yet not defined__ See [Minute Layout Study](https://github.com/agsb/minute/docs/Minute.md)
+__Layout yet not defined__ See [Minute Layout Study](https://github.com/agsb/minute/blob/main/docs/Minute.md)
 
 ![image](https://github.com/agsb/minute/blob/main/minimal-9x9-split.png)
 
