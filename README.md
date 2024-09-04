@@ -94,7 +94,7 @@ Where are the keyboard mapped layouts ? https://github.com/agsb/minute/blob/main
 
 ## Notes
 
-Some complementary and [random notes](https://github.com/agsb/minute/tree/main/docs) about frequencies, layouts, comobs and dances.
+Some complementary and [random notes](https://github.com/agsb/minute/tree/main/docs) about frequencies, layouts, combos and dances.
 
 # License
 
