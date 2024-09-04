@@ -38,37 +38,17 @@ The NGSL and Google-N-Gram corpus gives long ordened lists of _words and counts_
 
 Ordering letters as they occurs in sorted list, gives the follow sequences.
 
-### used letter
-
-This is the most used letters, from most used words, sorted by most frequency of word
-
-**t h e b a n d o f i v y u r w s m l g c k p j x q z**
-
-### first letter
-
-This is the bigrams, formed by a 'space' and a letter.
-
-**t a b o i s w h c f p m n d l r y e g u v k j q z x**
-
-### last letter
-
-This is the bigrams, formed by a letter and a 'space'.
-
-**e t n d y o r f a l h s k u w m g p i c b x j q v z**
-
-### absolute
-
-This is the classic frequency, counting all ocurrencies.
-
-**e t o a n h i r s l d u c b f y m w p g v k x j q z**
-
-### inter bigrams 
-
-  (work in progress)
-  
-### inter trigrams
-
-  (work in progress)
+### 
+| order | list | what |
+| -- | -- |-- |
+| used letter | **t h e b a n d o f i v y u r w s m l g c k p j x q z** | This is the most used letters, from most used of word |
+| first letter | **t a b o i s w h c f p m n d l r y e g u v k j q z x** |This is the bigrams, formed by a 'space' and a letter |
+| last letter | **e t n d y o r f a l h s k u w m g p i c b x j q v z** | This is the bigrams, formed by a letter and a 'space' |
+| absolute | **e t o a n h i r s l d u c b f y m w p g v k x j q z** | This is the classic frequency, counting all ocurrencies |
+| -- | -- |-- |
+| inter bigrams | (work in progress) | |
+| inter trigrams| (work in progress) | |
+| -- | -- |-- |
 
 ## Balance
 
@@ -76,10 +56,24 @@ Which sequence is better ? A simple method is sum the relative position of each 
 
 **t a o e h n d i b f s r y l w u c m p g k v j x q z**
 
+This order gives four layers, two lowercase, layer 0 (**t a o e h n d i b f s r**),  layer 1 (**y l w u c m p g k v j x**), with more two for uppercase. The 'q' and 'z' will be allocated with pontuactions layers.
+
 ## digits and pontuactions
 
-The NGSL and NGRAM does not provide any information about digits and pontuaction, then some corpus must be used. The linux kernel, the openjdk, zzzz
+The NGSL and NGRAM does not provide any information about digits and pontuaction, then some corpus must be used to gather it. 
 
+The [linux kernel](https://github.com/agsb/minute/blob/main/docs/stats.linux.md), the [openjdk](https://github.com/agsb/minute/blob/main/docs/stats.openjava.md), the [Oxford Texts](https://github.com/agsb/minute/blob/main/docs/stats.oxford.md), the [Project Guttenberg](https://github.com/agsb/minute/blob/main/docs/stats.guttenberg.md) and the [Engram](https://github.com/agsb/minute/blob/main/docs/stats.engram.md).
+
+For easy, the digits and pontuactions, also 'q' and 'z', are placed in proper layers, grouped by than usability, not just by frequency
+
+| source | list |
+| --- | --- |
+| linux | **_ 0 , ) ( 1 * ; 2 - = # / > 3 4 . 8 6 " } { 5 7 & 9 : ] [ < \ + \| % ! @ ' ~ ` ? ^ $** |
+| openjdk | **. 0 ) ( * , ; " / \ 1 = 2 - } { 5 _ 4 3 6 9 + 8 @ 7 < > ] [ : ' ! & \| ? # ~ % $ ` ^** |
+| oxford | **. , ' - 1 0 9 ? ) ( 2 : 8 5 3 ; 7 6 4 " ! ] [ / % } { ` _ \ @ > = < + * & $ #** |
+| gutenberg | **, . _ * ; - : ) ( ? ! 1 2 " 3 ' 6 5 4 0 + ^ ] [ 9 8 7 ~ } \| { ` \ > = < / & % $ #** |
+| engram | **. , ' - " 0 1 2 ) ( : 5 3 ? ! 9 4 6 8 7 / ; $ @ & % + = * > # _ < ] [ { } \| \ ~ ^ `** |
+| | | 
 ## extras
 
 [1] Other layout comparations as [classics keyboard](http://pinouchon.github.io/keyboard/layouts/2016/03/07/layouts-review-dvorak-vs-colemak-vs-carpalx-vs-workman.html) can also be used with modern ergonomic [splited keyboards](https://github.com/diimdeep/awesome-split-keyboards). Some [full-optimized](https://mk.bcgsc.ca/carpalx/?full_optimization) for continous use.
