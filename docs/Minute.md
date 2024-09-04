@@ -113,7 +113,7 @@ Eg. keyline 1 / tT hH eE / \ aA nN dD \, keyline 2 / fF oO rR / \ bB iI sS \
 
 The NGSL and NGRAM does not provide any information about digits and punctuation, then some corpus must be used to gather it. 
 
-The [linux kernel](https://github.com/agsb/minute/blob/main/docs/stats.linux.md), the [openjdk](https://github.com/agsb/minute/blob/main/docs/stats.openjava.md), the [Oxford Texts](https://github.com/agsb/minute/blob/main/docs/stats.oxford.md), the [Project Guttenberg](https://github.com/agsb/minute/blob/main/docs/stats.guttenberg.md) and the [Engram](https://github.com/agsb/minute/blob/main/docs/stats.engram.md).
+The [Linux kernel source](https://github.com/agsb/minute/blob/main/docs/stats.linux.md), the [Openjdk source](https://github.com/agsb/minute/blob/main/docs/stats.openjava.md), the [Python source](https://www.python.org/ftp/python/3.12.5/Python-3.12.5.tgz), the [Oxford Texts](https://github.com/agsb/minute/blob/main/docs/stats.oxford.md), the [Project Guttenberg](https://github.com/agsb/minute/blob/main/docs/stats.guttenberg.md) and the [Engram](https://github.com/agsb/minute/blob/main/docs/stats.engram.md).
 
 For easy, the digits and punctuations, also 'q' and 'z', are placed in proper layers, grouped by than usability, not just by frequency
 
@@ -121,10 +121,13 @@ For easy, the digits and punctuations, also 'q' and 'z', are placed in proper la
 | --- | --- |
 | linux | **_ 0 , ) ( 1 * ; 2 - = # / > 3 4 . 8 6 " } { 5 7 & 9 : ] [ < \ + \| % ! @ ' ~ ` ? ^ $** |
 | openjdk | **. 0 ) ( * , ; " / \ 1 = 2 - } { 5 _ 4 3 6 9 + 8 @ 7 < > ] [ : ' ! & \| ? # ~ % $ ` ^** |
+| python | **_ . ) ( , ' " = : 0 1 - # 2 \ ] [ 3 > 4 * 5 / 8 6 9 + 7 { } % < @ ; | ? ! ` & ^ $ ~** |
 | oxford | **. , ' - 1 0 9 ? ) ( 2 : 8 5 3 ; 7 6 4 " ! ] [ / % } { ` _ \ @ > = < + * & $ #** |
 | gutenberg | **, . _ * ; - : ) ( ? ! 1 2 " 3 ' 6 5 4 0 + ^ ] [ 9 8 7 ~ } \| { ` \ > = < / & % $ #** |
 | engram | **. , ' - " 0 1 2 ) ( : 5 3 ? ! 9 4 6 8 7 / ; $ @ & % + = * > # _ < ] [ { } \| \ ~ ^ `** |
 | | | 
+
+
 ## extras
 
 [1] Other layout comparations as [classics keyboard](http://pinouchon.github.io/keyboard/layouts/2016/03/07/layouts-review-dvorak-vs-colemak-vs-carpalx-vs-workman.html) can also be used with modern ergonomic [splited keyboards](https://github.com/diimdeep/awesome-split-keyboards). Some [full-optimized](https://mk.bcgsc.ca/carpalx/?full_optimization) for continous use.
