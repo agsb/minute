@@ -2,6 +2,13 @@ __this file is work in progress__
 
 # Minute 
 
+__Minute__ is a reduced keyboard, splited and orthogonal, with roll-over for twelve "letters" keys plus six "action" keys.
+
+Why twelve keys for letters ? The first twelve letters accounts for about 80% of all use. __"Use Pareto, Luke"__
+
+why six keys for actions ? For "hold-taps-dances" combos. 
+
+
 ## Frequency Analysis
 
 The usability of a keyboard depends on the arrangement of the keys and many designs that belong to the history of keyboards.
