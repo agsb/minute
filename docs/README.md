@@ -1,6 +1,11 @@
 
 _this file is a stub_
 
+## What 
+
+This directory group some essays and ideas around development of 
+the [Minute](https://github.com/agsb/minute/blob/main/docs/Minute.md) keyboard.
+
 ## Why
 
 Aoccdrnig to rscheearch at Cmabirgde Uinervtisy, it
@@ -13,14 +18,23 @@ wrod as a wlohe. Amzanig huh?
 
 <https://www.cs.utexas.edu/~byoung/cs361/lecture35.pdf>
 
-## What 
+Simplify.
 
-This directory group some essays and ideas around development of 
-the [Minute](https://github.com/agsb/minute/blob/main/docs/Minute.md) keyboard.
+The QWERTY layout comes out from mechanical time of technology. 
+It is ergonomic disastrous, cause multiple injuries and is not optmized for humans.
 
-Notes about [Design](https://github.com/agsb/minute/blob/main/docs/2review/Design.md) and [Layout](https://github.com/agsb/minute/blob/main/docs/2review/Layouts.md)
+Modern keyboard are ortholinear and splited, with more combos than shift something.
+The use of Shift, Control, Alter and Meta keys as modifiers for define more keys than physicaly exists.
+
+But many modern designs and layouts still preserve qwerty features.
+
+How optimze and simplify ?
 
 ## How
+
+A alternative [frequency correlation analysis]((https://github.com/agsb/minute/blob/main/docs/Frequency.md).
+
+Some notes about [Design](https://github.com/agsb/minute/blob/main/docs/Design.md) and [Layout](https://github.com/agsb/minute/blob/main/docs/Layouts.md)
 
 
 
