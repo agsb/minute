@@ -130,12 +130,14 @@ For easy, the digits and punctuations, also 'q' and 'z', are placed in proper la
 | linux | **_ 0 , ) ( 1 * ; 2 - = # / > 3 4 . 8 6 " } { 5 7 & 9 : ] [ < \ + \| % ! @ ' ~ ` ? ^ $** |
 | openjdk | **. 0 ) ( * , ; " / \ 1 = 2 - } { 5 _ 4 3 6 9 + 8 @ 7 < > ] [ : ' ! & \| ? # ~ % $ ` ^** |
 | python | **_ . ) ( , ' " = : 0 1 - # 2 \ ] [ 3 > 4 * 5 / 8 6 9 + 7 { } % < @ ; | ? ! ` & ^ $ ~** |
+| engram | **. , ' - " 0 1 2 ) ( : 5 3 ? ! 9 4 6 8 7 / ; $ @ & % + = * > # _ < ] [ { } \| \ ~ ^ `** |
 | oxford | **. , ' - 1 0 9 ? ) ( 2 : 8 5 3 ; 7 6 4 " ! ] [ / % } { ` _ \ @ > = < + * & $ #** |
 | gutenberg | **, . _ * ; - : ) ( ? ! 1 2 " 3 ' 6 5 4 0 + ^ ] [ 9 8 7 ~ } \| { ` \ > = < / & % $ #** |
-| engram | **. , ' - " 0 1 2 ) ( : 5 3 ? ! 9 4 6 8 7 / ; $ @ & % + = * > # _ < ] [ { } \| \ ~ ^ `** |
 | | | 
 
-With the same processing:
+Note that oxford and guttemberg do not shows __@ ^ ` ´ ~__  
+
+With the same processing (explained above):
 
 | symbol | rank | place |
 | --- | --- | --- |
