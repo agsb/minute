@@ -16,6 +16,8 @@ A basic statistical review with absolute **counter, [SFI](http://www.manulex.org
 Those results are tabulated and results in a line of ordened characters for each corpus. 
 then summing the relative positions a character in each line, results in a weight ordered line where less is better.
 
+Note that backtick is also used as apostrofe. 
+
 ## Count in order and sum
 
 ASCII characters, Space is (S), Enter is (A) and Tabulation is (T)
