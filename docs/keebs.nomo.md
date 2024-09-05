@@ -41,16 +41,10 @@ Same as layer 0, but uppercase (shift)
 | [ | + | { | q | z | < |
 | ! | # | \ | > | } | ] |
 
-## **layer 7**
-| | | | | | |
-| --- | --- | --- | --- | --- | --- |
-| X | X | X | X | X | X |
-| % | & | ` | $ | X | X |
 
-## **layer 8**
+## **layer 7**
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
 | Home | Up | End | Q | Z | Menu |
 | Left | Dn | Right | Cut | Copy | Paste |
-
 
