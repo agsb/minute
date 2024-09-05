@@ -2,7 +2,9 @@
 cat $1 | cut -f 1,2,4 -d ',' | sed -e '1s/^/# /' | \
     tr '[:upper:]' '[:lower:]' > $1.t1
 
-awk -f percents.awk $1.t1 | tr -s ' ' > $1.t2
+awk -f percents.awk $1.t1 | sort -n -r -k 2 | tr -s ' ' > $1.t10
+
+awk -f perwords.awk $1.t1 | tr -s ' ' > $1.t2
 
 awk -f ngramsts.awk $1.t2 > $1.t3
 

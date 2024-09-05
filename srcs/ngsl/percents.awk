@@ -3,7 +3,7 @@
 # from a ngsl file with 'lemma, rank, ppm'
 # a csv file !
 #
-# convert ppm count into percent relative
+# convert ppm count into letter percent relative
 #   agsb@ 2024
 #
 
@@ -11,44 +11,49 @@ BEGIN {
 
     FS=","
 
-    sum = 0
-
-    cnt = 0
-
-    file = ARGV[1]
-
-    while ( (getline < file) > 0) {
-        
-        if (cnt++ > 0) 
-            sum += $3
-
-    }
-    
-    close (file)
 }
 
 {
-    
+
+    if (/^#/) next;
+
+    if (m == 0) m = NF
+
+    if ( m != NF) print " error " NR " " $0 
+
+    n = split ($1,chars,"")
+            
+    for (i = 1; i <= n; i++) {
+        j = chars[i]
+        sumc[j] += $3;
+        }
     
 }
+
 
 END {
 
     tot = 0
 
-    cnt = 0
+    sum = 0
 
-    file = ARGV[1]
+    for (j in sumc) {
+        
+        sum += (sumc[j])
 
-    while ( (getline < file) > 0) {
+        }
 
-        if ( cnt++ == 0 ) print $0
+        
+    for (j in sumc) {
+        
+        val = sumc[j]
 
-        else {
-            per = (0.0 + $3) / sum * 100.0
-            tot = tot + per
-            printf (" %s, %6d, %7.4f, %7.4f\n", $1, $3, per, tot)
-            }
+        per = (val) / sum * 100.0
+        
+        sfi = 10 * (log (val) / log (10) + 4) 
+
+        printf (" %s, %6d, %7.4f, %7.4f\n", j, val, per, sfi)
+        
         }
         
     }
