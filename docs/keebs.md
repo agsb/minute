@@ -1,9 +1,8 @@
+__this file is a work_in_progress__
 
 # Design and Layout
 
-
-
-the first layer took about 75% of all word uses
+The first layer occurs in about 75% of all words. The order is not yet adjusted for balanced finger use.
 
 
 ## **layer 0**
