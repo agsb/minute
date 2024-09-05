@@ -14,6 +14,10 @@ wrod as a wlohe. Amzanig huh?
 <https://www.cs.utexas.edu/~byoung/cs361/lecture35.pdf>
 
 This directory group some essays and ideas around development of 
-the [Minute]( ) keyboard.
+the [Minute](https://github.com/agsb/minute/blob/main/docs/Minute.md) keyboard.
+
+Notes about [Design](https://github.com/agsb/minute/blob/main/docs/2review/Design.md) and [Layout](https://github.com/agsb/minute/blob/main/docs/2review/Layouts.md)
+
+
 
 
