@@ -41,10 +41,10 @@ This is the most used bigrams, formed by a letter and a 'space'.
 
 ### classic 
 
-Summing the counts (ppm) for each letter in word gives the following table
+Using the NGSL-1.2 corpus of 2809 words with frequency per million (ppm), summing the frequencies (ppm) for each letter for all words, gives the following table. The first twelve letters accounts for about 80% of all use. __"Use Pareto, Luke"__
 
   | letter | counts | percents | sfi | cumulae |
-  | | | | | |
+  | --- | --- | --- | ---  | --- |
   | e | 462032 | 13.9686 | 96.6467 | 13.97 |
   | t | 339743 | 10.2715 | 95.3115 | 24.24 |
   | o | 293377 | 8.8697 | 94.6743 | 33.11 |
