@@ -206,7 +206,7 @@ With the same processing:
 
 [1] Other layout comparations as [classics keyboard](http://pinouchon.github.io/keyboard/layouts/2016/03/07/layouts-review-dvorak-vs-colemak-vs-carpalx-vs-workman.html) can also be used with modern ergonomic [splited keyboards](https://github.com/diimdeep/awesome-split-keyboards). Some [full-optimized](https://mk.bcgsc.ca/carpalx/?full_optimization) for continous use.
 
-[2] For reference, "1,000 words is actually a relatively short piece. A dissertation would usually be in the region of 12,000 words, and university assignments can stretch to essays of 5,000 words". [Word Essay](https://wordcounter.net/blog/2016/08/22/101946_how-long-does-it-take-to-write-a-1000-word-essay.html). Daily counts for famous writers are about 1100 words. [Daily Word](https://wordcounter.net/blog/2017/12/04/103207_the-daily-word-counts-of-19-famous-writers.html)
+[2] For reference, [Word Essay](https://wordcounter.net/blog/2016/08/22/101946_how-long-does-it-take-to-write-a-1000-word-essay.html)  "1,000 words is actually a relatively short piece. A dissertation would usually be in the region of 12,000 words, and university assignments can stretch to essays of 5,000 words". [Daily Word](https://wordcounter.net/blog/2017/12/04/103207_the-daily-word-counts-of-19-famous-writers.html) Daily counts for famous writers are about 1100 words. 
 
 with [datasets](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)
 
