@@ -1,58 +1,72 @@
 __this file is a work_in_progress__
-
+					
 # Design and Layout
 
-The first layer occurs in about 75% of all words. The order is not yet adjusted for balanced finger use.
+The letters at first layer (1) occurs in about 75% of all words. 
 
-Some order was changed, for sake of easy visual and use. 
-eg. all digits at same layer, period and comma grouped at digits layer, q and z grouped at low used layer. 
+Some layers swap letters, for sake of easy visual and use. 
+eg. all digits at same layer, period and comma grouped at digits layer (0), q and z grouped at low used layer. 
+
+## Limitations
+
+The order of letters inside layers is not yet adjusted or balanced finger use.
+
+For sake of use "hold and tap", no automatic key repeat allowed, (maybe as combo ?)
 
 ## **layer 0**
-| | | | | | |
-| --- | --- | --- | --- | --- | --- |
-| d | i | f | s | b | r |
-| t | a | o | h | e | n |
-| | | | | | |
 
-## **layer 1**
-| | | | | | |
-| --- | --- | --- | --- | --- | --- |
-| u | m | g | k | j | x |
-| y | l | w | c | p | v |
-| | | | | | |
-
-## **layer 2**
-Same as layer 0, but uppercase (shif)
-
-## **layer 3**
-Same as layer 0, but uppercase (shift)
-
-## **layer 4**
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
 | 4 | 5 | 6 | 7 | 8 | 9 |
 | , | . | 0 | 1 | 2 | 3 |
 | | | | | | |
 
-## **layer 5**
+## **layer 1**
+
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
-| _ | ' | * | ? | = | / |
-| - | ) | ( | ; | " | : |
+| d | i | f | s | b | r |
+| t | a | o | h | e | n |
+| | | | | | |
+
+## **layer 2**
+
+Same as layer 1, but uppercase (shif)
+
+## **layer 3**
+
+| | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| u | m | g | k | j | x |
+| y | l | w | c | p | v |
+| | | | | | |
+
+## **layer 4**
+
+Same as layer 3, but uppercase (shift)
+
+## **layer 5**
+
+| | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| _ | = | * | ? | ' | / |
+| - | ( | ) | ; | " | : |
 | | | | | | |
 
 ## **layer 6**
+
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
-| [ | + | { | < | @ | % |
-| ! | # | \ | > | } | ] |
+| \ | + | # | ! | @ | % |
+| < | { | [ | > | } | ] |
 | | | | | | |
 
 ## **layer 7**
+
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
 | q | z |  |  |  |  |
-| & | $ | | | ` | ~ | ^ |
+| & | $ | \| | ` | ~ | ^ |
 | | | | | | |
 
 
