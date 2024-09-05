@@ -4,6 +4,7 @@ __this file is a work_in_progress__
 
 The first layer occurs in about 75% of all words. The order is not yet adjusted for balanced finger use.
 
+Some order was changed, for sake of easy use. eg. all digits at same layer, period and comma in digits layer, q and z grouped at low used layer. 
 
 ## **layer 0**
 | | | | | | |
