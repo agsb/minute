@@ -2,6 +2,8 @@ __this file is a work_in_progress__
 					
 # Design and Layout
 
+The Minute were designed to use combination of keys, called chords in stenotypes, and timed touchs for hold or tip-and-tap, all for doing combos.
+
 The letters at first layer (1) occurs in about 75% of all words. 
 
 Some layers swap letters, for sake of easy visual and use. 
