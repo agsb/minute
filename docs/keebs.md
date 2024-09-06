@@ -17,7 +17,7 @@ The symbols uses threee layers, (always) active only for next key pressed.
 
 The Minute is splited in two pads, left and right, each groups of six keys (A, for ring-middle-index), two keys (B, for thumb), and one key (C, for pinky). 
 
-For easy, the pinky keys are always **shift**, as in any qwerty keyboard. Dual tap acts as **Caps-Lock**, on or off.
+For easy, the pinky keys are always **shift**,  one tap, shifts the next key, dual tap acts as **Caps-Lock**, on or off, and hold acts as in any common qwerty keyboard. 
 
 At ring-middle-index keys, any key changes the active layer while holded, acts like a shift key but for layers.
 
@@ -31,12 +31,21 @@ The thumb keys, are called M0, M1, M2, M4, does a dance as
 
 | Key | Layer 0 | Layer 1 | Layer 2 | Layer 3 |
 | --- | --- | --- | --- | --- |
+| tap | | | | | 
 | M0 | Space | | |
 | M1 | Enter | | |
 | M2 | Layer Up | | |
-| M2 | (hold) | | |
 | M3 | Layer Dn | | |
-| M3 | (hold) | | |
+| hold | | | | |
+| M0 |  | | |
+| M1 |  | | |
+| M2 |  | | |
+| M3 |  | | |
+| dual tap | | | | |
+| M0 |  | | |
+| M1 |  | | |
+| M2 | | | |
+| M3 | | | |
 | | | | | 
 
 the two pads of six keystwelve 
