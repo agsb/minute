@@ -1,6 +1,6 @@
 # A Minute keyboard 
 
-_this file is a stub_ 
+ _this project is a work in progress,still just ideas and thoughts, not finished, please be patient_
 
 [_"Abandon all QWERTY all ye who enter here"_](https://www.bbc.com/worklife/article/20180521-why-we-cant-give-up-this-odd-way-of-typing)
 
