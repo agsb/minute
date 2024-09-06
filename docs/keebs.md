@@ -5,7 +5,9 @@ __this file is a work_in_progress__
 The Minute were designed to use combination of keys, called chords in stenotypes, and timed touch to hold or dual-tap, for doing combos.
 
 The Layers have 12 keys each, grouped together for ease of use and visual reference. 
-For example, _T H E A N D_ is better than _E T A N D H_
+For example, 
+	
+ 	_T H E A N D_ is better than _E T A N D H_
 
 The digits, semicolons and commas were grouped together in the same _numeric_ layer. The letters q and z were grouped together with other symbols in the _low usage_ layer.
 
@@ -17,9 +19,11 @@ The symbols uses threee layers, (always) active only for next key pressed.
 
 The Minute is splited in two pads, left and right, each groups of six keys (A, for ring-middle-index), two keys (B, for thumb), and one key (C, for pinky). 
 
-For easy, the pinky keys are always used for **shift**. With one tap, shifts the next key, dual tap acts as **Caps-Lock**, on or off, and hold acts as in any common qwerty keyboard. 
+For easy, the **pinky keys** are always used for **shift**. With one tap, shifts the next key, dual tap acts as **Caps-Lock**, on or off, and hold acts as in any common qwerty keyboard. 
 
-At ring-middle-index keys, any key acts like a shift for layers, changes the active layer (1 to 6) while held. Use one hand to select layer and other to select key.
+---
+
+At **ring-middle-index keys**, any key acts like a shift for layers, changes the active layer (1 to 6) while held. Use one hand to select layer and other to select key.
 
 | ring | middle | index || index | middle | ring |
 | --- | --- | --- | --- |  --- | --- | --- |
@@ -27,7 +31,11 @@ At ring-middle-index keys, any key acts like a shift for layers, changes the act
 | 3 | 2 | 1 || 1 | 2 | 3 |
 | | | | | | |
 
-The thumb keys, are called M0, M1, M2, M4, does a dance as
+PS: By held thumb keys M1 and M3, could access more (7-12), (13-18) layers.
+
+---
+
+The **thumb keys**, called M0, M1, M2, M3, does a dance as
 
 | Key | Layer 0 | Layer 1 | Layer 2 | Layer 3 |
 | --- | --- | --- | --- | --- |
@@ -48,18 +56,15 @@ The thumb keys, are called M0, M1, M2, M4, does a dance as
 | M3 | | | |
 | | | | | 
 
-the two pads of six keystwelve 
+---
 
-### Layers
+## Layers
 
-
-The order of layers could be changed
-### Limitations
+The characters were grouped into layers using following alternative frequency analysis of the NGSL corpus for letters and classical frequency analysis for punctuation and digits.
 
 The order of letters inside layers is not yet adjusted or balanced finger use.
 
-For sake of use "hold and tap", no automatic key repeat allowed, (maybe as combo ?)
-
+For sake of use "hold and taps", no automatic key repeat allowed, (maybe as combo ?)
 
 ## **layer 0**
 
