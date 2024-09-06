@@ -15,15 +15,10 @@ The order of letters inside layers is not yet adjusted or balanced finger use.
 
 For sake of use "hold and tap", no automatic key repeat allowed, (maybe as combo ?)
 
+
 ## **layer 0**
 
-| | | | | | |
-| --- | --- | --- | --- | --- | --- |
-| 4 | 5 | 6 | 7 | 8 | 9 |
-| , | . | 0 | 1 | 2 | 3 |
-| | | | | | |
-
-## **layer 1**
+Uppercase with Shif
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
@@ -31,11 +26,9 @@ For sake of use "hold and tap", no automatic key repeat allowed, (maybe as combo
 | t | a | o | h | e | n |
 | | | | | | |
 
-## **layer 2**
+## **layer 1**
 
-Same as layer 1, but uppercase (shif)
-
-## **layer 3**
+Uppercase with Shift
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
@@ -43,11 +36,7 @@ Same as layer 1, but uppercase (shif)
 | y | l | w | c | p | v |
 | | | | | | |
 
-## **layer 4**
-
-Same as layer 3, but uppercase (shift)
-
-## **layer 5**
+## **layer 2**
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
@@ -55,7 +44,7 @@ Same as layer 3, but uppercase (shift)
 | - | ( | ) | ; | " | : |
 | | | | | | |
 
-## **layer 6**
+more symbols with Shift
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
@@ -63,7 +52,15 @@ Same as layer 3, but uppercase (shift)
 | < | { | [ | > | } | ] |
 | | | | | | |
 
-## **layer 7**
+## **layer 3**
+
+| | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| 4 | 5 | 6 | 7 | 8 | 9 |
+| , | . | 0 | 1 | 2 | 3 |
+| | | | | | |
+
+more symbols with Shift
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
