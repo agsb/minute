@@ -70,6 +70,35 @@ The order of letters inside layers is not yet adjusted or balanced finger use.
 
 For sake of use "hold and taps", no automatic key repeat allowed, (maybe as combo ?)
 
+| | | | || | | |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| layer 0 | | | | || | | |
+| | d | i | f || s | b | r |
+| | t | a | o || h | e | n |
+| | | || | | | |
+
+| layer 1 | | | | | |
+| . | v | u | m | g | k |
+| y | l | w | c | p | , |
+| | | | | | |
+| layer 2 | | | | | |
+| 4 | 5 | 6 | 7 | 8 | 9 |
+| , | . | 0 | 1 | 2 | 3 |
+| | | | | | |
+| layer 3 | | | | | |
+| _ | ' | * | ? | = | / |
+| - | ) | ( | ; | " | : |
+| | | | | | |
+| layer 4 | | | | | |
+| [ | + | { | < | @ | % |
+| ! | # | \ | > | } | ] |
+| | | | | | |
+| layer 5 | | | | | |
+| j | x | q | z |  |  |
+| & | $ | \| | ` | ~ | ^ |
+| | | | | | |
+
+
 ## **layer 0**
 
 Uppercase with Shif
