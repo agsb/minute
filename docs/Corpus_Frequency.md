@@ -5,19 +5,21 @@ __this file is work in progress__
 
 ## From Mixed Corpus
 
-A basic statistical review with absolute **counter, [SFI](http://www.manulex.org/docs/en/Manulex.pdf), percents, cumulatives frequencies,** were done with of texts from
-[Linux kernel sources](https://github.com/agsb/minute/blob/main/docs/stats.linux.md)
-[OpenJDK sources](https://github.com/agsb/minute/blob/main/docs/stats.openjdk.md)
-[Python sources](https://github.com/agsb/minute/blob/main/docs/stats.python.md)
-[Engram corpus](https://github.com/agsb/minute/blob/main/docs/stats.engram.md)
-[Project Guttenberg corpus](https://github.com/agsb/minute/blob/main/docs/stats.guttenberg.md)
+A basic statistical review with absolute **counter, [SFI](http://www.manulex.org/docs/en/Manulex.pdf), percents, cumulatives frequencies,** were done with classic corpus of 
+
+[Project Guttenberg corpus](https://github.com/agsb/minute/blob/main/docs/stats.guttenberg.md).
 [Oxford Text Archive corpus](https://github.com/agsb/minute/blob/main/docs/stats.engram.md)
+[Engram corpus](https://github.com/agsb/minute/blob/main/docs/stats.engram.md),
+
+and especific programming corpus, for fine measure of symbols,
+
+[Linux kernel sources](https://github.com/agsb/minute/blob/main/docs/stats.linux.md),
+[OpenJDK sources](https://github.com/agsb/minute/blob/main/docs/stats.openjdk.md),
+[Python sources](https://github.com/agsb/minute/blob/main/docs/stats.python.md),
 
 As classic analysis, the results are computed by summing the ocurrences, for new calculation of SFI and percents of total counts.
 
-Note that backtick is also used as apostrofe. 
-
-ASCII character counters, Space is (S), Enter - new line - is (A) and Tab is (T)
+Showing only ASCII 7-bits character counters, no UTF-8 extras, Space is (S), Enter - new line - is (A) and Tab is (T). Note that backtick would also used as apostrofe in texts.
 
 ## Only letters, space, new line and tabulation:
 
