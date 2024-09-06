@@ -7,7 +7,7 @@ The Minute were designed to use combination of keys, called chords in stenotypes
 The Layers have 12 keys each, grouped together for ease of use and visual reference. 
 For example, 
 	
- 	_T H E A N D_ is better than _E T A N D H_
+ 	_T H E A N D_ is better than _A D E H N T_
 
 The digits, period and comma were grouped together in the same _numeric_ layer. The letters q and z were grouped together with other symbols in the _low usage_ layer.
 
