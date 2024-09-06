@@ -9,7 +9,7 @@ For example,
 	
  	_T H E A N D_ is better than _E T A N D H_
 
-The digits, semicolons and commas were grouped together in the same _numeric_ layer. The letters q and z were grouped together with other symbols in the _low usage_ layer.
+The digits, period and comma were grouped together in the same _numeric_ layer. The letters q and z were grouped together with other symbols in the _low usage_ layer.
 
 The letters at _default_ layer occurs in about 75% of all words. The letters uses two layers and stay selected until changes.
 
