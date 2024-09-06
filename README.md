@@ -6,7 +6,7 @@
 
 Forget QWERTY and etc layouts, use a minimal software mapped keyboard.
 
-A really minute splited software mapped keyboard, using two pads of ten (5x2) switches.
+A really minute splited software mapped keyboard, using two pads of up to ten (5x2) switches.
  
 ### Left and Right 
 
@@ -14,19 +14,18 @@ __Layout yet not defined__ See [Minute Layout Study](https://github.com/agsb/min
 
 ![image](https://github.com/agsb/minute/blob/main/minimal-9x9-split.png)
 
-made with <http://kle-render.herokuapp.com/>
+There are two keys for each finger, except for pinkys. Scanned using two lines and three rows, as bidirecional inputs.
 
 # What keys ?
 
-For all ASCII chars, grouped as 31 control, 26 lowercase, 26 uppercase, 10 digits, 32 symbols ?
-
-Also for special functions keys 
+For all ASCII chars, grouped as 31 control, 26 lowercase, 26 uppercase, 10 digits and 32 symbols. With extended capability for UTF-8 and special functions, as Shift, Control, Alter, Meta, and
           
-          ( Space, Enter, Delete, Backspace, Tabulation,
+          (Space, Enter, Tabulation, Delete, Backspace,
            Left, Right, Home, End, Up, Down, PgUp, PgDn,
            Escape, Insert, Cut, Copy, Paste, Find, Replace, 
            Undo, Redo, Mark, Clear, Menu, Quit, Pause, 
-           Open, Close, Refresh, Apply, Lower, Raise, etc)  
+           Open, Close, Refresh, Apply, Lower, Raise, 
+           Silent, Audio up, Audio down, Play/Stop, etc)  
 
 Also for specific dedicaded actions as games, drawing, tasks, stations, etc ?
 
@@ -34,19 +33,11 @@ Also for specific dedicaded actions as games, drawing, tasks, stations, etc ?
 
 All operational systems allow software mapping for keyboard, many keyboards do mapping inside.
 
-The USB HID specification reserves 8 dead keys as modifiers.
+The USB HID specification reserves eight dead keys as modifiers and include an extense list of functions.
 
-The Minute uses dead keys, named as Alt, Gui (Meta), Shf (Shift), Ctr (Control).
+Minute let any key act as single press (click), fast dual press (tap), keep press (hold), all keys acts as modifiers. No auto-repeat allowed.
 
-Several combinations could be used for sequences of keys. Softwares for keyboard, configures macros with one tap (aka click), double tap, hold, tap and hold, to make [funny combos](https://precondition.github.io/home-row-mods).
-
-Using dead keys Alt, Shf as (None, Alt, Shf, Shf Alt), and Gui Ctr as (None, Gui, Ctr, Gui Ctr), gives sixteen combinations of possible modifiers.
-
-Think as each keymap is a layout layer over same design keys.
-
-Sixteen keyboard maps of 20 keys. Total de 320 combos keys !
-
-Also if just 16 keys by 16 modifiers, gives 256 combo keys.
+Several combinations could be used for sequences of keys. Softwares for keyboard, could configure macros to make [funny combos](https://precondition.github.io/home-row-mods). These can map about sixteen layers of twelve keys, or more. 
 
 # Details
 
@@ -95,6 +86,8 @@ Where are the keyboard mapped layouts ? https://github.com/agsb/minute/blob/main
 ## Notes
 
 Some complementary and [random notes](https://github.com/agsb/minute/tree/main/docs) about frequencies, layouts, combos and dances.
+
+[2] made with <http://kle-render.herokuapp.com/>
 
 # License
 
