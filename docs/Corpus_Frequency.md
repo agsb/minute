@@ -17,12 +17,9 @@ As classic analysis, the results are computed by summing the ocurrences, for new
 
 Note that backtick is also used as apostrofe. 
 
-## Count in order and sum
+ASCII character counters, Space is (S), Enter - new line - is (A) and Tab is (T)
 
-ASCII characters, Space is (S), Enter - new line - is (A) and Tabulation is (T)
-
-
-### Only letters, space, new line and tabulation:
+## Only letters, space, new line and tabulation:
 
         S e t a i s n r o T d c l h u f p m A g b y w v x k q j z 
 
@@ -58,7 +55,7 @@ ASCII characters, Space is (S), Enter - new line - is (A) and Tabulation is (T)
  | j | 3308766 | 45.1967 | 0.1375 | 99.87 |
  | z | 3040211 | 44.8290 | 0.1263 | 100.00 |
 
-### Only symbols:
+## Only symbols:
 
          _ , . ) ( * ; - = / " # > { } ' \ : & [ ] < + ! @ ? | % ` ~ $ ^ 
  
@@ -96,9 +93,8 @@ ASCII characters, Space is (S), Enter - new line - is (A) and Tabulation is (T)
  | ~ | 177728 | 32.4976 | 0.0653 | 99.93 |
  | $ | 127952 | 31.0705 | 0.0470 | 99.98 |
  | ^ | 57578 | 27.6026 | 0.0212 | 100.00 |
-
  
-### Only digits:
+## Only digits:
 
 Note the strange order, also the '0123' keys take about 73% for all occurrences.
 
@@ -117,7 +113,7 @@ Note the strange order, also the '0123' keys take about 73% for all occurrences.
  | 9 | 3246375 | 45.1140 | 3.5043 | 96.71 |
  | 7 | 3049019 | 44.8416 | 3.2912 | 100.00 |
 
-### Full sequence: 
+## Full sequence: 
 
         S e t a i s n r o T _ d c l h u f p m A g 0 b y 
         w , v . x k ) ( * 1 ; - 2 = / " # 3 > 4 q 8 5 6 
@@ -190,7 +186,7 @@ Note the strange order, also the '0123' keys take about 73% for all occurrences.
  | ! | 1251200 | 40.9733 | 0.0451 | 99.85 |
  | @ | 1090832 | 40.3776 | 0.0394 | 99.89 |
  | ? | 905704 | 39.5699 | 0.0327 | 99.92 |
- | | | 848194 | 39.2850 | 0.0306 | 99.95 |
+ | \| | 848194 | 39.2850 | 0.0306 | 99.95 |
  | % | 743104 | 38.7105 | 0.0268 | 99.98 |
  | ` | 182839 | 32.6207 | 0.0066 | 99.99 |
  | ~ | 177728 | 32.4976 | 0.0064 | 99.99 |
