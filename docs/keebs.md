@@ -72,7 +72,6 @@ For sake of use "hold and taps", no automatic key repeat allowed, (maybe as comb
 
 | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| | | | | | | | |
 | **layer 0** | | | | | | | |
 || s | b | r || d | i | f |
 || h | e | n || t | a | o |
@@ -84,8 +83,8 @@ For sake of use "hold and taps", no automatic key repeat allowed, (maybe as comb
 | | | | | | | | |
 | **layer 2** | | | | | | | |
 | | | | | | | | |
-|| 7 | 8 | 9 || 4 | 5 | 6 |
-|| 1 | 2 | 3 || , | . | 0 |
+|| 4 | 5 | 6 || 7 | 8 | 9 |
+|| , | 0 | 1 || 2 | 3 | . |
 | | | | | | | | |
 | **layer 3** | | | | | | | |
 | | | | | | | | |
@@ -99,7 +98,7 @@ For sake of use "hold and taps", no automatic key repeat allowed, (maybe as comb
 | | | | | | | | |
 | **layer 5** | | | | | | | |
 | | | | | | | | |
-|| z |  |  || j | x | q |
+|| z | j |  ||  | x | q |
 || ` | ~ | ^ || & | $ | | |
 || | | | | | || | | | | | |
 
