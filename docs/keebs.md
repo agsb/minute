@@ -9,7 +9,29 @@ The letters at first layer (1) occurs in about 75% of all words.
 Some layers swap letters, for sake of easy visual and use. 
 eg. all digits at same layer, period and comma grouped at digits layer (0), q and z grouped at low used layer. 
 
-## Limitations
+## Groups
+
+The Minute is splited in two pads, left and right, each groups of six keys (A, for ring-middle-index), two keys (B, for thumb), and one key (C, for pinky). 
+
+For easy, the pinky keys are always Shift, as in any qwerty keyboard. The thumb keys, are called M0, M1, M2, M4, does a dance as
+
+| Key | Layer 0 | Layer 1 | Layer 2 | Layer 3 |
+| --- | --- | --- | --- | --- |
+| M0 | Space | | |
+| M1 | Enter | | |
+| M2 | Layer Up | | |
+| M2 | (hold) | | |
+| M3 | Layer Dn | | |
+| M3 | (hold) | | |
+| | | | | 
+
+the two pads of six keystwelve 
+
+### Layers
+
+
+The order of layers could be changed
+### Limitations
 
 The order of letters inside layers is not yet adjusted or balanced finger use.
 
