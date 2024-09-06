@@ -2,14 +2,14 @@ __this file is a work_in_progress__
 					
 # Design and Layout
 
-The Minute were designed to use combination of keys, called chords in stenotypes, and timed touchs for hold or tip-and-tap, all for doing combos.
+The Minute were designed to use combination of keys, called chords in stenotypes, and timed touch to hold or dual-tap, for doing combos.
 
-The layers are defined for sake of easy visual and use. 
-eg. all digits at same layer, period and comma grouped at digits layer (0), q and z grouped at low used layer. 
+The Layers have 12 keys each, grouped together for ease of use and visual reference. 
+For example, _T H E A N D_ is better than _E T A N D H_
 
-The letters at default layer occurs in about 75% of all words. The letters uses two layers and stay selected until changes.
+The digits, semicolons and commas were grouped together in the same _numeric_ layer. The letters q and z were grouped together with other symbols in the _low usage_ layer.
 
-The digits, period and comma, in one layer and stay select for digits
+The letters at _default_ layer occurs in about 75% of all words. The letters uses two layers and stay selected until changes.
 
 The symbols uses threee layers, (always) active only for next key pressed. 
 
@@ -17,9 +17,9 @@ The symbols uses threee layers, (always) active only for next key pressed.
 
 The Minute is splited in two pads, left and right, each groups of six keys (A, for ring-middle-index), two keys (B, for thumb), and one key (C, for pinky). 
 
-For easy, the pinky keys are always **shift**,  one tap, shifts the next key, dual tap acts as **Caps-Lock**, on or off, and hold acts as in any common qwerty keyboard. 
+For easy, the pinky keys are always used for **shift**. With one tap, shifts the next key, dual tap acts as **Caps-Lock**, on or off, and hold acts as in any common qwerty keyboard. 
 
-At ring-middle-index keys, any key changes the active layer while holded, acts like a shift key but for layers.
+At ring-middle-index keys, any key acts like a shift for layers, changes the active layer (1 to 6) while held. Use one hand to select layer and other to select key.
 
 | ring | middle | index || index | middle | ring |
 | --- | --- | --- | --- |  --- | --- | --- |
