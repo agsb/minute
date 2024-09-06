@@ -39,6 +39,8 @@ Minute let any key act as single press (click), fast dual press (tap), keep pres
 
 Several combinations could be used for sequences of keys. Softwares for keyboard, could configure macros to make [funny combos](https://precondition.github.io/home-row-mods). These can map about sixteen layers of twelve keys, or more. 
 
+Some complementary and [random notes](https://github.com/agsb/minute/tree/main/docs) about frequencies, layouts, combos and dances.
+
 # Details
 
 [_"The behavior should not astonish or surprise users"_,](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
@@ -86,7 +88,7 @@ Where are the keyboard mapped layouts ? https://github.com/agsb/minute/blob/main
 
 ## Notes
 
-Some complementary and [random notes](https://github.com/agsb/minute/tree/main/docs) about frequencies, layouts, combos and dances.
+
 
 [2] made with <http://kle-render.herokuapp.com/>
 
