@@ -39,17 +39,17 @@ The **thumb keys**, called M0, M1, M2, M3, does a dance as
 
 | Key | Layer 0 | Layer 1 | Layer 2 | Layer 3 |
 | --- | --- | --- | --- | --- |
-| tap | | | | | 
-| M0 | Space | | |
-| M1 | Enter | | |
-| M2 | Layer Up | | |
-| M3 | Layer Dn | | |
-| hold | | | | |
-| M0 |  | | |
+| _**tap**_ | | | | | 
+| M0 | Space | Layer 0 | Layer 0 | Layer 0 |
+| M1 | Enter | X | X | X |
+| M2 | Layer Up | Layer Up | Layer Up | Layer Up |
+| M3 | Layer Dn | Layer Dn | Layer Dn | Layer Dn |
+| _**hold**_ | | | | |
+| M0 | Navi Layer | | |
 | M1 |  | | |
-| M2 |  | | |
-| M3 |  | | |
-| dual tap | | | | |
+| M2 | Extras | | |
+| M3 | Extras | | |
+| _**dual tap**_ | | | | |
 | M0 |  | | |
 | M1 |  | | |
 | M2 | | | |
