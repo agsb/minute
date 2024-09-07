@@ -13,6 +13,8 @@ Examples <https://www.silabs.com/documents/public/application-notes/AN249.pdf>
 
 Must define timers of duration and interval for select a tap (single press-and-release click), a dual tap (dual fast click) and a held (stay pressed then released). No auto repeat for keys.
 
+That "tapping terms" for define dual tap, tap or held, must could be changed using _combos_ for increase or decrease.
+
 Actions could be defined for sequences of 
 
     1. tap then tap, normal use
