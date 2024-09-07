@@ -5,6 +5,10 @@ _Morse code is made of silence, dits and dahs_
 
 Any key could be a modifier for next key. Use [Tap and Hold](https://blog.zsa.io/tap-hold-explained/)
 
+The standart definition for keys is at the [USB-HID](https://www.usb.org/sites/default/files/documents/hid1_11.pdf). Used by QMk, ZMK, TMK Firmware libraries.
+
+Examples <https://www.silabs.com/documents/public/application-notes/AN249.pdf>
+
 ### Timed functions 
 
 Must define timers of duration and interval for select a tap (single press-and-release click), a dual tap (dual fast click) and a held (stay pressed then released). No auto repeat for keys.
@@ -25,7 +29,7 @@ There is 21 chords using the twelve block, plus 48 chords using the thumbs and t
 
 ### A swap 
 
-A swap is about held (and relase ?) a key then click other key. 
+A swap is about held (and release ?) a key then click other key. 
 AB is not same as BA. Used to select a layer and a key. 
 Any swap with space selects the default layer. 
 
