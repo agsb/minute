@@ -37,7 +37,7 @@ and not a stenotype keyboard [1].
 
 A alternative [frequency correlation analysis](https://github.com/agsb/minute/blob/main/docs/Frequency.md).
 
-Some notes about [Design](https://github.com/agsb/minute/blob/main/docs/Design.md) and [Layout](https://github.com/agsb/minute/blob/main/docs/Layouts.md)
+Some notes about [Logics](https://github.com/agsb/minute/blob/main/docs/Logics.md), [Design](https://github.com/agsb/minute/blob/main/docs/Design.md) and [Layout](https://github.com/agsb/minute/blob/main/docs/Layouts.md)
 
 
 ## Extras
