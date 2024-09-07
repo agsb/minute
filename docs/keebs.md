@@ -19,7 +19,7 @@ The action and function keys are grouped in layers, as navigation, editoring, pa
 
 ## Groups
 
-The Minute is splited in two pads, left and right, each groups of six keys (A, for ring-middle-index), two keys (B, for thumb), and one key (C, for pinky). No auto-repeat allowed.
+The Minute is splited in two pads, left and right, each groups of six keys (A, for ring-middle-index), two keys (B, for thumb), and one key (C, for pinky). No auto-repeat allowed and no key order in chord, ABC is same ACB, BAC, BCA, CAB or CBA.
 
 ---
 
