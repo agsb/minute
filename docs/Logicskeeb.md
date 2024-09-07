@@ -3,9 +3,26 @@
 
 _Morse code is made of silence, dits and dahs_
 
-1. No auto repeat for keys.
-5. Timed functions for tip (single click), tap (fast dual click), hold (stay pressed ).
-2. A chord is about keys pressed, with no order preserved. AB and BA is same chord.
-3. Must be done by first hold a key, then press another and release both in any order.
-4. The order of keys allowed in a chord, if does held-and-press AB or BA is same chord ?
-6. Any key held is a modifier for another key while still be pressed.
+Any key could be a modifier for next key.
+
+### Timed functions 
+
+Must define timers of duration and interval for select a tip (single click), a tap (fast dual click) and a hold (stay pressed).
+No auto repeat for keys.
+
+### A chord 
+
+A chord is about keys held pressed simultanely, no order is preserved, AB and BA is same chord. 
+There is 21 chords using the twelve block, plus 48 chords using the thumbs and twelve block.
+
+### A swap 
+
+A swap is about held (and relase ?) a key then click other key. 
+AB is not same as BA. Used to select a layer and a key. 
+Any swap with space selects the default layer. 
+
+### Delays
+
+The chords and swaps, does causes delays for layouts access as function of hold timers
+  
+  
