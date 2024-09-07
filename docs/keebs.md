@@ -17,6 +17,8 @@ The symbols uses threee layers, (always) active only for next key pressed.
 
 The action and function keys are grouped in layers, as navigation, editoring, paging, midia, etc
 
+The logics for modifiers, actions and functions explained in [LogicsKeeb.md](https://github.com/agsb/minute/edit/main/docs/Logicskeebs.md)
+
 ## Groups
 
 The Minute is splited in two pads, left and right, each groups of six keys (A, for ring-middle-index), two keys (B, for thumb), and one key (C, for pinky). No auto-repeat allowed and no key order in chord, ABC is same ACB, BAC, BCA, CAB or CBA.
