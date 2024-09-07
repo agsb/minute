@@ -15,15 +15,18 @@ Must define timers of duration and interval for select a tap (single press-and-r
 
 That "tapping terms" for define dual tap, tap or held, must could be changed using _combos_ for increase or decrease.
 
-Actions could be defined for sequences of 
+Actions could be defined for sequences of clicks
 
-    1. tap then tap, normal use
+    0. tap one then tap, normal use
+    
+    1. tap then dual tap, same
+    2. tap then held, same
     2. dual tap then tap, 
-    3. dual tap then held
-    3. held then tap
-    5. held then dual tap
-    6. held then held
-   
+    3. dual tap then held, 
+    3. held then tap,
+    5. held then dual tap,
+    6. held then held, same (cancels), other (chord)
+    
 ### A chord 
 
 A chord is about keys held pressed simultanely, no order is preserved, AB and BA is same chord. 
