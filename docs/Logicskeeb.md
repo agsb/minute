@@ -3,7 +3,7 @@
 
 _Morse code is made of silence, dits and dahs_
 
-Any key could be a modifier for next key.
+Any key could be a modifier for next key. Use [Tap and Hold](https://blog.zsa.io/tap-hold-explained/)
 
 ### Timed functions 
 
@@ -23,6 +23,8 @@ Any swap with space selects the default layer.
 
 ### Delays
 
-The chords and swaps, does causes delays for layouts access as function of hold timers
+The chords and swaps, does causes delays for layouts access as function of hold timers. 
+
+A fast typewriter does about 40 wpm, as 5 character per word, about 200 characters by 60 seconds, 3.33 characters per second, or a time delay of 300 ms between clicks. Enough delay.
   
   
