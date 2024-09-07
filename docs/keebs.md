@@ -99,7 +99,7 @@ For sake of use "hold and taps", no automatic key repeat allowed, (maybe as comb
 | **layer 5** | | | | | | | | Extras |
 | | | | | | | | |
 || z | j |  ||  | x | q |
-|| ` | ~ | ^ || & | $ | | |
+|| ` | ~ | ^ || & | $ | \| |
 | | | | | | | | |
 | **layer 6** | | | | | | | | Functions |
 | | | | | | | | |
