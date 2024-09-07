@@ -8,11 +8,13 @@ __Minute__ is a reduced keyboard, splited and orthogonal, with roll-over for twe
 
 (Inspired in Ferris Sweep and Corne Sweep)
 
-Based on [design by frequency](https://github.com/agsb/minute/blob/main/docs/Frequency.md) of **letters in most used words** and like a stenotype without glyphs. 
+Based like a stenotype without glyphs, with a [design by frequency](https://github.com/agsb/minute/blob/main/docs/Frequency.md) of **most used letters in most used words**. 
 
-Why twelve keys for letters ? The first twelve letters accounts for about 80% of all letters use. __"Use Pareto, Luke"__
+Why twelve keys for letters ? The first twelve letters accounts for about 80% of all letters used in english. __"Use Pareto, Luke"__
 
-Why six keys for actions ? For "hold-taps-dances" combos, like Space, Enter, Tabulation, Backspace, Delete actions and Shift, Control, Alter, Meta and layers modifiers .
+Why six keys for actions ? For combos, like Space, Enter, Tabulation, Backspace, Delete actions and Shift, Control, Alter, Meta and layers modifiers.
+
+All keys could do "held-taps" dances.
 
 # Layers
 
