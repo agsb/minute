@@ -6,8 +6,10 @@
 
 Forget QWERTY and etc layouts, use a minimal software mapped keyboard.
 
-A really minute splited software mapped keyboard, using two pads of up to ten (5x2) switches.
- 
+A really minute splited chorded software mapped keyboard, using two pads of up to ten (5x2) switches.
+
+Akso look at [Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
+
 ### Left and Right 
 
 __Layout yet not defined__ See [Minute Layout Study](https://github.com/agsb/minute/blob/main/docs/Minute.md)
