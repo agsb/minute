@@ -17,7 +17,7 @@ The symbols uses threee layers, (always) active only for next key pressed.
 
 The action and function keys are grouped in layers, as navigation, editoring, paging, midia, etc
 
-The logics for modifiers, actions and functions explained in [LogicsKeeb.md](https://github.com/agsb/minute/edit/main/docs/Logicskeebs.md)
+The logics for modifiers, actions and functions explained in [Logics.md](https://github.com/agsb/minute/edit/main/docs/Logics.md)
 
 ## Groups
 
