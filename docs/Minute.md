@@ -4,7 +4,9 @@ __this file is work in progress__
 
     _The long tail phenomenon hides the entropy of letter frequency_. 
 
-__Minute__ is a reduced keyboard, splited and orthogonal, with roll-over for twelve "letters" keys plus six "action" keys.
+__Minute__ is a reduced keyboard, splited and orthogonal, with roll-over for twelve "letters" keys plus six "action" keys. 
+
+(Inspired in Ferris Sweep and Corne Sweep)
 
 Based on [design by frequency](https://github.com/agsb/minute/blob/main/docs/Frequency.md) of **letters in most used words** and like a stenotype without glyphs. 
 
