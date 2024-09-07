@@ -7,9 +7,17 @@ Any key could be a modifier for next key. Use [Tap and Hold](https://blog.zsa.io
 
 ### Timed functions 
 
-Must define timers of duration and interval for select a tip (single click), a tap (fast dual click) and a hold (stay pressed).
-No auto repeat for keys.
+Must define timers of duration and interval for select a tap (single press-and-release click), a dual tap (dual fast click) and a held (stay pressed then released). No auto repeat for keys.
 
+Actions could be defined for sequences of 
+
+    1. tap then tap, normal use
+    2. dual tap then tap, 
+    3. dual tap then held
+    3. held then tap
+    5. held then dual tap
+    6. held then held
+   
 ### A chord 
 
 A chord is about keys held pressed simultanely, no order is preserved, AB and BA is same chord. 
