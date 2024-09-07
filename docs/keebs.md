@@ -70,46 +70,51 @@ The order of letters inside layers is not yet adjusted or balanced finger use.
 
 For sake of use "hold and taps", no automatic key repeat allowed, (maybe as combo ?)
 
-| | | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **layer 0** | | | | | | | |
+| | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | -- | --- |
+| **layer 0** | | | | | | | | Alpha 1 |
 || s | b | r || d | i | f |
 || h | e | n || t | a | o |
 | | | | | | | | |
-| **layer 1** | | | | | | | |
+| **layer 1** | | | | | | | | Alpha 2 |
 | | | | | | | | |
 || m | g | k || . | v | u |
 || c | p | , || y | l | w |
 | | | | | | | | |
-| **layer 2** | | | | | | | |
+| **layer 2** | | | | | | | | Numeric |
 | | | | | | | | |
 || 4 | 5 | 6 || 7 | 8 | 9 |
 || , | 0 | 1 || 2 | 3 | . |
 | | | | | | | | |
-| **layer 3** | | | | | | | |
+| **layer 3** | | | | | | | | Symbols 1 | 
 | | | | | | | | |
 || ? | = | / || _ | ' | * |
 || ; | " | : || - | ) | ( |
 | | | | | | | | |
-| **layer 4** | | | | | | | |
+| **layer 4** | | | | | | | | Symbols 2 |
 | | | | | | | | |
 || < | @ | % || [ | + | { |
 || > | } | ] || ! | # | \ |
 | | | | | | | | |
-| **layer 5** | | | | | | | |
+| **layer 5** | | | | | | | | Extras |
 | | | | | | | | |
 || z | j |  ||  | x | q |
 || ` | ~ | ^ || & | $ | | |
 | | | | | | | | |
-| **layer 6** | | | | | | | |
+| **layer 6** | | | | | | | | Functions |
 | | | | | | | | |
 || F7 | F8 | F9 || F10 | F11 | F12 |
 || F1 | F2 | F3 || F4 | F5 | F6 |
 | | | | | | | | |
-| **layer 7** | | | | | | | |
+| **layer 7** | | | | | | | | Edit |
 | | | | | | | | |
 || Ins | PgUp | Cut || Home | Up | End |
 || Copy | PgDn | Paste || Left | Down | Right |
+| | | | | | | | |
+| **layer 8** | | | | | | | | Gamer |
+| | | | | | | | |
+|| Q | W | E || R | T | X |
+|| A | S | D || F | G | C |
 | | | | | | | | |
 || | | | | | || | | | | | |
 
