@@ -100,5 +100,16 @@ For sake of use "hold and taps", no automatic key repeat allowed, (maybe as comb
 | | | | | | | | |
 || z | j |  ||  | x | q |
 || ` | ~ | ^ || & | $ | | |
+| | | | | | | | |
+| **layer 6** | | | | | | | |
+| | | | | | | | |
+|| F7 | F8 | F9 || F10 | F11 | F12 |
+|| F1 | F2 | F3 || F4 | F5 | F6 |
+| | | | | | | | |
+| **layer 7** | | | | | | | |
+| | | | | | | | |
+|| Ins | PgUp | Cut || Home | Up | End |
+|| Copy | PgDn | Paste || Left | Down | Right |
+| | | | | | | | |
 || | | | | | || | | | | | |
 
