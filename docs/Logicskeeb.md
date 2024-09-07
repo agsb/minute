@@ -51,11 +51,14 @@ A fast typewriter does about 40 wpm, as 5 character per word, about 200 characte
 
 ### Maps
 
+```
+if 10 lines
+// scan rows output to colunms input
 map = <
  // pinky   ring    middle  index   thumb       tumb    middle  ring    index   pinky
     RC(0,0) RC(0,1) RC(0,2) RC(0,3) RC(0,4)     RC(0,5) RC(0,6) RC(0,7) RC(0,8) RC(0,9)
     RC(1,0) RC(1,1) RC(1,2) RC(1,3) RC(1,4)     RC(1,5) RC(1,6) RC(1,7) RC(1,8) RC(1,9)
-		>;
+	>;
   
 // RC(0,0) and RC(0,9) ghost keys :)
 // RC(1,0) and RC(1,9) pinky keys
@@ -63,3 +66,22 @@ map = <
 // RC(0,2), RC(1,2), RC(0,7) and RC(1,7) are middle keys
 // RC(0,3), RC(1,3), RC(0,6) and RC(1,6) are index keys
 // RC(0,4), RC(1,4), RC(0,5) and RC(1,5) are thumb keys
+
+// japanese-duplex-matrix
+// scans rows to colunms then colunms to rows
+
+// scan 2 rows output to 3 colunms input
+RC(0,0) RC(0,1) RC(0,2)
+RC(1,0) RC(1,1) RC10,2)
+
+// scan 3 colunms output to 2 rows input
+CR(0,0) CR(0,1)
+CR(1,0) CR(1,1)
+CR(2,0) CR(1,1)
+
+
+
+RC(0,0) RC(0,1) RC(0,2)
+RC(0,0) RC(0,1) RC(0,2)
+
+```
