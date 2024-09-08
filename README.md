@@ -84,6 +84,10 @@ reference for layouts in QMK <https://docs.qmk.fm/#/keycodes_basic>
 
 Where are the keyboard mapped layouts ? https://github.com/agsb/minute/blob/main/Keymaps.md
 
+## extras
+
+reference [Absolem](https://zealot.hu/absolem/)
+
 ## Notes
 
 
