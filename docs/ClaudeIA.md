@@ -66,3 +66,25 @@ Group 7 (Less common symbols):
 { } < > | \ ^ ~ ` € £ ¥
 
 ```
+
+### Best 
+
+The best list order from Claude IA was:
+
+    e t a o i n s r h l d c
+    u m f p g w y b , . v k
+    " ' x j q z 
+    0 1 2 3 4 5 6 7 8 9 ! ?
+    ) ( : ; / @ _ [ ] * % ^
+    & + ~ ` < > | \ $ € £ ©
+
+Regrouped and including { } 
+
+    e t a o i n s r h l d c
+    u m f p g w y b , . v k
+    " ' ? ! x j q z 
+    0 1 2 3 4 5 6 7 8 9 . ,
+    ) ( : ; / @ _ [ ] { } 
+    * % ^ & + ~ ` < > | \ 
+    $ € £ ©
+    
