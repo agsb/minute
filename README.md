@@ -86,7 +86,7 @@ Where are the keyboard mapped layouts ? https://github.com/agsb/minute/blob/main
 
 ## extras
 
-reference [Absolem](https://zealot.hu/absolem/)
+A great making keyboard journey reference at [Absolem](https://zealot.hu/absolem/)
 
 ## Notes
 
