@@ -7,6 +7,7 @@
 Forget QWERTY and etc layouts, use a minimal software mapped keyboard.
 
 A really minute splited chorded software mapped keyboard, using two pads of up to ten (5x2) switches.
+Alike a reduced [Ergogen](https://github.com/topics/ergogen)
 
 Also look at [Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
 
