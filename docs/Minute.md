@@ -23,6 +23,8 @@ The [layers](https://github.com/agsb/minute/blob/main/docs/keebs.md) makes the m
 
 ## Extras
 
+[GP2040CE Pi](https://gp2040-ce.info/#/download) gamepad firmware.
+
 [some steno layouts](https://inkeys.wiki/en/keymaps)
 
 [Georgi](http://thedarnedestthing.com/georgi%27ous])
