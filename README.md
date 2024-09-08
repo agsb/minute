@@ -64,6 +64,9 @@ A great "making a keyboard" journey reference at [Absolem](https://zealot.hu/abs
 [Chouchou](https://github.com/agsb/chouchou)
 
 [Ergogen](https://github.com/ergogen/ergogen)
+
+[tarnedo](https://tarneo.fr/posts/split_keyboard/)
+
 ## Notes
 
 [2] made with <http://kle-render.herokuapp.com/>
