@@ -50,6 +50,7 @@ The _minute keyboard_ simplifies Engram layout, for 18 keys, in less than 16 map
 
 ## Mapped layouts
 
+
 A good keyboard editor at <http://www.keyboard-layout-editor.com/>
 
 reference for layouts in QMK <https://docs.qmk.fm/#/keycodes_basic>
@@ -60,6 +61,9 @@ _(updated)_ Where are the keyboard mapped layouts ? https://github.com/agsb/minu
 
 A great "making a keyboard" journey reference at [Absolem](https://zealot.hu/absolem/)
 
+[Chouchou](https://github.com/agsb/chouchou)
+
+[Ergogen](https://github.com/ergogen/ergogen)
 ## Notes
 
 [2] made with <http://kle-render.herokuapp.com/>
