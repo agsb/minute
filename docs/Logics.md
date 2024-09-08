@@ -3,13 +3,16 @@
 
 _Morse code is made of silence, dits and dahs_
 
-There are two keys for each finger, except for pinkys. 
-Any key could be a modifier for next key. Use [Tap and Hold](https://blog.zsa.io/tap-hold-explained/)
+Minute have only two keys for each finger, except for pinkys,  Use [Tap and Hold](https://blog.zsa.io/tap-hold-explained/).
 
-The USB HID specification reserves eight dead keys as modifiers and include an extense list of functions.
-The standart definition for keys is at the [USB-HID](https://www.usb.org/sites/default/files/documents/hid1_11.pdf). Used by QMk, ZMK, TMK Firmware libraries. Examples for USB-HID <https://www.silabs.com/documents/public/application-notes/AN249.pdf>
+The key codes from USB-HID are grouped in layers. 
+
+Common keyboards uses only Shift, Control, ALter, GUI, as modifiers. Minute does any key as a modifier and act as extended "shift" to momentary change the layer for following key. 
 
 # What keys ?
+
+The USB HID specification reserves eight dead keys as modifiers and include an extense list of functions.
+The standart definition for keys is at the [USB-HID](https://www.usb.org/sites/default/files/documents/hid1_11.pdf). Used by QMk, ZMK, TMK Firmware libraries. 
 
 For all ASCII chars, grouped as 31 control, 26 lowercase, 26 uppercase, 10 digits and 32 symbols. With extended capability for UTF-8 and special functions, as Shift, Control, Alter, Meta, and
           
@@ -106,3 +109,7 @@ RC(0,0) RC(0,1) RC(0,2)
 RC(0,0) RC(0,1) RC(0,2)
 
 ```
+
+### Extras
+
+Examples for USB-HID <https://www.silabs.com/documents/public/application-notes/AN249.pdf>
