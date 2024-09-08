@@ -8,7 +8,7 @@ Forget QWERTY and etc layouts, use a minimal software mapped keyboard.
 
 A really minute splited chorded software mapped keyboard, using two pads of up to ten (5x2) switches.
 
-Akso look at [Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
+Also look at [Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
 
 ### Left and Right 
 
@@ -16,7 +16,7 @@ __Layout yet not defined__ See [Minute Layout Study](https://github.com/agsb/min
 
 ![image](https://github.com/agsb/minute/blob/main/minimal-9x9-split.png)
 
-There are two keys for each finger, except for pinkys. Scanned using two lines and three rows, as bidirecional inputs.
+There are two keys for each finger, except for pinkys. 
 
 # What keys ?
 
@@ -33,13 +33,9 @@ Also for specific dedicaded actions as games, drawing, tasks, stations, etc ?
 
 # Make it simple
 
-All operational systems allow software mapping for keyboard, many keyboards do mapping inside.
+All operational systems allow software mapping for keyboard, and keyboards can do mapping inside.
 
-The USB HID specification reserves eight dead keys as modifiers and include an extense list of functions.
-
-Minute let any key act as single press (click), fast dual press (tap), keep press (hold), all keys acts as modifiers. No auto-repeat allowed.
-
-Several combinations could be used for sequences of keys. Softwares for keyboard, could configure macros to make [funny combos](https://precondition.github.io/home-row-mods). These can map about sixteen layers of twelve keys, or more. 
+Minute let any key act as single press (click), fast dual clicky (dual tap), keep press (held). All keys acts as modifiers. No auto-repeat allowed.
 
 Some complementary and [random notes](https://github.com/agsb/minute/tree/main/docs) about frequencies, layouts, combos and dances.
 
@@ -47,7 +43,7 @@ Some complementary and [random notes](https://github.com/agsb/minute/tree/main/d
 
 [_"The behavior should not astonish or surprise users"_,](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
 
-Minute is a chorded keyboard, like as a reduced [stenotype](https://www.artofchording.com/) keyboard. 
+Minute is not a chorded keyboard, [stenotype](https://www.artofchording.com/) keyboard. 
 
 To be more confortable, no lateral finger movement, no pinky efforts.
 ~~The index and pinky also moves left/rigth one key.~~
@@ -56,7 +52,6 @@ The fingers index, middle, ring and thumb moves between two rows, pinky is one r
 Use ~dead~ any key as modifier. Place ~dead~ modifier keys at both hands.
 
 Any other key could be mapped into multiple values by combination of modifiers states.
-
 
 # Keyboard Layout
 
@@ -89,7 +84,6 @@ reference for layouts in QMK <https://docs.qmk.fm/#/keycodes_basic>
 Where are the keyboard mapped layouts ? https://github.com/agsb/minute/blob/main/Keymaps.md
 
 ## Notes
-
 
 
 [2] made with <http://kle-render.herokuapp.com/>
