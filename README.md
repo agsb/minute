@@ -20,22 +20,10 @@ __Layout yet not defined__ See [Minute Layout Study](https://github.com/agsb/min
 
 ![image](https://github.com/agsb/minute/blob/main/minimal-9x9-split.png)
 
-There are two keys for each finger, except for pinkys. 
-
-# What keys ?
-
-For all ASCII chars, grouped as 31 control, 26 lowercase, 26 uppercase, 10 digits and 32 symbols. With extended capability for UTF-8 and special functions, as Shift, Control, Alter, Meta, and
-          
-          (Space, Enter, Tabulation, Delete, Backspace,
-           Left, Right, Home, End, Up, Down, PgUp, PgDn,
-           Escape, Insert, Cut, Copy, Paste, Find, Replace, 
-           Undo, Redo, Mark, Clear, Menu, Quit, Pause, 
-           Open, Close, Refresh, Apply, Lower, Raise, 
-           Silent, Audio up, Audio down, Play/Stop, etc)  
-
-Also for specific dedicaded actions as games, drawing, tasks, stations, etc ?
 
 # Make it simple
+
+[_"The behavior should not astonish or surprise users"_,](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
 
 All operational systems allow software mapping for keyboard, and keyboards can do mapping inside.
 
@@ -43,19 +31,12 @@ Minute let any key act as single press (click), fast dual clicky (dual tap), kee
 
 Some complementary and [random notes](https://github.com/agsb/minute/tree/main/docs) about frequencies, layouts, combos and dances.
 
-# Details
-
-[_"The behavior should not astonish or surprise users"_,](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
-
-Minute is not a chorded keyboard, [stenotype](https://www.artofchording.com/) keyboard. 
+Minute is not a chorded keyboard, as [stenotype](https://www.artofchording.com/) keyboard. 
 
 To be more confortable, no lateral finger movement, no pinky efforts.
 ~~The index and pinky also moves left/rigth one key.~~
 
-The fingers index, middle, ring and thumb moves between two rows, pinky is one row only.
-Use ~dead~ any key as modifier. Place ~dead~ modifier keys at both hands.
-
-Any other key could be mapped into multiple values by combination of modifiers states.
+The fingers index, middle, ring and thumb moves between two rows, pinky is one row only. Use any key as modifier. 
 
 # Keyboard Layout
 
@@ -65,9 +46,7 @@ The [Engram](https://engram.dev/) is systematic approach for confortable keyboar
 
 But only 24 keys ? Updated: [Ben Vallack](https://www.youtube.com/watch?v=5RN_4PQ0j1A) [does](https://www.youtube.com/watch?v=UKfeJrRIcxw) with [less](https://www.youtube.com/watch?v=NAUxTR4vGys)!
 
-The _minute keyboard_ must envolve and simplify Engram layout, for 16 (18?) keys in less than 16 mapped layouts.
-
-My best (lazy) layout is a splited 9 (+1?) + 9 (+1?) keys, for Thumb, Index, Middle, Ring, Pinky fingers (the pinkys lay quiet almost time) using [japanese-duplex-matrix](https://kbd.news/The-Japanese-duplex-matrix-1391.html) and Kalih MX 1350 switches.
+The _minute keyboard_ simplifies Engram layout, for 18 keys, in less than 16 mapped layouts.
 
 ## Mapped layouts
 
