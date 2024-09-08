@@ -50,6 +50,7 @@ The _minute keyboard_ simplifies Engram layout, for 18 keys, in less than 16 map
 
 ## Mapped layouts
 
+for finger movement track [ergopad](https://pashutk.com/ergopad/)
 
 A good keyboard editor at <http://www.keyboard-layout-editor.com/>
 
