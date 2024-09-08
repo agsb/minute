@@ -60,6 +60,7 @@ _(updated)_ Where are the keyboard mapped layouts ? https://github.com/agsb/minu
 
 ## extras
 
+Make your keyboard [Ben Vallack] (https://www.youtube.com/watch?v=UKfeJrRIcxw)
 A great "making a keyboard" journey reference at [Absolem](https://zealot.hu/absolem/)
 
 [clavis](https://github.com/scipioni/clavis)
