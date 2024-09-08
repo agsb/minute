@@ -6,7 +6,7 @@ __this file is work in progress__
 
 __Minute__ is a reduced keyboard, splited and orthogonal, with roll-over for twelve "letters" keys plus six "action" keys. 
 
-Inspired in [Ferris Sweep](https://github.com/pierrechevalier83/ferris), [Corne Sweep](https://github.com/qmk/qmk_firmware/tree/master/keyboards/crkbd) and [Giorgi](https://github.com/germ/qmk_firmware/tree/georgi/keyboards/georgi) using [Art of Chording](https://www.artofchording.com/). 
+Inspired in [Ferris Sweep](https://github.com/pierrechevalier83/ferris), [Corne Sweep](https://github.com/qmk/qmk_firmware/tree/master/keyboards/crkbd), [UT22](https://github.com/bubbleology/UT22) and [Giorgi](https://github.com/germ/qmk_firmware/tree/georgi/keyboards/georgi) using [Art of Chording](https://www.artofchording.com/). 
 
 Based like a stenotype without glyphs, with a [design by frequency](https://github.com/agsb/minute/blob/main/docs/Frequency.md) of **most used letters in most used words**. 
 
