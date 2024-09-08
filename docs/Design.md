@@ -81,6 +81,8 @@ If all is cable connected, the power could be from USB connector as 5V and GND.
 
 # Extras 
 
+[Rollover](https://deskthority.net/wiki/Rollover,_blocking_and_ghosting)
+
 ## UTF-8 pages
 
     in progress
