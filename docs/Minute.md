@@ -23,6 +23,8 @@ The [layers](https://github.com/agsb/minute/blob/main/docs/keebs.md) makes the m
 
 ## Extras
 
+[some steno layouts](https://inkeys.wiki/en/keymaps)
+
 [Georgi](http://thedarnedestthing.com/georgi%27ous])
 
 [Georgi](http://docs.gboards.ca/docs/Unboxing-Georgi/)
