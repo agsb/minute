@@ -5,9 +5,14 @@ _Morse code is made of silence, dits and dahs_
 
 Any key could be a modifier for next key. Use [Tap and Hold](https://blog.zsa.io/tap-hold-explained/)
 
-The standart definition for keys is at the [USB-HID](https://www.usb.org/sites/default/files/documents/hid1_11.pdf). Used by QMk, ZMK, TMK Firmware libraries.
+The USB HID specification reserves eight dead keys as modifiers and include an extense list of functions.
+The standart definition for keys is at the [USB-HID](https://www.usb.org/sites/default/files/documents/hid1_11.pdf). Used by QMk, ZMK, TMK Firmware libraries. Examples for USB-HID <https://www.silabs.com/documents/public/application-notes/AN249.pdf>
 
-Examples <https://www.silabs.com/documents/public/application-notes/AN249.pdf>
+### Circuit
+
+Scanned using two lines and three rows, as bidirecional inputs.
+
+Several combinations could be used for sequences of keys. Softwares for keyboard, could configure macros to make [funny combos](https://precondition.github.io/home-row-mods). These can map about sixteen layers of twelve keys, or more. 
 
 ### Timed functions 
 
