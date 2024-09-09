@@ -35,13 +35,19 @@ and not a stenotype keyboard [1].
 
 ### Frequency
 
-A alternative [frequency correlation analysis](https://github.com/agsb/minute/blob/main/docs/Frequency.md), gives the follow sequence, using sequencial order of letters in most used words.
+A alternative letter [frequency correlation analysis](https://github.com/agsb/minute/blob/main/docs/Frequency.md), gives the follow sequence, using sequencial order of letters in most used word and most used bi-grams with space.
 
 **t a o e h n d i b f s r y l w u c m p g k v j x q z**
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | --- | --- |
 | t | a | o | e | h | n | d | i | b | f | s | r | y | l | w | u | c | m | p | g | k | v | j | x | q | z |
+
+For reference this is the ordened list for corpus. (S space, T tabulation, A new-line)
+
+**S e t a i s n r o T _ d c l h u f p m A g 0 b y w , v . x k ) ( * 1 ; - 2 = / " # 3 > 4 q 8 5 6 { } ' j 9 7 z \ : & [ ] < + ! @ ? | % ` ~ $ ^**
+
+**_ , . ) ( * ; - = / " # > { } ' \ : & [ ] < + ! @ ? | % ` ~ $ ^** **0 1 2 3 4 8 5 6 9 7**
 
 ## Extras
 
