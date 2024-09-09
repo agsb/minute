@@ -47,8 +47,7 @@ Why count those rare words for letters frequency analysis [2] ?
 The NGSL and Google-N-Gram corpus gives long ordened lists of _words and counts_, that can be converted into _word, percents of total and cumulative percents_ then sorted by high to low percents and the magics appear. 
 
 Ordering letters as they occurs in sorted list, gives the follow sequences.
-
-### 
+ 
 | order | list | what |
 | -- | -- |-- |
 | absolute | **e t o a n h i r s l d u c b f y m w p g v k x j q z** | classic frequency, counting in all ocurrencies |
@@ -58,7 +57,7 @@ Ordering letters as they occurs in sorted list, gives the follow sequences.
 | balanced | **t a o e h n d i b f s r y l w u c m p g k v j x q z** | see next topic |
 |  |  | |
 
-ps. frequency of 2d, 3h, 4t, bigrams, trigrams, inside of words still in work
+ps. Considering the frequency within words, other bigrams and trigrams show minimal differences.
 
 ## Balance
 
@@ -66,54 +65,9 @@ Which sequence is better ?
 
 A simple method is sum the relative position of each letter in lists and sort in crescent order, then lower scores is better.
 
-    **t a o e h n d i b f s r y l w u c m p g k v j x q z**
+**t a o e h n d i b f s r y l w u c m p g k v j x q z**
 
-Better, can split the lists in sequences of layer number of keys (twelve), count how many times a key appers, sort and list. That list sequence will be well balanced within all criteria.
-
-
-| key| rank | place |
-| -- | -- | -- |
-| **layer 0** | | |
- | t | 4 | 6 |
- | a | 4 | 20 |
- | o | 4 | 21 |
- | h | 4 | 27 |
- | e | 3 | 5 |
- | n | 3 | 14 |
- | d | 3 | 22 |
- | i | 3 | 22 |
- | s | 3 | 27 |
- | f | 3 | 27 |
- | b | 2 | 7 |
- | r | 2 | 15 |
- | | | |
- | **layer 1** | | |
- | y | 2 | 17 |
- | l | 2 | 20 |
- | w | 1 | 7 |
- | c | 1 | 9 |
- | v | 1 | 11 |
- | p | 1 | 11 |
- | u | 1 | 12 |
- | m | 1 | 12 |
- | | | |
- | g | -4 | 75 |
- | k | -4 | 78 |
- | j | -4 | 93 |
- | x | -4 | 95 |
- | | | |
- | other | | |
- | q | -4 | 98 |
- | z | -4 | 103 |
- | | | |
-
-(The letters with negative rank are not in the first 12 places of files) 
-
-The table gives a layout of four layers, two for lowercase, layer 0 (**t a o h e n d i s f b r**),  layer 1 (**y l w c v p u m g k j x**), and two for uppercase. The 'q' and 'z' will be allocated into punctuation layers. 
-  
-The order of letters in each layer needs be defined later. 
-
-Eg. keyline 1 / tT hH eE / \ aA nN dD \, keyline 2 / fF oO rR / \ bB iI sS \ 
+By split the lists in sequences of layer number of keys (twelve), can count how many times a key appers, sort and list. That list sequence will be well balanced layers. The order of letters in each layer needs be defined later. 
 
 ## digits and punctuations
 
