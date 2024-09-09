@@ -70,17 +70,20 @@ The characters were grouped into layers using following alternative frequency an
 
 The order of letters inside layers is not yet adjusted or balanced finger use.
 
-For sake of use "hold and taps", no automatic key repeat allowed, (maybe as combo ?)
+For Held-and-tap works, the key helded can not be mapped on layer selected, then need a adjust for default layer with 12 active keys and others with 10 active and 2 inactive letters. For sake of use "hold and taps", no automatic key repeat allowed.
 
 | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | -- | --- |
 | **layer 0** | | | | | | | | Alpha 1 |
 || s | b | r || d | i | f |
 || h | e | n || t | a | o |
+| **held** | | | | | | | |
+|| 6 | 5 | 4 || 4 | 5 | 6 |
+|| 3 | 2 | 1 || 1 | 2 | 3 |
 | | | | | | | | |
 | **layer 1** | | | | | | | | Alpha 2 |
 | | | | | | | | |
-|| m | g | k || . | v | u |
+|| m | X | X || . | v | u |
 || c | p | , || y | l | w |
 | | | | | | | | |
 | **layer 2** | | | | | | | | Numeric |
