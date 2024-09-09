@@ -33,14 +33,19 @@ How optimze and simplify ?
 Using combinations of keys, aka combos, and a confortable design for an alternative layout,
 and not a stenotype keyboard [1].
 
-### frequency
+### Frequency
 
-A alternative [frequency correlation analysis](https://github.com/agsb/minute/blob/main/docs/Frequency.md).
+A alternative [frequency correlation analysis](https://github.com/agsb/minute/blob/main/docs/Frequency.md), gives the follow sequence, using sequencial order of letters in most used words.
 
-Some notes about [Logics](https://github.com/agsb/minute/blob/main/docs/Logics.md), [Design](https://github.com/agsb/minute/blob/main/docs/Design.md) and [Layout](https://github.com/agsb/minute/blob/main/docs/Layouts.md)
+**t a o e h n d i b f s r y l w u c m p g k v j x q z**
 
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | --- | --- |
+| t | a | o | e | h | n | d | i | b | f | s | r | y | l | w | u | c | m | p | g | k | v | j | x | q | z |
 
 ## Extras
+
+Some notes about [Logics](https://github.com/agsb/minute/blob/main/docs/Logics.md), [Design](https://github.com/agsb/minute/blob/main/docs/Design.md) and [Layout](https://github.com/agsb/minute/blob/main/docs/Layouts.md)
 
 [1] The [Stenotype](https://en.wikipedia.org/wiki/Stenotype) produces glyphs for shorthand. See Stenography.
 

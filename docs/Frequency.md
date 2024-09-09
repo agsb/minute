@@ -68,9 +68,7 @@ A simple method is sum the relative position of each letter in lists and sort in
 
     **t a o e h n d i b f s r y l w u c m p g k v j x q z**
 
-Better, can split the lists in sequences of layer number of keys (twelve), count how many times a key appers, sort and list. 
-That list sequence will be well balanced within all criteria.
-
+Better, can split the lists in sequences of layer number of keys (twelve), count how many times a key appers, sort and list. That list sequence will be well balanced within all criteria.
 
 
 | key| rank | place |
