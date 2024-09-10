@@ -101,6 +101,8 @@ With the same processing (explained above):
 
 [2] For reference, [Word Essay](https://wordcounter.net/blog/2016/08/22/101946_how-long-does-it-take-to-write-a-1000-word-essay.html)  "1,000 words is actually a relatively short piece. A dissertation would usually be in the region of 12,000 words, and university assignments can stretch to essays of 5,000 words". [Daily Word](https://wordcounter.net/blog/2017/12/04/103207_the-daily-word-counts-of-19-famous-writers.html) Daily counts for famous writers are about 1100 words. 
 
+[Essay about frequency](https://mdickens.me/typing/letter_frequency.html)
+
 with [datasets](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)
 
 [Texas SPED support Gov](https://spedsupport.tea.texas.gov/sites/default/files/2023-08/high-frequency-word-list.pdf)
