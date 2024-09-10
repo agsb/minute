@@ -1,7 +1,7 @@
 
-In 08/09/2024 at 16:00h EST,
+In 08/09/2024 at 16:00h EST, talking with [Claude](https://claude.ai/)
 
-First attempet:
+First attempt:
 
 ```
 Certainly. I'll create groups of 12 elements each, using the full ASCII character set 
