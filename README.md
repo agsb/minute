@@ -8,7 +8,7 @@ Forget QWERTY and etc layouts, use a minimal software mapped keyboard.
 
 A really minute splited layered software mapped keyboard, using two pads of up to ten (5x2) switches.
 
-Alike [Many Splited]( https://github.com/diimdeep/awesome-split-keyboards) or reduced [Ergogen](https://github.com/topics/ergogen)
+Alike [Many Splited]( https://github.com/diimdeep/awesome-split-keyboards) or reduced splited [Ergogen](https://github.com/topics/ergogen)
 
 __Now learning to use Ergogen to create it.__
 
