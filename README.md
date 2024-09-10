@@ -8,9 +8,9 @@ Forget QWERTY and etc layouts, use a minimal software mapped keyboard.
 
 A really minute splited layered software mapped keyboard, using two pads of up to ten (5x2) switches.
 
-Alike a reduced [Ergogen](https://github.com/topics/ergogen)
+Alike [Many Splited]( https://github.com/diimdeep/awesome-split-keyboards) or reduced [Ergogen](https://github.com/topics/ergogen)
 
-Now learning to use Ergogen to create it.
+__Now learning to use Ergogen to create it.__
 
 Also look at [Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
 
@@ -19,7 +19,6 @@ Also look at [Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_A
 __Layout yet not defined__ See [Minute Layout Study](https://github.com/agsb/minute/blob/main/docs/Minute.md)
 
 ![image](https://github.com/agsb/minute/blob/main/minimal-9x9-split.png)
-
 
 # Make it simple
 
