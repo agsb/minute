@@ -46,26 +46,26 @@ Actions could be defined for sequences of "Press-Held-Release-Wait" to define he
     2. tap then dual tap, goto 4, 
     3. tap then held, goto 7,
     4. dual tap then tap, 
-    5. dual tap then dualtap, goto 4
+    5. dual tap then dual tap, goto 4
     6. dual tap then held, goto 7
     7. held then tap,
     8. held then dual tap,
     9. held then held, a chord
+    10. chord, do as it defined, goto 0
 
     switch the layer could be momentary MO or permanent 
-    momentary switch a layer
+    momentary switch a layer must ignore the key used to change 
 
 
 ### A chord 
 
 A chord is about keys held pressed simultanely, no order is preserved, AB and BA is same chord. 
-There is 21 chords using the twelve block, plus 48 chords using the thumbs and twelve block.
+There is 21 dual chords using the twelve block, plus 48 dual chords using the thumbs and twelve block.
 
 ### A swap 
 
 A swap is about held (and release ?) a key then click other key. 
-AB is not same as BA. Used to select a layer and a key. 
-Any swap with space selects the default layer. 
+AB is not same as BA. Used to select a layer and a key. The key held can not be defined at layer.
 
 ### Delays
 
@@ -83,7 +83,7 @@ map = <
     RC(0,0) RC(0,1) RC(0,2) RC(0,3) RC(0,4)     RC(0,5) RC(0,6) RC(0,7) RC(0,8) RC(0,9)
     RC(1,0) RC(1,1) RC(1,2) RC(1,3) RC(1,4)     RC(1,5) RC(1,6) RC(1,7) RC(1,8) RC(1,9)
 	>;
-  
+ 
 // RC(0,0) and RC(0,9) ghost keys :)
 // RC(1,0) and RC(1,9) pinky keys
 // RC(0,1), RC(1,1), RC(0,8) and RC(1,8) are ring keys
@@ -103,8 +103,6 @@ CR(0,0) CR(0,1)
 CR(1,0) CR(1,1)
 CR(2,0) CR(1,1)
 
-
-
 RC(0,0) RC(0,1) RC(0,2)
 RC(0,0) RC(0,1) RC(0,2)
 
@@ -113,3 +111,5 @@ RC(0,0) RC(0,1) RC(0,2)
 ### Extras
 
 Examples for USB-HID <https://www.silabs.com/documents/public/application-notes/AN249.pdf>
+
+
