@@ -21,7 +21,7 @@ As classic analysis, the results are computed by summing the ocurrences, for new
 
 Showing only ASCII 7-bits character counters, no UTF-8 extras, Space is (S), Enter - new line - is (A) and Tab is (T). Note that backtick would also used as apostrofe in texts.
 
-## Only letters, space, new line and tabulation:
+## Only letters, space (S), new line (A) and tabulation (T):
 
         S e t a i s n r o T d c l h u f p m A g b y w v x k q j z 
 
