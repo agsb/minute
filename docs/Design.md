@@ -71,13 +71,7 @@ It records sounds and uses chords to combos convertion. "The order that you pres
 
 # Ideas
 
-Why not name the four modifier keys as Shift and Ctrl, left and right ?
-
-Two boxes for keyboards and one box for main controler and USB connection to PC.
-
-Use of I2C or IR for comunication between boxes. I2C need physical cable and IR could cause interference in/to IR 3800 Hz devices.
-
-If all is cable connected, the power could be from USB connector as 5V and GND.
+Why not use any key as a shift modifier ?
 
 # Extras 
 
