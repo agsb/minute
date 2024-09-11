@@ -21,6 +21,8 @@ As classic analysis, the results are computed by summing the ocurrences, for new
 
 Showing only ASCII 7-bits character counters, no UTF-8 extras, Space is (S), Enter - new line - is (A) and Tab is (T). Note that backtick would also used as apostrofe in texts.
 
+---
+
 ## Only letters, space (S), new line (A) and tabulation (T):
 
         S e t a i s n r o T d c l h u f p m A g b y w v x k q j z 
@@ -56,6 +58,8 @@ Showing only ASCII 7-bits character counters, no UTF-8 extras, Space is (S), Ent
  | q | 4731668 | 46.7501 | 0.1966 | 99.74 |
  | j | 3308766 | 45.1967 | 0.1375 | 99.87 |
  | z | 3040211 | 44.8290 | 0.1263 | 100.00 |
+
+---
 
 ## Only symbols:
 
@@ -95,25 +99,29 @@ Showing only ASCII 7-bits character counters, no UTF-8 extras, Space is (S), Ent
  | ~ | 177728 | 32.4976 | 0.0653 | 99.93 |
  | $ | 127952 | 31.0705 | 0.0470 | 99.98 |
  | ^ | 57578 | 27.6026 | 0.0212 | 100.00 |
- 
+
+---
+
 ## Only digits:
 
-Note the strange order, also the '0123' keys take about 73% for all occurrences.
+Note the strange order, also the '0123' keys take about 73% for all occurrences. Comparing with [Benford's Law](https://en.wikipedia.org/wiki/Benford%27s_law) shows unnatural behavior, caused by human deterministic process. Eg take notes for date and times.
 
          0 1 2 3 4 8 5 6 9 7 
 
- | letter | ppm | sfi | percents | cumulae | 
- | --- | --- | --- | --- | --- | 
- | 0 | 38041230 | 55.8025 | 41.0631 | 41.06 |
- | 1 | 13162911 | 51.1935 | 14.2085 | 55.27 |
- | 2 | 10250677 | 50.1075 | 11.0650 | 66.34 |
- | 3 | 6263020 | 47.9678 | 6.7605 | 73.10 |
- | 4 | 5500430 | 47.4040 | 5.9374 | 79.03 |
- | 8 | 4594392 | 46.6223 | 4.9594 | 83.99 |
- | 5 | 4352071 | 46.3870 | 4.6978 | 88.69 |
- | 6 | 4180699 | 46.2125 | 4.5128 | 93.20 |
- | 9 | 3246375 | 45.1140 | 3.5043 | 96.71 |
- | 7 | 3049019 | 44.8416 | 3.2912 | 100.00 |
+ | letter | ppm | sfi | percents | cumulae | Benford law | 
+ | --- | --- | --- | --- | --- | -- |
+ | 0 | 38041230 | 55.8025 | 41.0631 | 41.06 | not used |
+ | 1 | 13162911 | 51.1935 | 14.2085 | 55.27 | 30.1 |
+ | 2 | 10250677 | 50.1075 | 11.0650 | 66.34 | 17.6 |
+ | 3 | 6263020 | 47.9678 | 6.7605 | 73.10 | 12.5 |
+ | 4 | 5500430 | 47.4040 | 5.9374 | 79.03 | 9.7 |
+ | 8 | 4594392 | 46.6223 | 4.9594 | 83.99 | 5.1 |
+ | 5 | 4352071 | 46.3870 | 4.6978 | 88.69 | 7.9 |
+ | 6 | 4180699 | 46.2125 | 4.5128 | 93.20 | 6.7 |
+ | 9 | 3246375 | 45.1140 | 3.5043 | 96.71 | 4.6 |
+ | 7 | 3049019 | 44.8416 | 3.2912 | 100.00 | 5.8 |
+
+---
 
 ## Full sequence: 
 
