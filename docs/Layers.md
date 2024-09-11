@@ -17,6 +17,8 @@ vide <https://docs.qmk.fm/config_options#behaviors-that-can-be-configured>
  ---
 ### metas
 
+Usually 1. shitf, control, alter, gui codes (Sft, Ctl, Alt, Gui) for left and right, 2. lower, raise as lower, upper, adjust layers,
+
 L = left, R = right, X = not used, MO = momentary change layer
 
 | this | mnemo | Layer 1 | Layer 2  | Layer 3 | Layer 4 | Numeric |
