@@ -7,11 +7,36 @@ All controls, actions and functions are defined by virtual layers, and using USB
 ---
 ### qmk
 
+The magics for [tap-hold](https://docs.qmk.fm/tap_hold), press(down)-held-release(up), held time compares with tapping-term.
+
+ The sequences for two keys, by down and up order, are 1. distinct taps AA|BB, 2. nested taps AB|BA, 3. rolling AB|AB. Don't try with more keys.
+
+
 **config.h**
 ```
 #define TAPPING_TERM 200
 #define DYNAMIC_TAPPING_TERM_INCREMENT 5
 #define TAPPING_TERM_PER_KEY
+
+// no other key pressed results in nothing happening, just the normal keycode
+// LT(2, KC_SPC) results in KC_SPC
+#define RETRO_TAPPING
+#define RETRO_TAPPING_PER_KEY
+#define DUMMY_MOD_NEUTRALIZER_KEYCODE KC_ANY
+#define MODS_TO_NEUTRALIZE { <mod_mask_1>, <mod_mask_2>, ... }
+// Neutralize left alt and left GUI (Default value)
+// #define MODS_TO_NEUTRALIZE { MOD_BIT(KC_LEFT_ALT), MOD_BIT(KC_LEFT_GUI) }
+
+
+// If QUICK_TAP_TERM is set to 0, the second press will always be sent, effectively disabling auto-repeat.
+// use eg. SFT_T(KC_A, LSFT)
+#define QUICK_TAP_TERM 120
+
+// try
+#define PERMISSIVE_HOLD
+#define PERMISSIVE_HOLD_PER_KEY
+// or 
+#define HOLD_ON_OTHER_KEY_PRESS
 ```
 
 **rules.mk**
