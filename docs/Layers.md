@@ -11,6 +11,8 @@ The magics for [tap-hold](https://docs.qmk.fm/tap_hold), press(down)-held-releas
 
  The sequences for two keys, by down and up order, are 1. distinct taps AA|BB, 2. nested taps AB|BA, 3. rolling AB|AB. Don't try with more keys.
 
+vide <https://docs.qmk.fm/config_options#behaviors-that-can-be-configured>
+
 ---
 **config.h**
 ```
@@ -61,9 +63,16 @@ TRI_LAYER_ENABLE = yes
 // for UTF_8
 UNICODE_COMMON = yes
 
+// define source, minute is a stub
+SRC += minute.c
 ```
-
----
+  
+  ┌────┬────┬────┬────┬────┬────┐               ┌────┬────┬────┬────┬────┬────┐
+  ├────┼────┼────┼────┼────┼────┤               ├────┼────┼────┼────┼────┼────┤
+  ├────┼────┼────┼────┼────┼────╱────╱     ╲────╲────┼────┼────┼────┼────┼────┤
+           
+                
+ ---
 ### metas
 
 L = left, R = right, X = not used, MO = momentary change layer
