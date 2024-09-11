@@ -7,14 +7,32 @@ All controls, actions and functions are defined by virtual layers, and using USB
 ---
 ### metas
 
-| this | mnemo | default | Layer 1 | Layer 2  | Layer 3 |
-| --- | --- | --- | --- | --- | --- |
-| pinky Left  | Lp |  |  |  |  |
-| pinky Right | Rp |  |  |  |  |
-| thumb Left  | M0 |  |  |  |  |
-| thumb Right | M1 |  |  |  |  |
-| thumb Left  | M2 |  |  |  |  |
-| thumb Right | M3 |  |  |  |  |
+L = left, R = right, X = not used, MO = momentary change layer
+
+| this | mnemo | Layer 1 | Layer 2  | Layer 3 | Layer 4 | Numeric |
+| --- | --- | --- | --- | --- | --- | -- |
+| pinky L | Lp | shift L |  |  |  |  |
+| pinky R | Rp | shift R |  |  |  |  |
+| thumb L | M0 | space  |  |  |  | NL(0) |
+| thumb R | M1 | tabulation |  |  |  | | 
+| thumb L | M2 | MO(2) |  X |  |  | |
+| thumb R | M3 | MO(3) |  | X |  | |
+
+---
+### navigation
+
+Not in place yet, order not defined
+
+forw = forward, tab = tabulation 
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ---  | ---  | --- | ---  | ---  | ---  | ---  | ---  | --- | --- | ---  | --- | --- |
+| escape | delete | backspace | forw tab | back tab | enter |  left | right | up | down | home  | end  |  | 
+| cut | copy | paste | undo | again | page up | page dn | find | replace | insert | save | load | quit |
+| F1 | F2 | F3 | F4 | F5 | F6 | F7 | F8 | F9 | F10 | F11 | F12 |  |
+| F13 | F14 | F15 | F16 | F17 | F18 | F19 | F20 | F21 | F22 | F23 | F24 |  |
+| GUI L | ALT L | CTR L | CTRL R | ALT R | GUI R |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ---
 #### alpha
