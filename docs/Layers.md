@@ -4,6 +4,7 @@ Minute is a splited ergonomic keyboard with 18 keys.
 A group of 2 rows of 3 columns for index, middle and ring fingers, and one row of 3 columns for pinky and thumb. 
 All controls, actions and functions are defined by virtual layers, and using USB-HID standart. 
 
+---
 ### metas
 
 | this | mnemo | default | Layer 1 | Layer 2  | Layer 3 |
@@ -15,7 +16,7 @@ All controls, actions and functions are defined by virtual layers, and using USB
 | thumb Left  | M2 |  |  |  |  |
 | thumb Right | M3 |  |  |  |  |
 
-
+---
 #### alpha
 
 **t a o e h n d i b f s r y l w u c m p g k v j x q z**
@@ -27,6 +28,7 @@ All controls, actions and functions are defined by virtual layers, and using USB
 | q | z | | | | | | | | | | | layer 6 |
 |  |  |  |  |  |  |  |  |  |  |  |  | |
 
+---
 #### punctuations
 
 **_ , . ) ( * ; - = / " # > { } ' \ : & [ ] < + ! @ ? | % ` ~ $ ^**
@@ -40,6 +42,7 @@ Reordened to group symbols for prose and programming
  | + | % | & | $ | \| | ^ | ~ | ` | | | |  | layer 6 |
  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 
+---
 #### digits
 
 **0 1 2 3 4 8 5 6 9 7**
