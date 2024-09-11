@@ -5,6 +5,23 @@ A group of 2 rows of 3 columns for index, middle and ring fingers, and one row o
 All controls, actions and functions are defined by virtual layers, and using USB-HID standart. 
 
 ---
+### qmk
+
+**config.h**
+```
+#define TAPPING_TERM 200
+#define DYNAMIC_TAPPING_TERM_INCREMENT 5
+#define TAPPING_TERM_PER_KEY
+```
+
+**rules.mk**
+```
+DYNAMIC_TAPPING_TERM_ENABLE
+QK_DYNAMIC_TAPPING_TERM_PRINT, DT_PRNT, Types the current tapping term, in milliseconds
+QK_DYNAMIC_TAPPING_TERM_UP, DT_UP, Increases the current tapping term by DYNAMIC_TAPPING_TERM_INCREMENTms (5ms by default)
+QK_DYNAMIC_TAPPING_TERM_DOWN, DT_DOWN, Decreases the current tapping term by DYNAMIC_TAPPING_TERM_INCREMENTms (5ms by default)
+```
+---
 ### metas
 
 L = left, R = right, X = not used, MO = momentary change layer
