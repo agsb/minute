@@ -72,6 +72,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
       ),
     };
 
+
+// per key timer
+
 bool process_record_user(uint16_t keycode, keyrecord_t *record) {
       static uint16_t my_hash_timer;
       switch (keycode) {
@@ -89,3 +92,44 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
       }
       return true; // We didn't handle other keypresses
     }
+
+// cut, copy, paste, undo, redo
+// The following example uses LT(0, kc) (layer-tap key with no practical use because layer 0 is always active)
+// to add cut, copy and paste function to X,C and V keys when they are held down:
+// added redo (Y) and undo (Z)
+
+bool process_record_user(uint16_t keycode, keyrecord_t *record) {
+    switch (keycode) {
+        case LT(0,KC_X):  // cut
+            if (!record->tap.count && record->event.pressed) {
+                tap_code16(C(KC_X)); // Intercept hold function to send Ctrl-X
+                return false;
+            }
+            return true;             // Return true for normal processing of tap keycode
+        case LT(0,KC_C):  // copy
+            if (!record->tap.count && record->event.pressed) {
+                tap_code16(C(KC_C)); // Intercept hold function to send Ctrl-C
+                return false;
+            }
+            return true;             // Return true for normal processing of tap keycode
+        case LT(0,KC_V):  // paste
+            if (!record->tap.count && record->event.pressed) {
+                tap_code16(C(KC_V)); // Intercept hold function to send Ctrl-V
+                return false;
+            }
+            return true;             // Return true for normal processing of tap keycode
+        case LT(0,KC_Z):  // undo
+            if (!record->tap.count && record->event.pressed) {
+                tap_code16(C(KC_Z)); // Intercept hold function to send Ctrl-Z
+                return false;
+            }
+            return true;             // Return true for normal processing of tap keycode
+        case LT(0,KC_Y):  // redo
+            if (!record->tap.count && record->event.pressed) {
+                tap_code16(C(KC_Y)); // Intercept hold function to send Ctrl-Y
+                return false;
+            }
+            return true;             // Return true for normal processing of tap keycode
+    }
+    return true;
+}
