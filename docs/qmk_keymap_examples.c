@@ -133,3 +133,23 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
     }
     return true;
 }
+
+// This last example implements custom tap and hold function with LT(0,KC_NO) to create a single copy-on-tap, paste-on-hold key:
+// adapted common case. @agsb
+bool process_record_user(uint16_t keycode, keyrecord_t *record) {
+    uint16_t key;
+    switch (keycode) {
+        case LT(0,KC_NO): // ?????
+            if (record->event.pressed) {
+                if (record->tap.count) {
+                    key = KC_C;
+                    }
+                else {
+                    key = KC_V;
+                    }
+            tap_code16(C(key)); // Intercept hold function to send Ctrl-Key
+            return false;
+        }
+    }
+    return true;
+}
