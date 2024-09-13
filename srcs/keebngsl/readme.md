@@ -92,13 +92,13 @@ No reserved keys, each by row and layers, moves 10 keys for layer
 
 ## results
 
-| layout | click counts | note | 
-| --- | --- | -- | 
-| 1 | 3307643 | one layer, 26 keys |
-| 2 | 4048216 | 3 layers, 12/12/2 |
-| 3 | 4058368 | 3 layers, 12/10/4 |
-| 4 | 4441992 | 3 layers, 10/10/6 | 
-| 5 | 5770272 | 3 layers, 12/12/2 per row | 
-| 6 | 6639137 | 3 layers, 10/10/6 per row |
+| layout | click counts | note | over |
+| --- | --- | -- | --- | 
+| 1 | 3307643 | one layer, 26 keys | 1.0000 |
+| 2 | 4048216 | 3 layers, 12/12/2 | 1,2238 | 
+| 3 | 4058368 | 3 layers, 12/10/4 | 1.2270 |
+| 4 | 4441992 | 3 layers, 10/10/6 | 1.3429 |
+| 5 | 5770272 | 3 layers, 12/12/2 per row | 1,7445 |
+| 6 | 6639137 | 3 layers, 10/10/6 per row | 2,0072 |
 | | | | 
 
