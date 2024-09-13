@@ -92,7 +92,7 @@ No reserved keys, each by row and layers, moves 10 keys for layer
 
 ## results
 
-| layout | overhead | note | 
+| layout | click counts | note | 
 | --- | --- | -- | 
 | 1 | 3307643 | one layer, 26 keys |
 | 2 | 4048216 | 3 layers, 12/12/2 |
