@@ -92,14 +92,16 @@ No reserved keys, each by row and layers, moves 10 keys for layer
 
 ## results
 
-| layout | ppm clicks | note | over |
+#### For NGSL 
+
+| layout | ppm clicks | over | notes | 
 | --- | --- | -- | --- | 
-| 1 | 3307643 | one layer, 26 keys | 1.0000 |
-| 2 | 4048216 | 3 layers, 12/12/2 | 1,2238 | 
-| 3 | 4058368 | 3 layers, 12/10/4 | 1.2270 |
-| 4 | 4441992 | 3 layers, 10/10/6 | 1.3429 |
-| 5 | 5770272 | 3 layers, 12/12/2 per row | 1,7445 |
-| 6 | 6639137 | 3 layers, 10/10/6 per row | 2,0072 |
-| 7 | 4043904 | 3 layers, same weight for 2 and 3 | 1.2226 |
+| 1 | 3307643 | 1.0000 | one layer, all keys load 1, reference counter |
+| 2 | 4048216 | 1.2238 | 3 layers, 12/12/2, loads 1, 2, 3 |
+| 3 | 4058368 | 1.2270 | 3 layers, 12/10/4, loads 1, 2, 3 |
+| 4 | 4441992 | 1.3429 | 3 layers, 10/10/6, loads 1, 2, 3 |
+| 5 | 5770272 | 1.7445 | 3 layers, 12/12/2, loads by row/layer 1, 2, 3 |
+| 6 | 6639137 | 2.0072 | 3 layers, 10/10/6, loads by row/layer 1, 2, 3 |
+| 7 | 4043904 | 1.2226 | 3 layers, same loads for 2 and 3 |
 | | | | 
 
