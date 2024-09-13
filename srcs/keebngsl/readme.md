@@ -81,4 +81,14 @@ No reserved keys, each by row and layers, moves 10 keys for layer
 = layer 2 upper row
 5 z 
 
+## results
+
+| layout | overhead |
+| --- | --- |
+|freqs11.v |3307643|
+|freqs12.v |4048216|
+|freqs13.v |4058368|
+|freqs14.v |4441992|
+|freqs15.v |5770272|
+|freqs16.v |6639137|
 
