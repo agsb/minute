@@ -19,13 +19,13 @@ the layouts ared defined by a weight and a sequence of keys
     2.2 relative counter, as 2.1 weight by events of words with it
     2.3 effort counter, as 2.2 weighted by effort of keyboard layout used
 
-#### layout 0
+#### layout 1
 
 Used as reference for values
  
     1 t a o e h n d i b f r s y l w u c m p g k v j x q z 
 
-#### layout 1
+#### layout 2
 
 no reserved keys for actions, 12 keys for layers
 
@@ -33,7 +33,7 @@ no reserved keys for actions, 12 keys for layers
 2 y l w u c m p g k v j x
 3 q z
 
-#### layer 2
+#### layer 3
 
 reserves two keys in secondary layers,  12, 10, 4 keys
 
@@ -41,7 +41,7 @@ reserves two keys in secondary layers,  12, 10, 4 keys
 2 y l w u c m p g k v
 3 j x q z 
 
-#### layout 3
+#### layout 4
 
 reserves two keys in each layer for actions, 10 keys for layer
 
@@ -49,7 +49,7 @@ reserves two keys in each layer for actions, 10 keys for layer
 2 r s y l w u c m p g 
 3 k v j x q z 
 
-#### layout 4 
+#### layout 5 
 
 No reserved keys, each by row and layers, moves 12 keys for layer
 
@@ -64,7 +64,7 @@ No reserved keys, each by row and layers, moves 12 keys for layer
 = layer 2 home row
 5 q z 
 
-#### layout 5 
+#### layout 6 
 
 No reserved keys, each by row and layers, moves 10 keys for layer
 
