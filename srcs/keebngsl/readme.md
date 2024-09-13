@@ -100,5 +100,6 @@ No reserved keys, each by row and layers, moves 10 keys for layer
 | 4 | 4441992 | 3 layers, 10/10/6 | 1.3429 |
 | 5 | 5770272 | 3 layers, 12/12/2 per row | 1,7445 |
 | 6 | 6639137 | 3 layers, 10/10/6 per row | 2,0072 |
+| 7 | 4043904 | 3 layers, same weight for 2 and 3 | 1.2226 |
 | | | | 
 
