@@ -57,7 +57,11 @@ Ordering letters as they occurs in sorted list, gives the follow sequences.
 | balanced | **t a o e h n d i b f s r y l w u c m p g k v j x q z** | see next topic |
 |  |  | |
 
-ps. Considering the frequency within words, other bigrams and trigrams show minimal differences.
+NOTES. 
+
+1. Considering the absolute and balanced sequences, group by 12 keys and without order, only differ by 4 keys: absolute (l u | b f) or balanced (b f | l u)
+
+2. Considering the frequency within words, other bigrams and trigrams show minimal differences.
 
 ## Balance
 
