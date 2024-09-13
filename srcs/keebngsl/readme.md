@@ -78,21 +78,21 @@ No reserved keys, each by row and layers, moves 12 keys for layer
 No reserved keys, each by row and layers, moves 10 keys for layer
 
     = layer 0 home row
-    0 t a o e h  
+    1 t a o e h  
     = layer 0 upper row
-    1 n d i b f 
+    2 n d i b f 
     = layer 1 home row
-    2 r s y l w 
+    3 r s y l w 
     = layer 1 upper row
-    3 u c m p g  
+    4 u c m p g  
     = layer 2 home row
-    4 k v j x q 
+    5 k v j x q 
     = layer 2 upper row
-    5 z 
+    6 z 
 
 ## results
 
-| layout | click counts | note | over |
+| layout | ppm clicks | note | over |
 | --- | --- | -- | --- | 
 | 1 | 3307643 | one layer, 26 keys | 1.0000 |
 | 2 | 4048216 | 3 layers, 12/12/2 | 1,2238 | 
