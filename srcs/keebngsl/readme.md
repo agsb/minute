@@ -9,15 +9,15 @@ the layouts ared defined by a weight and a sequence of keys
 
 1. data as "word ppm" from 
 
-    ngls    ngsl-1.2 
-    ngrf    google books n-gram, full
-    ngrp    google books n-gram, only > 1
+        ngls    ngsl-1.2 
+        ngrf    google books n-gram, full
+        ngrp    google books n-gram, only > 1
 
 2. results for char (key)
     
-    2.1 absolute counter, summing all events of any single char
-    2.2 relative counter, as 2.1 weight by events of words with it
-    2.3 effort counter, as 2.2 weighted by effort of keyboard layout used
+        2.1 absolute counter, summing all events of any single char
+        2.2 relative counter, as 2.1 weight by events of words with it
+        2.3 effort counter, as 2.2 weighted by effort of keyboard layout used
 
 #### layout 1
 
