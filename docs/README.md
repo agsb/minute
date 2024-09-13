@@ -41,6 +41,8 @@ A alternative letter [frequency correlation analysis](https://github.com/agsb/mi
 
     t a o e h n d i b f s r y l w u c m p g k v j x q z
 
+Considering the classic absolute and balanced frequencies, as group by 12 keys and without finger order, it only differ by 4 keys: classic (l u | b f) and balanced (b f | l u).
+
 ### Layers
 
 The [Layers](https://github.com/agsb/minute/blob/main/docs/Frequency.md)
