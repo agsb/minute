@@ -39,6 +39,8 @@ that can also use chords as a stenotype keyboard [1].
 
 A alternative letter [frequency correlation analysis](https://github.com/agsb/minute/blob/main/docs/Frequency.md), gives the follow sequence, using sequencial order of letters in most used word and most used bi-grams with space. Text filtered off for allow spaces, tabulations, returns (new line), and by colapse sucessives spaces and new lines.
 
+    t a o e h n d i b f s r y l w u c m p g k v j x q z
+
 ### Layers
 
 The [Layers](https://github.com/agsb/minute/blob/main/docs/Frequency.md)
