@@ -77,7 +77,7 @@ By split the lists in sequences of layer number of keys (twelve), can count how 
 
 The NGSL and NGRAM does not provide any information about digits and punctuation, then some corpus must be used to gather it. 
 
-The [Linux kernel source](https://github.com/agsb/minute/blob/main/docs/stats.linux.md), the [Openjdk source](https://github.com/agsb/minute/blob/main/docs/stats.openjava.md), the [Python source](https://www.python.org/ftp/python/3.12.5/Python-3.12.5.tgz), the [Oxford Texts](https://github.com/agsb/minute/blob/main/docs/stats.oxford.md), the [Project Guttenberg](https://github.com/agsb/minute/blob/main/docs/stats.guttenberg.md) and the [Engram](https://github.com/agsb/minute/blob/main/docs/stats.engram.md).
+The [Linux kernel source](https://github.com/agsb/minute/blob/main/docs/stats.linux.md), the [Openjdk source](https://github.com/agsb/minute/blob/main/docs/stats.openjava.md), the [Python source](https://www.python.org/ftp/python/3.12.5/Python-3.12.5.tgz), the [Oxford Texts](https://github.com/agsb/minute/blob/main/docs/stats.oxford.md), the [Project Guttenberg](https://github.com/agsb/minute/blob/main/docs/stats.guttenberg.md) and the [Engram](https://github.com/agsb/minute/blob/main/docs/stats.engram.md).[3]
 
 For easy, the digits and punctuations, also 'q' and 'z', are placed in proper layers, grouped by than usability, not just by frequency
 
@@ -104,6 +104,8 @@ With the same processing (explained above):
 [1] Other layout comparations as [classics keyboard](http://pinouchon.github.io/keyboard/layouts/2016/03/07/layouts-review-dvorak-vs-colemak-vs-carpalx-vs-workman.html) can also be used with modern ergonomic [splited keyboards](https://github.com/diimdeep/awesome-split-keyboards). Some [full-optimized](https://mk.bcgsc.ca/carpalx/?full_optimization) for continous use.
 
 [2] For reference, [Word Essay](https://wordcounter.net/blog/2016/08/22/101946_how-long-does-it-take-to-write-a-1000-word-essay.html)  "1,000 words is actually a relatively short piece. A dissertation would usually be in the region of 12,000 words, and university assignments can stretch to essays of 5,000 words". [Daily Word](https://wordcounter.net/blog/2017/12/04/103207_the-daily-word-counts-of-19-famous-writers.html) Daily counts for famous writers are about 1100 words. 
+
+[3] The classic reference of frequency of [symbols](http://xahlee.info/comp/computer_language_char_distribution.html) in programming languages.
 
 [Essay about frequency](https://mdickens.me/typing/letter_frequency.html)
 
