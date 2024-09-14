@@ -12,7 +12,13 @@ A great comparation of keyboard layouts <https://getreuer.info/posts/keyboards/a
 
 And forum of layouts <https://www.reddit.com/r/KeyboardLayouts/>
 
-and layout tester <https://cyanophage.github.io/index.html>
+and layout testers
+
+[CYANO](https://cyanophage.github.io/index.html)
+
+[KEYSOLVE](<https://clemenpine.github.io/keysolve-web/>)
+
+[OXEY](https://oxey.dev/playground/index.html)
 
 ---
 
@@ -40,3 +46,16 @@ and layout tester <https://cyanophage.github.io/index.html>
     w c m p b  x l o u j -
     r s t h f  y n a e i ,
     q v g d k  z * ' ; .  
+
+
+[dsthk, version 1](https://www.reddit.com/r/KeyboardLayouts/comments/mnumbs/new_layout_for_lateral_movement_haters/)
+vide [page](https://xsznix.wordpress.com/2016/05/16/introducing-the-rsthd-layout/)
+
+tab  z c w b j   - m u ' q = 
+ctrl d s t h k   v n i a o /
+\    f g p r ;   x l y , . enter
+         e back shift space
+
+## extras
+
+[Alternatives]<https://mdickens.me/typing/alternative_layouts.html>
