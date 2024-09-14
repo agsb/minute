@@ -48,6 +48,7 @@ Considering the classic absolute and balanced frequencies, as group by 12 keys a
 The [Layers](https://github.com/agsb/minute/blob/main/docs/Frequency.md)
 
 ### Extras
+[Keyboard Layouts](https://docs.google.com/document/d/1Ic-h8UxGe5-Q0bPuYNgE3NoWiI8ekeadvSQ5YysrwII/edit)
 
 For test with random [Nonsene](https://callumoakley.net/nonsense/) text
 
