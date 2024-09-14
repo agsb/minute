@@ -10,6 +10,10 @@ __this file is a work in progress__
 
 A great comparation of keyboard layouts <https://getreuer.info/posts/keyboards/alt-layouts/stats.html>
 
+And forum of layouts <https://www.reddit.com/r/KeyboardLayouts/>
+
+---
+
 [Rhythm](https://www.reddit.com/r/KeyboardLayouts/comments/1fg55wa/rhythm_keyboard_layout_510_rolls_and_074_sfb/)
   
     y m h c p   q x u o ,
