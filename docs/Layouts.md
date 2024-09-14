@@ -58,4 +58,5 @@ ctrl d s t h k   v n i a o /
 
 ## extras
 
+[Guide](the-mystery-of-unusual-keyboard-layouts-a-comprehensive-guide-to-ansi-iso-jis-abnt-ks-and-more)
 [Alternatives]<https://mdickens.me/typing/alternative_layouts.html>
