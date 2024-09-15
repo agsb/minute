@@ -3,7 +3,7 @@ _this file is a stub_
 
 ## What 
 
-This directory group some essays and ideas around development of 
+This directory group some notes and ideas around development of 
 the [Minute](https://github.com/agsb/minute/blob/main/docs/Minute.md) keyboard.
 
 ## Why
