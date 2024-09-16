@@ -16,7 +16,7 @@ But not.
 
 Most of layouts uses frequency words in corpus of texts, as [New General Service List](https://www.newgeneralservicelist.com/) and [Google Books Ngram Viewer](https://books.google.com/ngrams), [Project Gutenberg](https://www.gutenberg.org/) for quantification of letters.
 
-Some alternative statistics about [Corpus](https://github.com/agsb/minute/blob/main/docs/Corpus_Frequency.md) and [NGSL](https://github.com/agsb/minute/blob/main/docs/NGSL_Frequency.md).[1]
+Some alternative statistics about [Corpus](https://github.com/agsb/minute/blob/main/notes/Corpus_Frequency.md) and [NGSL](https://github.com/agsb/minute/blob/main/notes/NGSL_Frequency.md).[1]
 
 A great comparison of actual alternatives for common keyboards were done by [Arno](https://www.preprints.org/manuscript/202103.0287/v1).
 
@@ -77,7 +77,7 @@ By split the lists in sequences of layer number of keys (twelve), can count how 
 
 The NGSL and NGRAM does not provide any information about digits and punctuation, then some corpus must be used to gather it. 
 
-The [Linux kernel source](https://github.com/agsb/minute/blob/main/docs/stats.linux.md), the [Openjdk source](https://github.com/agsb/minute/blob/main/docs/stats.openjava.md), the [Python source](https://www.python.org/ftp/python/3.12.5/Python-3.12.5.tgz), the [Oxford Texts](https://github.com/agsb/minute/blob/main/docs/stats.oxford.md), the [Project Guttenberg](https://github.com/agsb/minute/blob/main/docs/stats.guttenberg.md) and the [Engram](https://github.com/agsb/minute/blob/main/docs/stats.engram.md).[3]
+The [Linux kernel source](https://github.com/agsb/minute/blob/main/notes/stats.linux.md), the [Openjdk source](https://github.com/agsb/minute/blob/main/notes/stats.openjava.md), the [Python source](https://www.python.org/ftp/python/3.12.5/Python-3.12.5.tgz), the [Oxford Texts](https://github.com/agsb/minute/blob/main/notes/stats.oxford.md), the [Project Guttenberg](https://github.com/agsb/minute/blob/main/notes/stats.guttenberg.md) and the [Engram](https://github.com/agsb/minute/blob/main/notes/stats.engram.md).[3]
 
 For easy, the digits and punctuations, also 'q' and 'z', are placed in proper layers, grouped by than usability, not just by frequency
 
@@ -95,7 +95,7 @@ Note that oxford and guttemberg do not shows __@ ^ ` ´ ~__
 
 With the same processing (explained above):
 
-**, . ) ( - ; " : _ ' * ? = / ! # \ > } ] * [ + { < % & ` $ | ^ ~ **
+**, . ) ( - ; " : _ ' * ? = / ! # \ > } ] @ [ + { < % & ` $ | ^ ~**
 
 **0123456789**
 

@@ -1,10 +1,17 @@
 /*
 
+also see https://github.com/getreuer/qmk-keymap
+
+also https://github.com/Ikcelaks/qmk_sequence_transform
+
 **config.h**
 ```
 #define TAPPING_TERM 200
 #define DYNAMIC_TAPPING_TERM_INCREMENT 5
 #define TAPPING_TERM_PER_KEY
+
+#define DEBOUNCE 10
+
 
 // If QUICK_TAP_TERM is set to 0, the second press will always be sent, effectively disabling auto-repeat.
 // use eg. SFT_T(KC_A, LSFT)

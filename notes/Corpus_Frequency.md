@@ -7,15 +7,15 @@ __this file is work in progress__
 
 A basic statistical review with absolute **counter, [SFI](http://www.manulex.org/docs/en/Manulex.pdf), percents, cumulatives frequencies,** were done with classic corpus of 
 
-[Project Guttenberg corpus](https://github.com/agsb/minute/blob/main/docs/stats.guttenberg.md).
-[Oxford Text Archive corpus](https://github.com/agsb/minute/blob/main/docs/stats.engram.md)
-[Engram corpus](https://github.com/agsb/minute/blob/main/docs/stats.engram.md),
+[Project Guttenberg corpus](https://github.com/agsb/minute/blob/main/notes/stats.guttenberg.md).
+[Oxford Text Archive corpus](https://github.com/agsb/minute/blob/main/notes/stats.engram.md)
+[Engram corpus](https://github.com/agsb/minute/blob/main/notes/stats.engram.md),
 
 and especific programming corpus, for fine measure of symbols,
 
-[Linux kernel sources](https://github.com/agsb/minute/blob/main/docs/stats.linux.md),
-[OpenJDK sources](https://github.com/agsb/minute/blob/main/docs/stats.openjdk.md),
-[Python sources](https://github.com/agsb/minute/blob/main/docs/stats.python.md),
+[Linux kernel sources](https://github.com/agsb/minute/blob/main/notes/stats.linux.md),
+[OpenJDK sources](https://github.com/agsb/minute/blob/main/notes/stats.openjdk.md),
+[Python sources](https://github.com/agsb/minute/blob/main/notes/stats.python.md),
 
 As classic analysis, the results are computed by summing the ocurrences, for new calculation of SFI and percents of total counts.
 

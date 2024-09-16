@@ -16,7 +16,7 @@ Also look at [Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_A
 
 ### Left and Right 
 
-__Layout yet not defined__ See [Minute Layout Study](https://github.com/agsb/minute/blob/main/docs/Minute.md)
+__Layout yet not defined__ See [Minute Layout Study](https://github.com/agsb/minute/blob/main/notes/Minute.md)
 
 ![image](https://github.com/agsb/minute/blob/main/minimal-9x9-split.png)
 
@@ -28,7 +28,7 @@ All operational systems allow software mapping for keyboard, and keyboards can d
 
 Minute let any key act as single press (click), fast dual clicky (dual tap), keep press (held). All keys acts as modifiers. No auto-repeat allowed.
 
-Some complementary and [random notes](https://github.com/agsb/minute/tree/main/docs) about frequencies, layouts, combos and dances.
+Some complementary and [random notes](https://github.com/agsb/minute/tree/main/notes) about frequencies, layouts, combos and dances.
 
 Minute is not a chorded keyboard, as [stenotype](https://www.artofchording.com/) keyboard. 
 

@@ -4,7 +4,7 @@ _this file is a stub_
 ## What 
 
 This directory group some notes and ideas around development of 
-the [Minute](https://github.com/agsb/minute/blob/main/docs/Minute.md) keyboard.
+the [Minute](https://github.com/agsb/minute/blob/main/notes/Minute.md) keyboard.
 
 ## Why
 
@@ -28,7 +28,7 @@ But many modern designs and layouts still preserve qwerty features.
 
 How optimze and simplify ?
 
-Some notes about [Logics](https://github.com/agsb/minute/blob/main/docs/Logics.md), [Design](https://github.com/agsb/minute/blob/main/docs/Design.md) and [Layout](https://github.com/agsb/minute/blob/main/docs/Layouts.md)
+Some notes about [Logics](https://github.com/agsb/minute/blob/main/notes/Logics.md), [Design](https://github.com/agsb/minute/blob/main/notes/Design.md) and [Layout](https://github.com/agsb/minute/blob/main/notes/Layouts.md)
 
 ## How
 
@@ -37,7 +37,7 @@ that can also use chords as a stenotype keyboard [1].
 
 ### Frequency
 
-A alternative letter [frequency correlation analysis](https://github.com/agsb/minute/blob/main/docs/Frequency.md), gives the follow sequence, using sequencial order of letters in most used word and most used bi-grams with space. Text filtered off for allow spaces, tabulations, returns (new line), and by colapse sucessives spaces and new lines.
+A alternative letter [frequency correlation analysis](https://github.com/agsb/minute/blob/main/notes/Frequency.md), gives the follow sequence, using sequencial order of letters in most used word and most used bi-grams with space. Text filtered off for allow spaces, tabulations, returns (new line), and by colapse sucessives spaces and new lines.
 
     t a o e h n d i b f s r y l w u c m p g k v j x q z
 
@@ -45,7 +45,7 @@ Considering the classic absolute and balanced frequencies, as group by 12 keys a
 
 ### Layers
 
-The [Layers](https://github.com/agsb/minute/blob/main/docs/Frequency.md)
+The [Layers](https://github.com/agsb/minute/blob/main/notes/Frequency.md)
 
 ### Extras
 [Keyboard Layouts](https://docs.google.com/document/d/1Ic-h8UxGe5-Q0bPuYNgE3NoWiI8ekeadvSQ5YysrwII/edit)
