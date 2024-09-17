@@ -55,9 +55,9 @@ forw = forward, tab = tabulation
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | ---  | ---  | ---  | --- | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | -- |
-| t | a | o | e | h | n | d | i | b | f | s | r | layer 1 alpha, shift for uppercase |
-| y | l | w | u | c | m | p | g | k | v | j | x | layer 2 alpha shift for uppercase |
-| q | z | | | | | | | | | | | layer 6 |
+| e | t | a | o | n | h | i | r | s | l | d | u | layer 1 alpha 1, shift for uppercase |
+| c | b | f | y | m | w | p | g | v | k | X | X | layer 2 alpha 2, shift for uppercase |
+| j | x | q | z | ~ | ´ | ` | ^ | _ | - | X | X | layer 3 alpha 3, shilft for uppercase |
 |  |  |  |  |  |  |  |  |  |  |  |  | |
 
 ---
@@ -69,9 +69,9 @@ Reordened to group symbols for prose and programming
 
  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
- | , | . | ) | ( | - | ; | " | : | _ | ' | / | ? | layer 3 symbols |
- |=  | * | ! | # | \ | < | { | \[ | } | \] | > | @ | layer 4 symbols | 
- | + | % | & | $ | \| | ^ | ~ | ` | | | |  | layer 6 |
+ | , | . | ) | ( | - | ; | " | : | _ | ' | X | X | layer 4 symbols 1 |
+ | * | ? | = | / | ! | # | \ | < | [ | { | X | X | layer 5 symbols 2 | 
+ | @ | + | % | & | $ | \| | ^ | ~ | ` |  | X | X | layer 6 symbols 3 |
  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 
 ---
@@ -83,7 +83,7 @@ Note, the "0-1-2-3" used more than 70 % of occurrences. For easy use _0-1-2-3-4-
 
  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
- | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | , | . | layer 5 digits | 
+ | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | . | , | layer 5 digits | 
  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 
 --- 
