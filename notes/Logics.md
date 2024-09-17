@@ -115,12 +115,14 @@ QMK, ZMK, etc uses press-held-release states
 1. AA|BB
 2. AB|BA
 3. AB|AB
-4. (M)*	modify
-5. *(M)	complete
+   
+1. (M)*	modify
+2. *(M)	complete
    1. repeat last key
    2. complete pairs, <> [] {} ()
    3. complete graphos ing the  
    4. access layers
+3. unused bigrams, also as modifiers (M)
 
 
 
