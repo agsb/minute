@@ -108,6 +108,22 @@ RC(0,0) RC(0,1) RC(0,2)
 
 ```
 
+### Modifiers
+
+QMK, ZMK, etc uses press-held-release states
+
+1. AA|BB
+2. AB|BA
+3. AB|AB
+4. (M)*	modify
+5. *(M)	complete
+   1. repeat last key
+   2. complete pairs, <> [] {} ()
+   3. complete graphos ing the  
+   4. access layers
+
+
+
 ### Extras
 
 Examples for USB-HID <https://www.silabs.com/documents/public/application-notes/AN249.pdf>
