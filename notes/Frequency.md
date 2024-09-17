@@ -63,7 +63,7 @@ NOTES.
 
 2. Considering the frequency within words, other bigrams and trigrams show minimal differences.
 
-3. Not found bigrams:
+3. Not found bigrams in NGSL (2809 words):
      **aa ae dn dt hh hs ih ii lh nr sd sr td uh uu**
 
 ## Balance
