@@ -19,7 +19,10 @@ vide:
  ---
 ### metas
 
-Usually 1. shitf, control, alter, gui codes (Sft, Ctl, Alt, Gui) for left and right, 2. lower, raise as lower, upper, adjust layers,
+Usually 
+
+    1. shitf, control, alter, gui codes (Sft, Ctl, Alt, Gui) for left and right, 
+    2. lower, raise as lower, upper, adjust layers,
 
 L = left, R = right, X = not used, MO = momentary change layer
 
@@ -33,19 +36,29 @@ L = left, R = right, X = not used, MO = momentary change layer
 | thumb R | M3 | MO(3) |  | X |  | |
 
 ---
-### navigation
+### navigation ans alli
 
-Not in place yet, order not defined
+Not in place yet, order not defined, X reserved 
 
-forw = forward, tab = tabulation 
+forw = forward, back = backward, tab = tabulation 
 
+| R | M | I |  | I | M | R | 
+| ---  | ---  | --- | ---  | ---  | ---  | ---  | 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| ---  | ---  | --- | ---  | ---  | ---  | ---  | ---  | --- | --- | ---  | --- | --- |
-| escape | delete | backspace | forw tab | back tab | enter |  left | right | up | down | home  | end  |  | 
-| cut | copy | paste | undo | again | page up | page dn | find | replace | insert | save | load | quit |
-| F1 | F2 | F3 | F4 | F5 | F6 | F7 | F8 | F9 | F10 | F11 | F12 |  |
-| F13 | F14 | F15 | F16 | F17 | F18 | F19 | F20 | F21 | F22 | F23 | F24 |  |
-| GUI L | ALT L | CTR L | CTRL R | ALT R | GUI R |  |  |  |  |  |  |  |
+| escape | delete | backspace || home | up | end | 
+| back tab | forw tab | enter || left | down | right | 
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| cut | copy | paste || undo | again | page up | page dn | 
+| find | replace | insert || save | load | quit |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| F7 / F19 | F8 / F20 | F9 / F21 || F10 / F22 | F11 / F23 | F12 / F24 | 
+| F1 / F13 | F2 / F14 | F3 / F15 || F4 / F16 | F5 / F17 | F6 / F18| 
+|  |  |  |  |  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| MO 1 /  MO 3 | MO up / MW up | MO 2 / MO 4 |  | MO 3 | MW up | MO 4 |  
+| MO lf | MO dn | MO rt |  | MW lf | MW dn | MW rt | 
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| GUI L | ALT L | CTR L || CTRL R | ALT R | GUI R |  
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ---
