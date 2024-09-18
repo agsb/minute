@@ -9,12 +9,19 @@ All controls, actions and functions are defined by virtual layers, and using USB
 
 The magics for [tap-hold](https://docs.qmk.fm/tap_hold), press(down)-held-release(up), held time compares with tapping-term.
 
-The sequences for two keys, by down and up order, are 1. distinct taps AA|BB, 2. nested taps AB|BA, 3. rolling AB|AB. 
+The sequences for two keys, by down and up order, are 
+
+    1. distinct taps AA|BB, 
+    2. nested taps AB|BA, 
+    3. rolling AB|AB. 
+
 Please, don't try with more keys.
 
 vide:
-<https://docs.qmk.fm/config_options#behaviors-that-can-be-configured>
-<https://thomasbaart.nl/2018/12/09/qmk-basics-tap-and-hold-actions/>
+
+  <https://docs.qmk.fm/config_options#behaviors-that-can-be-configured>
+
+  <https://thomasbaart.nl/2018/12/09/qmk-basics-tap-and-hold-actions/>
                 
  ---
 ### metas
