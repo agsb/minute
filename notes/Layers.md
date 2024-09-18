@@ -57,17 +57,18 @@ forw = forward, back = backward, tab = tabulation
 | back tab | forw tab | enter || left | down / Pg | right |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| escape | insert| undo / redo | | save | quit | again | Editor Layer |
-| cut | copy | paste || find | | |  |
+| escape | insert| undo  | | redo | quit | again | Editor Layer |
+| cut | copy | paste || find | save | |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | F7 / F19 | F8 / F20 | F9 / F21 || F10 / F22 | F11 / F23 | F12 / F24 | Function Layer | 
 | F1 / F13 | F2 / F14 | F3 / F15 || F4 / F16 | F5 / F17 | F6 / F18| 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  | MO 1 / 3 | MO / MW up | MO 2 / 4 |  Mouse Layer  
-|  |  |  |  | MO / MW lf | MO / MW dn | MO / MW rt | |
-|  |  |  |  |  |  |  |  |  |  |  |  | |
+| Bri + | Aud + | Spk |  | MO 1 / 3 | MO / MW up | MO 2 / 4 |  Mouse Layer  
+| Bri - | Aud - | Aud |  | MO / MW lf | MO / MW dn | MO / MW rt | |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SHF + GUI L | SHF + ALT L | SHF + CTR L || SHF + CTRL R | SHF + ALT R | SHF + GUI R |  Modifiers Layers |  
 | GUI L | ALT L | CTR L || CTRL R | ALT R | GUI R |   |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
