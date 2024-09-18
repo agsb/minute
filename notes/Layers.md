@@ -49,27 +49,28 @@ Not in place yet, order not defined, X reserved
 
 forw = forward, back = backward, tab = tabulation 
 
-| R | M | I |  | I | M | R | 
-| ---  | ---  | --- | ---  | ---  | ---  | ---  | 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-| escape | delete | backspace || home | up / Pg| end | 
-| back tab | forw tab | enter || left | down / Pg | right | 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-| escape | insert| undo / redo | | save | quit | again |
-| cut | copy | paste || find | | | 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-| F7 / F19 | F8 / F20 | F9 / F21 || F10 / F22 | F11 / F23 | F12 / F24 | 
+| R | M | I |  | I | M | R | reason |
+| ---  | ---  | --- | ---  | ---  | --- | ---  | ---  | 
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| escape | delete | backspace || home | up / Pg| end | Always Layer | 
+| back tab | forw tab | enter || left | down / Pg | right |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| escape | insert| undo / redo | | save | quit | again | Editor Layer |
+| cut | copy | paste || find | | |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| F7 / F19 | F8 / F20 | F9 / F21 || F10 / F22 | F11 / F23 | F12 / F24 | Function Layer | 
 | F1 / F13 | F2 / F14 | F3 / F15 || F4 / F16 | F5 / F17 | F6 / F18| 
-|  |  |  |  |  |  |  |  |  |  |  |  |  
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| MO 1 / 3 | MO / MW up | MO 2 / 4 |  | |  |  |  
-| MO / MW lf | MO / MW dn | MO / MW rt |  | | |  | 
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| GUI L | ALT L | CTR L || CTRL R | ALT R | GUI R |  
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | MO 1 / 3 | MO / MW up | MO 2 / 4 |  Mouse Layer  
+|  |  |  |  | MO / MW lf | MO / MW dn | MO / MW rt | |
+|  |  |  |  |  |  |  |  |  |  |  |  | |
+| SHF + GUI L | SHF + ALT L | SHF + CTR L || SHF + CTRL R | SHF + ALT R | SHF + GUI R |  Modifiers Layers |  
+| GUI L | ALT L | CTR L || CTRL R | ALT R | GUI R |   |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ---
 #### alpha
