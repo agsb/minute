@@ -52,18 +52,21 @@ forw = forward, back = backward, tab = tabulation
 | R | M | I |  | I | M | R | 
 | ---  | ---  | --- | ---  | ---  | ---  | ---  | 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| escape | delete | backspace || home | up | end | 
-| back tab | forw tab | enter || left | down | right | 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| cut | copy | paste || undo | again | page up | page dn | 
-| find | replace | insert || save | load | quit |
+| escape | delete | backspace || home | up / Pg| end | 
+| back tab | forw tab | enter || left | down / Pg | right | 
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| escape | insert| undo / redo | | save | quit | again |
+| cut | copy | paste || find | | | 
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | F7 / F19 | F8 / F20 | F9 / F21 || F10 / F22 | F11 / F23 | F12 / F24 | 
 | F1 / F13 | F2 / F14 | F3 / F15 || F4 / F16 | F5 / F17 | F6 / F18| 
 |  |  |  |  |  |  |  |  |  |  |  |  |  
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| MO 1 /  MO 3 | MO up / MW up | MO 2 / MO 4 |  | MO 3 | MW up | MO 4 |  
-| MO lf | MO dn | MO rt |  | MW lf | MW dn | MW rt | 
+| MO 1 / 3 | MO / MW up | MO 2 / 4 |  | |  |  |  
+| MO / MW lf | MO / MW dn | MO / MW rt |  | | |  | 
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | GUI L | ALT L | CTR L || CTRL R | ALT R | GUI R |  
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -71,14 +74,17 @@ forw = forward, back = backward, tab = tabulation
 ---
 #### alpha
 
-**t a o e h n d i b f s r y l w u c m p g k v j x q z**
+**E T O A N H I R S L D U C B F Y M W P G V K Z X J Q Z**
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-| ---  | ---  | ---  | --- | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | -- |
-| e | t | a | o | n | h | i | r | s | l | d | u | layer 1 alpha 1, shift for uppercase |
-| c | b | f | y | m | w | p | g | v | k | X | X | layer 2 alpha 2, shift for uppercase |
-| j | x | q | z | ~ | ´ | ` | ^ | _ | - | X | X | layer 3 alpha 3, shilft for uppercase |
-|  |  |  |  |  |  |  |  |  |  |  |  | |
+|  |  |  |  |  |  |  |  |
+| ---  | ---  | ---  | --- | ---  | ---  | ---  | --- |
+| i | r | s || l | d | u | layer 1 alpha 1, shift for uppercase |
+| e | t | a || o | n | h |  |
+| c | b | f || y | m | w | layer 2 alpha 2, shift for uppercase | 
+| p | g | v || k | X | X |  |
+| X | j | x || q | z | X | layer 3 alpha 3, shilft for uppercase | 
+|  | _ | - || . | , | |  |
+|  |  |  |  |  |  |  |  |  | |  | |
 
 ---
 #### punctuations
@@ -87,11 +93,14 @@ forw = forward, back = backward, tab = tabulation
 
 Reordened to group symbols for prose and programming 
 
- |  |  |  |  |  |  |  |  |  |  |  |  |  | 
- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
- | , | . | ) | ( | - | ; | " | : | _ | ' | X | X | layer 4 symbols 1 |
- | * | ? | = | / | ! | # | \ | < | [ | { | X | X | layer 5 symbols 2 | 
- | @ | + | % | & | $ | \| | ^ | ~ | ` |  | X | X | layer 6 symbols 3 |
+ |  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+ | --- | --- | --- | --- | --- | --- | --- | --- | 
+ | , | . | ) || ( | - | ; | layer 4 symbols 1 |
+ | " | : | _ || ' | X | X |  |
+ | * | ? | = || / | ! | # | layer 5 symbols 2 |
+ | < | [ | { || X | X | \ |  | 
+ | @ | + | % || & | $ | \|   | layer 6 symbols 3 |
+ | ^ | ~ | ` ||  | X | X |  |
  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 
 ---
@@ -101,10 +110,11 @@ Reordened to group symbols for prose and programming
 
 Note, the "0-1-2-3" used more than 70 % of occurrences. For easy use _0-1-2-3-4-5-6-7-8-9__ with also _dot_ and _comma_.
 
- |  |  |  |  |  |  |  |  |  |  |  |  |  | 
- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
- | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | . | , | layer 5 digits | 
- |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | 
+ | --- | --- | --- | --- | --- | --- | --- | --- | 
+ | 4 | 5 | 6 || 7 | 8 | 9 | layer 5 digits | 
+ |  , |  0 | 1 || 2 | 3 | . |  |
+ |  |  |  |  |  |  |  |  |  
 
 --- 
 ## Extras
