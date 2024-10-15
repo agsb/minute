@@ -41,7 +41,7 @@ The fingers index, middle, ring and thumb moves between two rows, pinky is one r
 
 __"By ETAOIN SRHLDCU !"__
 
-Romak[https://github.com/rafaelromao/romak] takes the layout to a confortable experience of use and easy learn.
+[Romak](https://github.com/rafaelromao/romak) takes the layout to a confortable experience of use and easy learn.
 
 The [Engram](https://engram.dev/) is systematic approach for confortable keyboard layout, done by [Arno Klein](https://www.preprints.org/manuscript/202103.0287/v1), for classic 58 keys or 68 ergonomic keyboards, but with a confortable split layout as [Miryoku](https://github.com/manna-harbour/qmk_firmware/tree/miryoku/users/manna-harbour_miryoku).
 
