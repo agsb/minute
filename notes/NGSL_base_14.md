@@ -19,6 +19,8 @@
 | d | 3.1340 |
 | u | 2.8343 |
 | c | 2.7716 |
+|   |  |
+|   |  |
 | b | 2.7227 |
 | f | 2.5903 |
 | y | 2.3438 |
@@ -32,6 +34,8 @@
 | j | 0.1295 |
 | q | 0.0885 |
 | z | 0.0419 |
+
+All following results are without the first 14 lettters
 
  ## bigrams with space
 
