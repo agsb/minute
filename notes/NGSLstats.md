@@ -18,6 +18,7 @@
 | s | 4.1669 |
 | l | 4.0262 |
 | d | 3.1340 |
+|  |  | 
 | u | 2.8343 |
 | c | 2.7716 |
 | b | 2.7227 |
@@ -34,7 +35,7 @@
 | q | 0.0885 |
 | z | 0.0419 |
 
-All following results are without the first 12 lettters |
+__All following results are without the first 12 lettters__
 
 ## bigrams with space
 
@@ -55,9 +56,9 @@ All following results are without the first 12 lettters |
 | x | 0.0165 |
 | z | 0.0008 |
 
-## bigrams without space |
+## bigrams without space 
 
-### bigrams firt letter  |
+### bigrams first letter
 
 | char | percent |
 | -- | -- |
@@ -74,7 +75,7 @@ All following results are without the first 12 lettters |
 | w | 0.0020 |
 | z | 0.0010 |
 
-### bigrams last letter  |
+### bigrams last letter
 
 | char | percent |
 | -- | -- |
@@ -92,8 +93,9 @@ All following results are without the first 12 lettters |
 | q | 0.0022 |
 | z | 0.0012 |
 
-## trigrams with space, first letter |
+## trigrams with space, first letter
 
+| char | percent |
 | -- | -- |
 | b | 0.2658 |
 | c | 0.1142 |
@@ -105,8 +107,9 @@ All following results are without the first 12 lettters |
 | k | 0.0025 |
 | z | 0.0012 |
 
-## trigrams with space, last letter |
+## trigrams with space, last letter
 
+| char | percent |
 | -- | -- |
 | y | 0.3360 |
 | k | 0.0946 |
@@ -115,23 +118,26 @@ All following results are without the first 12 lettters |
 | b | 0.0036 |
 | g | 0.0019 |
 
-## trigrams without space, firt letter  |
+## trigrams without space, first letter
 
+| char | percent |
 | -- | -- |
 | p | 0.0058 |
 | c | 0.0051 |
 | y | 0.0020 |
 
-## trigrams without space, middle letter  |
+## trigrams without space, middle letter
 
+| char | percent |
 | -- | -- |
 | p | 0.0058 |
 | k | 0.0033 |
 | m | 0.0020 |
 | y | 0.0018 |
 
-## trigrams without space, last letter  |
+## trigrams without space, last letter
 
+| char | percent |
 | -- | -- |
 | y | 0.0070 |
 | g | 0.0021 |
