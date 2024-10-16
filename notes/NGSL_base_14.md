@@ -81,7 +81,7 @@ All following results are without the first 14 lettters
 | w | 0.0048 |
 | z | 0.0012 |
 
- ## trigrams with space first letter
+ ## trigrams with space, first letter
 
 | char | percent |
 | -- | -- |
@@ -93,7 +93,7 @@ All following results are without the first 14 lettters
 | k | 0.0025 |
 | z | 0.0012 |
 
- ## trigrams firt letter last letter
+ ## trigrams with space, last letter
 
 | char | percent |
 | -- | -- |
