@@ -25,7 +25,7 @@ An ascii text (26 letters and a space), if assume that all characters are equall
 
 ## corpus counts
 
-these are counts from NSGL lists, without multuply by frequencies
+these are counts from NSGL lists, without multiply by frequencies
 
     31241 124964 854573 ngslf.v
      2801  11204  74935 ngslp.v
