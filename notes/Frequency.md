@@ -98,7 +98,7 @@ Note that oxford and guttemberg do not shows __@ ^ ` ´ ~__
 
 With the same processing (explained above):
 
-   **a, . ) ( - ; " : _ ' * ? = / ! # \ > } ] @ [ + { < % & ` $ | ^ ~a**
+   ** , . ) ( - ; " : _ ' * ? = / ! # \ > } ] @ [ + { < % & ` $ | ^ ~ **
 
 **0123456789**
 
